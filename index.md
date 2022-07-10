@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: "Ngee Ann Primary School "
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
