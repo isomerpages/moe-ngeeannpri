@@ -112,7 +112,7 @@ UNIT: Friends or Foes?
 
   
 
-9.    Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Jan/OptOut21.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **14/01/2022**.
+9.    Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/OptOut21.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **14/01/2022**.
 
   
 
