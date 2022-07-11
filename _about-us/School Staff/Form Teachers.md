@@ -35,4 +35,9 @@ third_nav_title: School Staff
 |  |  |
 | -------- | -------- | 
 |P3 Unity|[Mr Teo Ee Ming](mailto:teo_ee_ming@moe.edu.sg)<br>[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
-|
+|P3 Respect|[Ms Chen Hui Ting](mailto:chen_hui_ting@moe.edu.sg)<br> [Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)<br>[Mdm Joycelyn Poh Xue Ying](mailto:joycelyn_poh_xue_ying@moe.edu.sg)
+|P3 Honesty|[Mr Parapallil Kuruvilla Abraham](mailto:parapallil_kuruvilla_abraham@moe.edu.sg)<br>[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
+|P3 Love|[Mr Mohammad Shahrin Bin Jasmani](mailto:mohammad_shahrin_jasmani@moe.edu.sg)<br>[Ms Tan What Goh](mailto:tan_what_goh@moe.edu.sg)
+|P3 Joy|[Mr Pang Jiun Khai](mailto:pang_jiun_khai@moe.edu.sg)<br>[Mdm Sadhana Bte Yusop](mailto:sadhana_yusop@moe.edu.sg)
+|P3 Tenacity|[Mr Chan Boon Keat, Andrew](mailto:chan_boon_keat@moe.edu.sg)<br>[Mdm Maisarah Bte Supani](mailto:maisarah_supani@moe.edu.sg)<br>[Mrs Yeo-Goh Wenmei Abigail](mailto:goh_wenmei_abigail@moe.edu.sg)
+
