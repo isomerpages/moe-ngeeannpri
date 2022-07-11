@@ -51,3 +51,15 @@ third_nav_title: School Staff
 |P4 Love|[Mr Low Boon Siang](mailto:low_boon_siang@moe.edu.sg)<br>[Mdm Ng Yee Meei](mailto:ng_yee_meei@moe.edu.sg)
 |P4 Joy|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)<br>[Mdm Siti Azaliyah](mailto:siti_azaliyah_abdul_majid@moe.edu.sg)
 |P4 Tenacity|[Ms Manjusri](mailto:manjusri_veeragoo_sg@moe.edu.sg)<br>[Mdm Megalai d/o Thangavelu](mailto:megalai_thangavelu@moe.edu.sg)
+
+**Primary Five**
+
+|  |  |
+| -------- | -------- | 
+|P5 Unity|[Mdm Norshahanaz Bte Md Noordin](mailto:norshahanaz_md_noordin@moe.edu.sg)<br>[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
+|P5 Respect|[Mr Hoon Wei Sheng](mailto:hoon_wei_sheng@moe.edu.sg)<br>[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
+|P5 Honesty|[Mr Rahul Rajasabhai](mailto:rahul_rajasabhai@moe.edu.sg)<br>[Mrs Anisa Begum](mailto:anisa_begum@moe.edu.sg)
+|P5 Love|[Mr Ng Gem Peng Derick](mailto:ng_gem_peng_derick@moe.edu.sg)<br>[Ms Huang Xin](mailto:xin_huang@moe.edu.sg)
+|P5 Joy|[Mr Kok Hoe Ming](mailto:kok_hoe_ming@moe.edu.sg)<br>[Mdm Liang Guifang Evelyn](mailto:liang_guifang_evelyn@moe.edu.sg)
+|P5 Tenacity|[Ms Kuah Soh Ling, Sharon](mailto:kuah_soh_ling@moe.edu.sg)<br>[Mdm Nurazah Bte Abdul Aziz](mailto:nurazah_abdul_aziz@moe.edu.sg)
+|P5 Care|[Mr Chia Tet Soon, Anthony](mailto:chia_tet_soon_anthony@moe.edu.sg)<br>[Mrs Alyssa Wijaya](mailto:chng_hwee_hwee@moe.edu.sg)
