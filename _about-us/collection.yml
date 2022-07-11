@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/.keep
       - School Staff/Key Personnel.md
       - School Staff/Form Teachers.md
       - School Staff/Other Teaching Staff.md
