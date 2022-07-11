@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Programme for Active Learning (PAL).md
       - CCE/MOE Sexuality Education.md
       - CCE/Cyberwellness.md
       - CCE/Form Teacher Guidance Period (FTGP).md
