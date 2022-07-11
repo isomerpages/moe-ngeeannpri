@@ -28,3 +28,34 @@ third_nav_title: School Staff
 |Year Head (P3 & P4)|[Mdm Maisarah](mailto:maisarah_supani@moe.edu.sg)
 |Year Head (P5 & P6)|[Mr Kenneth Goh](mailto:kenneth_goh_tai_peng@moe.edu.sg)
 |CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
+
+**Subject/Level Heads**
+
+| | | 
+| -------- | -------- | 
+|English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
+|Mathematics|Vacant
+|Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
+|Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
+|Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
+|Physical Education|[Mr Shahrudin](mailto:shahrudin_salleh@moe.edu.sg)
+|Aesthetic|[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
+|ICT|Vacant
+|Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
+|Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
+|Assistant Year Head (P5 & P6)|Vacant
+|Student Development|Vacant
+|CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
+
+**Subject/Level Heads**
+
+| | | 
+| -------- | -------- | 
+|Lead Teacher (EL)|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
+|English|Vacant
+|Educational Support|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)
+|Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
+|Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
+|Chinese Language|Vacant
+|Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
+|CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
