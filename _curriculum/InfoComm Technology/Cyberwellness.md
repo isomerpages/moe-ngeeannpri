@@ -38,3 +38,5 @@ Interland is a free web-based game consists of 4 mini-games that allows players 
 |2|Mindful Mountain|-   Being mindful of what is shared and with whomUnderstanding the consequences of sharing<br>-   Understanding that some information is extra sensitive
 |3|Kind Kingdom|-   Understanding that the Internet amplifies kindness and negativity<br>-   Not tolerating bullying and speaking up<br>-   Blocking and reporting mean-spirited behaviour
 |4|Tower of Treasure|-   Taking responsibility to protect one’s information<br>-   Knowing how to make a strong and memorable password
+
+It should take approximately 15 to 20 minutes per game or a total of 1 to 1.5 hours for students to complete the 4 mini-games, and the link to Interland is: [g.co/interland](https://beinternetawesome.withgoogle.com/en_us/interland)
