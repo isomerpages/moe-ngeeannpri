@@ -116,6 +116,6 @@ UNIT: Friends or Foes?
 
   
 
-10.   Parents can contact the school at naps@moe.edu.sg(mailto:naps@moe.edu.sg) or Mdm Noor Aini (SEd) coordinator at 6441 867 for discussion or to seek clarification about the school’s sexuality education programme. 
+10.   Parents can contact the school at [naps@moe.edu.sg](mailto:naps@moe.edu.sg) or Mdm Noor Aini (SEd) coordinator at 6441 867 for discussion or to seek clarification about the school’s sexuality education programme. 
 
 11.   Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
