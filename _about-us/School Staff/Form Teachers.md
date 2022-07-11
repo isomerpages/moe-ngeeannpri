@@ -17,7 +17,7 @@ third_nav_title: School Staff
 |P1 Care| [Ms Hannah Yeoh Shih En](mailto:hannah_yeoh_shih_en@moe.edu.sg)<br>[Mrs Looi-Tan Lee Ling](mailto:looi-tan_lee_ling@moe.edu.sg)
 |P1 Kindness|[Mr Chan Sin Liang](mailto:chan_sin_liang@moe.edu.sg)<br>[Mdm Mastura](mailto:mastura_noordin@moe.edu.sg)
 
-**Primary One**
+**Primary Two**
 
 |  |  |
 | -------- | -------- | 
@@ -29,3 +29,10 @@ third_nav_title: School Staff
 |P2 Tenacity|[Mdm Liyana Bte Sajupri](mailto:liyana_sajupri@moe.edu.sg)<br>[Mr Shafiruddin B Rahim](mailto:shafiruddin_b_rahim@moe.edu.sg)
 |P2 Care|[Mdm Sharifah Zaharah Bte Syed Ahmad](mailto:sharifah_zaharah_syed_ahma@moe.edu.sg)<br>[Mdm Ng Beng Koon, Mindy](mailto:ng_beng_koon@moe.edu.sg)
 |P2 Kindness|[Mrs Angeline Pang](mailto:angeline_pang@moe.edu.sg)<br>[Mdm Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
+
+**Primary Three**
+
+|  |  |
+| -------- | -------- | 
+|P3 Unity|[Mr Teo Ee Ming](mailto:teo_ee_ming@moe.edu.sg)<br>[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
+|
