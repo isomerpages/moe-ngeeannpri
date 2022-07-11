@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Education Career Guidance (ECG).md
       - CCE/.keep
