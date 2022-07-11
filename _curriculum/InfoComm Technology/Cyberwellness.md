@@ -19,3 +19,20 @@ The school adopts MOE’s Cyber Wellness Framework in education our students on 
   
 
 In order for the students to ‘sense’ and ‘think’, they are provided opportunities to analyze, evaluate and reflect on Cyber Wellness issues. Different platforms are provided to allow students to translate their understanding into actions that will keep them safe while being online. These platforms aim to let students take on the role as advocates to share the messages of Cyber Wellness with their peers, family and public.
+
+![](/images/NAPS.png)
+
+NAPS Approach to Cyber Wellness programme for students  
+
+**Resources for Students**
+
+Interland
+
+![](/images/Interland.jpeg)
+
+Interland is a free web-based game consists of 4 mini-games that allows players to put fundamental lessons of digital safety into practice. The learning outcomes include:
+
+| S/N| Mini-Game| Learning Objectives |
+| -------- | -------- | -------- |
+| 1    | Reality River   | -   Understanding not everything is true online<br>-   Recognising the signs of a scam<br>-   Understanding phishing and how to report it   |
+
