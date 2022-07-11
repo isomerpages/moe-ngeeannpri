@@ -44,3 +44,7 @@ The FTGP is also designed with activities for pupils to acquire skills that will
 *   better understand their family and friends (Social Awareness);
 *   learn ways to work with their family and friends (Relationship Management)
 *   make appropriate and responsible decisions (Responsible Decision Making)
+
+![](/images/FTGP.png)
+
+![](/images/ftgp.jpeg)
