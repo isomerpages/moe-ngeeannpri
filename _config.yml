@@ -1,6 +1,6 @@
 title: "Ngee Ann Primary School "
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/school logo.png
 colors:
   primary-color: "#f8e71c"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-ngeeannpri-staging.netlify.app
 prod: https://moe-ngeeannpri-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/school logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
