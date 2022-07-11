@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff/Form Teachers.md
       - School Staff/Other Teaching Staff.md
       - School Staff/Administrative Team.md
       - School Staff/.keep
