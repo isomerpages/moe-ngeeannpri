@@ -18,3 +18,17 @@ third_nav_title: School Staff
 | [Ms Cherine Tan](mailto:tan_yin_huay_cherine@moe.edu.sg)|[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
 |Mr Chong Ming Wayne Troy|Mdm Tan Hui Theng
 |Ms Chiam Tsu Hua
+
+**Other Chinese Language Teachers**
+
+|  |  | 
+| -------- | -------- |
+|[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Chng Eng Choo](mailto:chng_eng_choo@moe.edu.sg)
+|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)|Mr Mohd Ishak
+
+**Special Needs Officer**
+
+|  |  | 
+| -------- | -------- |
+|[Mdm Nur Shereen Bte Mohd Shah](mailto:nur_shereen_mohamed_shah@moe.edu.sg)|[Ms Nurhanim Bte Md Ali](mailto:nurhanim_mohd_ali@moe.edu.sg)
+|[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)|[Mdm Siti Aminah](mailto:siti_aminah_mahfud@moe.edu.sg)
