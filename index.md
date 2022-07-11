@@ -2,7 +2,7 @@
 layout: homepage
 title: "Ngee Ann Primary School "
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/school logo.png
 permalink: /
 notification: ""
 sections:
@@ -25,4 +25,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
