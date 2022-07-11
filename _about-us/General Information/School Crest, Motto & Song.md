@@ -22,3 +22,27 @@ The School Crest is in the shape of a shield. There are 3 lines on the crest whi
   
 
 The motto "ONWARD IN UNITY" is to remind the pupils that they have to work in unity to bring about success in their endeavour.
+
+**OUR SCHOOL SONG**
+
+<img src="/images/schsong_thumb.jpeg" 
+     style="width:50%;float:right">
+		 
+We're the pupils of Ngee Ann Primary,  
+Young though we may be.  
+We're the pillars of society  
+Not lacking in humility.  
+  
+Ngee Ann Primary,  
+Ngee Ann Primary,  
+Our pride you’ll always be.  
+To seek for knowledge as rule  
+Diligent we must be.  
+Bring honour to our beloved school,  
+This our aim shall be.  
+  
+Ngee Ann, Ngee Ann,  
+Our pride you’ll always be.  
+Ngee Ann, Ngee Ann,  
+Our pride you'll always be.
+
