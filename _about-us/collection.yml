@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/Opening Hours of School Gate.md
       - General Information/Financial Information.md
       - General Information/.keep
       - School Staff/Key Personnel.md
