@@ -33,3 +33,45 @@ CCE lessons are conducted in the official Mother Tongue Languages (MTL). For pup
 **Features of the CCE Syllabus:**
 
 Pupils will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
+
+![](/images/cce.gif)
+
+The 3 Big Ideas, Identity, Relationships and Choices, are core concepts of the syllabus. They are interconnected and impact one another. Pupils need to know who they are in order to relate positively with others. Relationships they forge shape their identity and influence the choices they make. The ability to make good choices impacts on their understanding of their own identity and the relationships they form.
+
+  
+
+  
+
+**Approach:**
+
+Drawn from the Constructivist Theory which posits that each learner individually (and socially) constructs knowledge as he/she learns, the CCE pedagogy is process-based and focuses on the “why” and “how”. The aim is to facilitate the learning of skills and internalisation of values through action and reflection as learners learn best when they are actively engaged. The teaching approaches are as below:
+
+  
+
+*   Story Telling Approach
+
+*   Consideration Approach
+
+*   Cognitive Development Approach
+
+*   Experiential Learning Approach
+
+*   Modified Values Clarification Approach
+
+  
+
+Apart from the formal teaching of CCE, school-wide programmes provide pupils with opportunities for experiential learning so that they are able to internalise the values taught and translate them into action. Below are the programmes and activities that contribute to the whole-school approach in values education:
+
+  
+
+*   Values-in-action (VIA)
+
+*   National Education (NE)
+
+*   Co-curriculum Activity (CCA)
+
+*   Form Teacher Guidance Period (FTGP)
+
+*   Character and Citizenship Education (CCE)
+
+*   Programme for Active Learning (PAL)
