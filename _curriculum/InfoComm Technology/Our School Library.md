@@ -16,7 +16,7 @@ You can search for books and its availability. You can find book recommendations
 
 SERR can be assessed from OPAC website.  It contains online resources that you may want to explore for your learning and leisure reading needs.  There are also eBooks, audio books, videos and other internet resources available. How to access? Simply go to OPAC and click on the SERR icon.  Many interesting resources await you at SERR!
 
-Need more information? [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/Library/OPAC%20ppt%20presentation.pdf)!
+Need more information? [Click Here]()!
 
 Visit the OPAC website and have fun learning!
 
