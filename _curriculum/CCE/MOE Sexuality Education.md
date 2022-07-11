@@ -58,7 +58,30 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 7.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
-At Ngee Ann Primary School, the following lessons from the Growing Years Programme will be taught in 2022:
-----------------------------------------------------------------------------------------------------------
+**At Ngee Ann Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
 
-### **Primary 5**
+**Primary 5**
+
+UNIT: Gosh! I Am Changing
+
+| **LESSONS / DURATION**| **LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
+| -------- | -------- | -------- |
+| What Is Happening To Me?<br>(30 min)     | - know what puberty is<br>- identify the physical changes during puberty     |Term 1 Week 8    |
+|What Can I Do? (Part 1)<BR>(30 min)|-  identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 4
+|What Can I Do? (Part 2)<br>(30 min)|- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 6
+|Main Task<br>(30 min)|Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 3 Week 5
+
+UNIT: Where I Belong
+
+| **LESSONS / DURATION**| **LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
+| -------- | -------- | -------- |
+|What Are Families?<br>(30 min)|- know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need|Term 3 Week 7
+|What is My Role?<br>(30 min)|- know that gender is about being male or female<br>- choose not to stereotype by gender|Term 4 Week 3
+
+
+UNIT: How Do I Keep Myself Safe?
+
+| **LESSONS / DURATION**| **LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
+| -------- | -------- | -------- |
+|What is Safety?<br>(30 min)|- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse|Term 4 Week 5
+|Stop It! Run! Tell!<br>(30 min)|- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm|Term 4 Week 6
