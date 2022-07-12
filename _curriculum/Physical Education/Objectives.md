@@ -4,22 +4,6 @@ permalink: /curriculum/Physical-Education/Objectives
 description: ""
 third_nav_title: Physical Education
 ---
-**“To Be Fit, To Be Strong!”**
-
-  
-
-Ngee Ann Primary Physical Education Department aims to develop each pupil with the ability to:
-
-  
-
-1.  develop and maintain physical health and fitness through active participation in physical activities;
-2.  demonstrate resilience, commitment, integrity and respect through sports; and
-3.  demonstrate confidence and positive self-esteem through body awareness control.
-
-  
-
-Through engagement in PE activities, we aim to nurture pupils’ character so as to strengthen their social and emotional competencies.
-
 **_“To Be Fit, Healthy and Happy”_**
 
   
