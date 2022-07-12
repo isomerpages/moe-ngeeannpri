@@ -4,8 +4,7 @@ permalink: /curriculum/CCE/Objectives
 description: ""
 third_nav_title: CCE
 ---
-
-The CCE curriculum emphasizes the inculcation of core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for students' character and citizenship development, to better prepare our students to thrive in a fast-changing and highly-connected world. The various key programmes such as Character and Citizenship Education (CCE) lessons, Values-in-action (VIA), Social Studies (SS), Co-curricular Activities (CCA). Learning Journeys (LJs), P1 and P2 Programme for Active Learning (PAL) and Form Teacher Guidance Period (FTGP) are in place to inculcate values and build competencies in our students.
+The Character and Citizenship Education (CCE) curriculum emphasizes the inculcation of core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for students' character and citizenship development, to better prepare our students to thrive in a fast-changing and highly-connected world. The various key programmes such as Character and Citizenship Education (CCE) lessons, Values-in-action (VIA), Social Studies (SS), Co-curricular Activities (CCA). Learning Journeys (LJs), P1 and P2 Programme for Active Learning (PAL) and Form Teacher Guidance Period (FTGP) are in place to inculcate values and build competencies in our students.
 
   
 
