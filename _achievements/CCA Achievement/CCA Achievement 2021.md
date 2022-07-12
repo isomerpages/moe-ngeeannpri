@@ -65,3 +65,5 @@ Isa Kazu Mohd Faizal of P3 Honesty has done the school proud through his achieve
 |72nd National Schools Individuals (NSI) Chess Tournament 2021|Local|6th position (East Zone)
 |Kejohanan Catur Atas Talian Piala Timbalan Menteri Wilayah Persekutuan 2021 (U9 Category)|International|36th position
 |IYCKL Age-Group Online Chess Championship 2021 (U9 Category)|International|40th position
+
+Tse Hing Hon represented the school in the National School Games Taekwondo (Poomsae) Championships 2021 and achieved 3rd position.
