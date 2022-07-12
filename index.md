@@ -15,4 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links
+        - title: Events
+          description: ""
+          url: /Events
 ---
