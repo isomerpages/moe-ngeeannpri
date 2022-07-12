@@ -21,3 +21,14 @@ Our Senior boys did the school proud by coming in second in the 2021 East Zone T
 |7|Chen Zhiqi|P6 Honesty
 |8|Chong Phok Kai|P6 Honesty
 |9|Jordan Soh Zheng Yu|P6 Honesty
+
+The NAPS Wushu team also did the school proud in the NSG Wushu Competition 2021.
+
+
+
+|  |Name | Class | Award
+| -------- | -------- | -------- | --- | 
+| 1     | Cholene Aw Rui En     | P6 Respect     |1st – Senior Girls 42-style Taijijian<br>2nd – Senior Girls 42-style Taijiquan
+|2|Athena Heng|P6 Honesty|2nd – Senior Girls International Sword
+
+
