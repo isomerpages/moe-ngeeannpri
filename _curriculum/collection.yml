@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mathematics/Core Math Programme.md
       - Mathematics/Math Learning Support Programme.md
       - Mathematics/.keep
       - Science/Vision, Mission and Objectives.md
