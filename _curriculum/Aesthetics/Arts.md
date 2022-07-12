@@ -4,3 +4,11 @@ permalink: /curriculum/Aesthetics/Arts
 description: ""
 third_nav_title: Aesthetics
 ---
+Our Art Instructional Programme offers our students a comprehensive programme which allows them to acquire skills, techniques and exposure to different art forms (2-dimensional & 3-dimensional art) through drawing, painting, crafts and digital art.
+
+
+| Level | Key Programme | Implementation | Objectives|
+| -------- | -------- | -------- | -------- |
+| Primary 1     | Drawing & Crafts     | Term 1 to 4     |•     Learn the fundamental skills and techniques in the Elements of Art through a journey of self-discovery and experiential learning<br>•     Build students’ awareness of self and confidence
+|Primary 2|3D Sculpture<br>MS Paint|Term 2<br>Term 3|•     Learn about 2D & 3D art form in different medium<br>•     Build students’ awareness of self & community<br>•     Provide opportunities for students to learn ICT software
+
