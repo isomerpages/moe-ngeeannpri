@@ -13,3 +13,8 @@ The ICT department will also promote the inculcation of 21st Century skills of t
 
 <img src="/images/img%2006.jpeg" 
      style="width:70%">
+		 
+Teachers will play an integral role in the process. They will explore various assessment modes such as MC online portal and create multiple and appropriate platforms such as Google Docs to promote collaborative learning.
+
+<img src="/images/IMG%2004.jpeg" 
+     style="width:70%">
