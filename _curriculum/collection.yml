@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science/Programmes.md
       - Science/.keep
       - Mother Tongue Languages/Objectives.md
       - Mother Tongue Languages/Chinese Language.md
