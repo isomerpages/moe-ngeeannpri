@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics/Aesthetics.md
+      - Aesthetics/Objectives.md
       - Aesthetics/Music.md
       - Aesthetics/Arts.md
       - Aesthetics/PAL & NAME Programme.md
