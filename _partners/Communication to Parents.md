@@ -74,43 +74,26 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 **LM Letter to Parents**
 
 P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P1%20Term%202%20Level%20Letter%202022_edited.pdf) [Term 3](/files/P1%20Term%203%20Level%20Letter%202022.pdf)
-
-P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P2%20Term%202%20Level%20Letter%202022_edited.pdf)[Term 3](/files/P2%20Term%203%20Level%20Letter%202022.pdf)
-
-P3 - [Term 1](/files/P3%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P3%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P3%20Term%203%20Level%20Letter%202022.pdf)
-
-P4 - [Term 1](/files/P4%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P4%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P4%20Term%203%20Level%20Letter%202022.pdf)
-
-P5 - [Term 1](/files/P5%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P5%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P5%20Term%203%20Level%20Letter%202022.pdf)
-
-P6 - [Term 1](/files/P6%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P6%20Term%202%20Level%20Letter%202022.pdf)[Term 3](/files/P6%20Term%203%20Level%20Letter%202022.pdf)
+<br>P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P2%20Term%202%20Level%20Letter%202022_edited.pdf)[Term 3](/files/P2%20Term%203%20Level%20Letter%202022.pdf)
+<br>P3 - [Term 1](/files/P3%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P3%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P3%20Term%203%20Level%20Letter%202022.pdf)
+<br>P4 - [Term 1](/files/P4%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P4%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P4%20Term%203%20Level%20Letter%202022.pdf)
+<br>P5 - [Term 1](/files/P5%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P5%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P5%20Term%203%20Level%20Letter%202022.pdf)
+<br>P6 - [Term 1](/files/P6%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P6%20Term%202%20Level%20Letter%202022.pdf)[Term 3](/files/P6%20Term%203%20Level%20Letter%202022.pdf)
 
   
 
 **2022 Booklist**  
 
 P1 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%201.pdf)
-
-P2 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%202.pdf)
-
-P3 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%203.pdf)
-
-P4 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%204.pdf)
-
-P5 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%205.pdf)
-
-P5 1SEL - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%201SEL3F%2017.11.pdf)
-
-P5 1SMT3F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%201SMT3F%2017.11.pdf)
-
-P5 2S2F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%202S2F%2017.11.pdf)
-
-P5 4F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%204F%2017.11.pdf)
-
-P6 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%2014.11.pdf)
-
-P6 1SMT3F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%201SMT3F%2014.11.pdf)
-
-P6 2S2F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%202S2F%2014.11.pdf)
-
-P6 4F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%204F%2014.11.pdf)
+<br>P2 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%202.pdf)
+<br>P3 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%203.pdf)
+<br>P4 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%204.pdf)
+<br>P5 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%205.pdf)
+<br>P5 1SEL - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%201SEL3F%2017.11.pdf)
+<br>P5 1SMT3F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%201SMT3F%2017.11.pdf)
+<br>P5 2S2F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%202S2F%2017.11.pdf)
+<br>P5 4F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%204F%2017.11.pdf)
+<br>P6 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%2014.11.pdf)
+<br>P6 1SMT3F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%201SMT3F%2014.11.pdf)
+<br>P6 2S2F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%202S2F%2014.11.pdf)
+<br>P6 4F - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%206%204F%2014.11.pdf)
