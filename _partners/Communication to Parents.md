@@ -13,7 +13,7 @@ description: ""
 
 Parent Gateway FAQ - [Click here](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
 
-Parent Gateway Guide - [Click here](https://ngeeannpri-moe-edu-sg-admin.cwp.sg/qql/slot/u501/2020/Parents%20Gateway%20User%20Guide.pdf)
+Parent Gateway Guide - [Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
 
   
 
