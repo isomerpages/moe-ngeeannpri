@@ -21,7 +21,7 @@ Parent Gateway Guide - [Click here](/files/Parents%20Gateway%20User%20Guide.pdf
 
 [Parent Kit on Student Vaccination Exercise](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
 
-[One page Infographic on Student Vaccination Exercise](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Vaccination/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)  
+[One page Infographic on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
 
   
 
