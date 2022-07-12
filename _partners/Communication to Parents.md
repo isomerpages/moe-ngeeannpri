@@ -49,9 +49,9 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Term 1 Letter to Parents**
 
-**Annual School-based Health & Dental Services****\-** [Click Here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/22.12.21_Letter%20to%20P1%20Parents_Final_v0.1.pdf)
+**Annual School-based Health & Dental Services -** [Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-**23 December 2021 -** [2022 P1 First Day of School](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/P1%202022%20Welcome%20Letter.pdf)
+**23 December 2021 -** [2022 P1 First Day of School](/files/P1%202022%20Welcome%20Letter.pdf)
 
 **30 December 2021 -** [Communication 1/2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/2022%20Term%201%20Letter%20to%20Parents.pdf)
 
