@@ -4,6 +4,8 @@ permalink: /ccas/Uniformed-Groups/Scouts
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/scouts.jpeg)
+
 | | |
 | --- | ---|
 | **Teachers In-Charge** |**Mr P K Abraham**<br>Mr Kok Hoe Ming<br>Mr Derrick<br>Ms HannahCheah
