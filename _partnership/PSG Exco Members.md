@@ -11,3 +11,8 @@ description: ""
      style="width:25%;float:left;height:300px">
 <img src="/images/Mdm%20Lee%20Pei%20Lin-%20Asst%20%20%20%20%20%20Secretary.jpeg" 
      style="width:25%">
+
+||||
+| -------- | -------- | -------- |
+| Ms Kinpi Padia <br>Chairperson     | Mdm Suzanna Lim <br>Vice Chairperson     | Mdm Joy Marie Lim  <br>Secretary     |Mdm Lee Pei Lin <br>Asst Secretary
+
