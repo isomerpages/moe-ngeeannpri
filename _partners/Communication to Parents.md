@@ -27,13 +27,13 @@ Parent Gateway Guide - [Click here](/files/Parents%20Gateway%20User%20Guide.pdf
 
 **Subject-based Banding Information Sheet**
 
-English - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Jan/1.%20MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
+English - [Click here](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 
-Mandarin - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Jan/2.%20MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
+Mandarin - [Click here](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
 
-Malay - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Jan/3.%20MOE_SBB_ML_revised%201%20Mar%202018.pdf)
+Malay - [Click here](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)
 
-Tamil - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Jan/4.%20MOE_SBB_TL_revised%201%20Mar%202018.pdf)
+Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **2022 P1 Virtual Orientation**  
 
