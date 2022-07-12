@@ -12,7 +12,6 @@ description: ""
 <img src="/images/Mdm%20Lee%20Pei%20Lin-%20Asst%20%20%20%20%20%20Secretary.jpeg" 
      style="width:25%;height:280px">
 		 
-<br>
 
 |||||
 | -------- | -------- | -------- |-------- |
