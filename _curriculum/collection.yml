@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English/Additional Support.md
       - English/Programme at a Glance.md
       - English/Reading List.md
       - English/.keep
