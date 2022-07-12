@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English/Reading List.md
       - English/.keep
       - Mathematics/Objectives.md
       - Mathematics/Curriculum Approach.md
