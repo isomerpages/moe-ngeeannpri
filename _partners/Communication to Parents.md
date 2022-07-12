@@ -73,7 +73,7 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **LM Letter to Parents**
 
-P1 - [Term 1](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%201/P1%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%202/P1%20Term%202%20Level%20Letter%202022_edited.pdf) [Term 3](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%203/P1%20Term%203%20Level%20Letter%202022.pdf)
+P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P1%20Term%202%20Level%20Letter%202022_edited.pdf) [Term 3](/files/P1%20Term%203%20Level%20Letter%202022.pdf)
 
 P2 - [Term 1](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%201/P2%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%202/P2%20Term%202%20Level%20Letter%202022_edited.pdf) [Term 3](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%203/P2%20Term%203%20Level%20Letter%202022.pdf)
 
