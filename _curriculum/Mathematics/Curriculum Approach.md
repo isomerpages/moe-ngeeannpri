@@ -16,3 +16,25 @@ The school’s teaching approaches and programmes are aligned closely to the und
 
 <img src="/images/Mathematic_Framework.jpeg" 
      style="width:70%">
+		 
+Framework Source:
+
+[http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf](http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf)
+
+  
+
+  
+
+**Varied Teaching Approaches @ Ngee Ann**
+
+  
+
+**Model Drawing (A Pre-Form of Algebra)**
+
+The use of bar-models is one of the commonly used approaches in teaching problem solving in the school. Through the construction of a pictorial model to represent the known and unknown quantities and their relationships in a problem, students gain better understanding of the problem and are able to apply the appropriate techniques to solve it.
+
+  
+
+**Thinking Routine**
+
+The Polya’s Problem Solving Techniques is another approach used to help pupils develop thinking routine when solving problem sums. This technique comprises of the 4 essential steps of understanding the problem, devising a plan on which heuristics skills to use, carrying out the plan and checking the results.
