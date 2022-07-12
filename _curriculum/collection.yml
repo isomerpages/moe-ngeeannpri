@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mathematics/.keep
       - Science/Vision, Mission and Objectives.md
       - Science/Science Curriculum Framework and Approach.md
       - Science/Science Syllabus.md
