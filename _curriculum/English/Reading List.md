@@ -99,3 +99,11 @@ third_nav_title: English
 |_Sideways Stories from_ _Wayside School_|Louis Sachar
 |_Harriet the Spy_|Louise Fitzhugh
 |_A Light in the Attic_|Shel Silverstein
+|_Mr. Popper's Penguins_|Richard Atwater
+|_My Father's Dragon_|Ruth Stiles Gannett
+|_The Best Christmas Pageant Ever_|Barbara Robinson
+|_Walk Two Moons_|Sharon Creech
+|_The Witch of Blackbird Pond_|Elizabeth George Speare
+|_The Watsons Go to Birmingham-1963_|Christopher Paul Curtis
+
+_Source: [TeachersFirst.com](https://www.teachersfirst.com/)_
