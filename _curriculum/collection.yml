@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science/Science Curriculum Framework and Approach.md
       - Science/Science Syllabus.md
       - Science/Programmes.md
       - Science/.keep
