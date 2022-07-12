@@ -77,7 +77,7 @@ P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/fi
 
 P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P2%20Term%202%20Level%20Letter%202022_edited.pdf)[Term 3](/files/P2%20Term%203%20Level%20Letter%202022.pdf)
 
-P3 - [Term 1](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%201/P3%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%202/P3%20Term%202%20Level%20Letter%202022.pdf) [Term 3](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%203/P3%20Term%203%20Level%20Letter%202022.pdf)
+P3 - [Term 1](/files/P3%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/files/P3%20Term%202%20Level%20Letter%202022.pdf) [Term 3](/files/P3%20Term%203%20Level%20Letter%202022.pdf)
 
 P4 - [Term 1](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%201/P4%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%202/P4%20Term%202%20Level%20Letter%202022.pdf) [Term 3](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/LM/Term%203/P4%20Term%203%20Level%20Letter%202022.pdf)
 
