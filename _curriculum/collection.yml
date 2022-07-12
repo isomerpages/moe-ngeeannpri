@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science/Science Syllabus.md
       - Science/Programmes.md
       - Science/.keep
       - Mother Tongue Languages/Objectives.md
