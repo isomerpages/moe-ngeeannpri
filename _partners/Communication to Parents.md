@@ -53,9 +53,9 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **23 December 2021 -** [2022 P1 First Day of School](/files/P1%202022%20Welcome%20Letter.pdf)
 
-**30 December 2021 -** [Communication 1/2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/2022%20Term%201%20Letter%20to%20Parents.pdf)
+**30 December 2021 -** [Communication 1/2022](/files/2022%20Term%201%20Letter%20to%20Parents.pdf)
 
-**4 January 2021 -** [Back to School 2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/Back%20to%20School%202022.pdf) & [Traffic Advisory 2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Jan/Traffic%20Advisory%202022.pdf)
+**4 January 2021 -** [Back to School 2022](/files/Back%20to%20School%202022.pdf) & [Traffic Advisory 2022](/files/Traffic%20Advisory%202022.pdf)
 
   
 
