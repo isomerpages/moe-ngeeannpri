@@ -21,12 +21,11 @@ description: ""
      style="width:25%;float:left;height:280px">
 <img src="/images/Mdm%20Lim%20Beng%20Choon.jpeg" 
      style="width:25%;float:left;height:280px">
-<img src="/images/Mdm%20Joy%20Marie%20Lim%20-%20Secretary.jpeg" 
+<img src="/images/Mdm%20Jennifer%20Chen.jpeg" 
      style="width:25%;float:left;height:280px">
-<img src="/images/Mdm%20Lee%20Pei%20Lin-%20Asst%20%20%20%20%20%20Secretary.jpeg" 
+<img src="/images/Mdm%20Juanita%20Qatrunnada%20Mohd%20Jaffar.png" 
      style="width:25%;height:280px">
 		 
-<br>
 
 |||||
 | -------- | -------- | -------- |-------- |
