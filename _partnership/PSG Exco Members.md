@@ -29,4 +29,4 @@ description: ""
 
 |||||
 | -------- | -------- | -------- |-------- |
-| Ms Kinpi Padia <br>Chairperson     | Mdm Suzanna Lim <br>Vice Chairperson     | Mdm Joy Marie Lim  <br>Secretary     |Mdm Lee Pei Lin <br>Asst Secretary
+| Mr Alvin Lee CY<br>Treasurer | Mdm Lim Beng Choon| Mdm Jennifer Chen |Mdm Juanita Qatrunnada Mohd Jaffar
