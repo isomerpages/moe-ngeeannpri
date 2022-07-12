@@ -30,3 +30,17 @@ description: ""
 |||||
 | -------- | -------- | -------- |-------- |
 | Mr Alvin Lee CY<br>Treasurer | Mdm Lim Beng Choon| Mdm Jennifer Chen |Mdm Juanita Qatrunnada Mohd Jaffar
+
+<img src="/images/Mdm%20Silvia%20Ho.jpeg" 
+     style="width:25%;float:left;height:280px">
+<img src="/images/Mr%20Alvin%20Lee%20NT.jpeg" 
+     style="width:25%;float:left;height:280px">
+<img src="/images/Mr%20Daniel%20Wee.jpeg" 
+     style="width:25%;float:left;height:280px">
+<img src="/images/Mr%20Tan%20Jui%20Tee.jpeg" 
+     style="width:25%;height:280px">
+		 
+
+|||||
+| -------- | -------- | -------- |-------- |
+| Mr Alvin Lee CY<br>Treasurer | Mdm Lim Beng Choon| Mdm Jennifer Chen |Mdm Juanita Qatrunnada Mohd Jaffar
