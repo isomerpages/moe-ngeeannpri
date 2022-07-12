@@ -43,4 +43,15 @@ description: ""
 
 |||||
 | -------- | -------- | -------- |-------- |
-| Mr Alvin Lee CY<br>Treasurer | Mdm Lim Beng Choon| Mdm Jennifer Chen |Mdm Juanita Qatrunnada Mohd Jaffar
+| Mdm Silvia Ho | Mr Alvin Lee NT | Mr Daniel Wee|Mr Tan Jui Tee 
+
+<img src="/images/Mrs%20Jane%20Koe.jpeg" 
+     style="width:25%;float:left;height:280px">
+<img src="/images/Mdm%20Mariam%20Lim.jpeg" 
+     style="width:25%;float:left;height:280px">
+
+		 
+
+|||||
+| -------- | -------- | -------- |-------- |
+| Mrs Jane Koe | Mdm Mariam Lim | ||
