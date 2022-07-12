@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics/Arts.md
       - Aesthetics/PAL & NAME Programme.md
       - Aesthetics/.keep
       - InfoComm Technology/Objectives.md
