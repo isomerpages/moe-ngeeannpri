@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/Sports Club & Track and Field.md
       - Sports & Games/Wushu.md
       - Sports & Games/.keep
       - Club & Societies/Visual Arts.md
