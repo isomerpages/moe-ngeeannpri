@@ -61,13 +61,13 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Term 2 Letter to Parents**
 
-**9 March 2022 -** [Communication 2/2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Term%202/2022%20Term%202%20Letter%20to%20Parents.pdf)
+**9 March 2022 -** [Communication 2/2022](/files/2022%20Term%202%20Letter%20to%20Parents.pdf)
 
   
 
 **Term 3 Letter to Parents**
 
-**25 May 2022 -** [Communication 3/2022](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2022/Term%202/Term%203%20Letter%20to%20Parent%202022.pdf)
+**25 May 2022 -** [Communication 3/2022](/files/Term%203%20Letter%20to%20Parent%202022.pdf)
 
   
 
