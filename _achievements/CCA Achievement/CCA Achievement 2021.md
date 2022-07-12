@@ -48,3 +48,20 @@ The Brownies continue to show remarkable achievement with 4 of the members award
 |2|Clesias Yeo Yunqi|P6 Respect
 |3|Kwek Xin Yu|P6 Honesty
 |4|Lim Li Na|P6 Joy
+
+The Infocomm Club took part in Temasek JC's 2021 eTHINK Challenge and their members obtained the following achievements.
+
+|  |Name | |
+| -------- | -------- | -------- | 
+|1|William Teh Kai Shen|Silver|
+|2| Alesha Nadia Binte Asri Budiman|Certificate of Participation
+
+**CCA Achievements (Non-school based)**
+
+Isa Kazu Mohd Faizal of P3 Honesty has done the school proud through his achievements in the various Chess competitions:
+
+| Competition |Type of Event | Award|
+| -------- | -------- | -------- | 
+|72nd National Schools Individuals (NSI) Chess Tournament 2021|Local|6th position (East Zone)
+|Kejohanan Catur Atas Talian Piala Timbalan Menteri Wilayah Persekutuan 2021 (U9 Category)|International|36th position
+|IYCKL Age-Group Online Chess Championship 2021 (U9 Category)|International|40th position
