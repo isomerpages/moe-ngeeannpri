@@ -35,3 +35,10 @@ Various heuristics skills are introduced systematically at each level to help pu
 **Learning Experiences**
 
 Besides learning concepts and skills, developing pupils’ cognitive and metacognitive skills are equally important. These skills can learned through carefully constructed learning experiences. These learning experiences provie pupils with opportunity to work together, encourages them to be inquisitive and discover mathematical results on their own.
+
+<img src="/images/Math%20Learning%20Experience-1.jpg" 
+     style="width:33%;float:left">
+<img src="/images/Math%20Learning%20Experience-2.jpg" 
+     style="width:33%;float:left">
+<img src="/images/Math%20Learning%20Experience-3.jpg" 
+     style="width:33%">
