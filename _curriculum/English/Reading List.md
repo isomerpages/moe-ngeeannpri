@@ -77,3 +77,25 @@ third_nav_title: English
 |_Stuart Little_|E. B. White
 |_The Chronicles of Narnia_|C. S. Lewis
 |_The Lion, the Witch, and the Wardrobe_|C. S. Lewis
+|_The Indian in the Cupboard_|Lynne Reid Banks
+|_Mrs. Frisby and the Rats of Nimh_|Robert C. O'Brien
+|_Tales of a Fourth Grade Nothing_|Judy Blume
+|_The Phantom Tollbooth_|Norton Juster
+|_Tuck Everlasting_|Natalie Babbitt
+|_Stone Fox_|John Reynolds Gardiner
+|_Maniac Magee_|Jerry Spinelli
+|_Island of the Blue Dolphins_|Scott O'Dell
+|_Sarah, Plain and Tall_|Patricia MacLachlan
+|_The Boxcar Children_|Gertrude Chandler Warner
+|_Roll of Thunder, Hear My Cry_|Mildred D. Taylor
+|_A Wrinkle in Time_|Madeleine L'Engle
+|_Bridge to Terabithia_|Katherine Paterson
+|_Hatchet_|Gary Paulsen
+|_Shiloh_|Phyllis Reynolds Naylor
+|_The_ _Secret Garden_|Frances Hodgson Burnett|
+|_Anne of Green Gables_|Lucy Maud Montgomery
+|_The Great Gilly_ _Hopkins_|Katherine Paterson
+|_Ramona Quimby, Age 8_|Beverly Cleary
+|_Sideways Stories from_ _Wayside School_|Louis Sachar
+|_Harriet the Spy_|Louise Fitzhugh
+|_A Light in the Attic_|Shel Silverstein
