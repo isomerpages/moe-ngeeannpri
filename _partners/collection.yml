@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Communication to Parents.md
       - Student Helpline.md
       - Parents In Education.md
       - Vendor Information.md
