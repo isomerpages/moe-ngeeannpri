@@ -89,15 +89,15 @@ P6 - [Term 1](/files/P6%20Term%201%20Level%20Letter%202022.pdf), [Term 2,](/fi
 
 **2022 Booklist**  
 
-P1 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%201%2009.11.pdf)  
+P1 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%201.pdf)
 
-P2 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%202%2014.11.pdf)
+P2 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%202.pdf)
 
-P3 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%203%2014.11.pdf)
+P3 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%203.pdf)
 
-P4 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%204%2014.11.pdf)
+P4 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%204.pdf)
 
-P5 - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%2017.11.pdf)
+P5 - [Click here](/files/Ngee%20Ann%20Booklist%202022%20Primary%205.pdf)
 
 P5 1SEL - [Click here](https://ngeeannpri.moe.edu.sg/qql/slot/u501/2021/Booklist/Ngee%20Ann%20Booklist%202022%20Primary%205%201SEL3F%2017.11.pdf)
 
