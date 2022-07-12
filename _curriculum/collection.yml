@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Social Studies/Field Based Learning.md
       - Social Studies/Learning Journeys.md
       - Social Studies/.keep
       - Aesthetics/Objectives.md
