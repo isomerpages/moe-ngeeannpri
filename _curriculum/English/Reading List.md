@@ -55,3 +55,20 @@ third_nav_title: English
 |_Arthur_ series|Marc Tolon Brown
 |_Lilly's Purple Plastic Purse_|Kevin Henkes
 |_The Little House_|Virginia Lee Burton|
+|_Amelia Bedelia_|Peggy Parish
+|_Caps for_ _Sale_|Esphyr Slobodkina
+|_Clifford, the Big Red Dog_|Norman Bridwell
+
+**Level: Ages 9 - 12**
+
+| Title | Author | 
+| -------- | -------- | 
+|_James and the Giant Peach: A Children's Story_|Roald Dahl
+|_The BFG_|Roald Dahl
+|_Charlie and the Chocolate Factory_|Roald Dahl
+|_Matilda_|Roald Dahl
+|_The Giver_|Lois Lowry
+|_Number the Stars_|Lois Lowry
+|_Little House on the Prarie_|Laura Ingalls Wilder
+|_Little House in the Big Woods_|Laura Ingalls Wilder
+|_Little House books_|Laura Ingalls Wilder
