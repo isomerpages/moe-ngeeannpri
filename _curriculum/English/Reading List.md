@@ -72,3 +72,8 @@ third_nav_title: English
 |_Little House on the Prarie_|Laura Ingalls Wilder
 |_Little House in the Big Woods_|Laura Ingalls Wilder
 |_Little House books_|Laura Ingalls Wilder
+|_Charlotte 's Web_|E. B. White
+|_The Trumpet of the Swan_|E. B. White
+|_Stuart Little_|E. B. White
+|_The Chronicles of Narnia_|C. S. Lewis
+|_The Lion, the Witch, and the Wardrobe_|C. S. Lewis
