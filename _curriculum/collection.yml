@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - InfoComm Technology/Objectives.md
       - InfoComm Technology/Curriculum Approach.md
       - InfoComm Technology/Cyberwellness.md
       - InfoComm Technology/Student iCON & Microsoft Office Plus.md
