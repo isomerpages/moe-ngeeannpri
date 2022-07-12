@@ -100,3 +100,7 @@ third_nav_title: Mother Tongue Languages
 **义安小学华文部全年活动一览表**
 
 ![](/images/chinese.png)
+
+![](/images/chinese2a.png)
+![](/images/chinese2b.png)
+![](/images/chinese2c.png)
