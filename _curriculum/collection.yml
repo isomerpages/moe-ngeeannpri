@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Social Studies/.keep
       - Aesthetics/Objectives.md
       - Aesthetics/Music.md
       - Aesthetics/Arts.md
