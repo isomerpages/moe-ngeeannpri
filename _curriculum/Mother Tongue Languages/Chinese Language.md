@@ -104,3 +104,40 @@ third_nav_title: Mother Tongue Languages
 ![](/images/chinese2a.png)
 ![](/images/chinese2b.png)
 ![](/images/chinese2c.png)
+
+****链接**** 
+
+  
+
+*   学乐 ([http://xuele.moe.edu.sg/xuele/slot/u107/index.html](http://xuele.moe.edu.sg/xuele/slot/u107/index.html))
+
+  
+
+*   欢乐小镇 ([http://xuele.moe.edu.sg/xuele/slot/u107/index.html](http://xuele.moe.edu.sg/xuele/slot/u107/index.html))
+
+  
+
+*   文化桥 ([http://cultureb.moe.edu.sg](http://cultureb.moe.edu.sg/))
+
+  
+
+*   语文游戏乐翻天 （小一至小三）([http://game.iflashbook.com/](http://game.iflashbook.com/))
+
+  
+
+*   听说e乐园（小一至小三）([http://oracyeland.moe.edu.sg](http://oracyeland.moe.edu.sg/))
+
+  
+
+*   乐学善用互动平台（iMTL）（小三至小六） ([https://imtl.sg/login/index.php](https://imtl.sg/login/index.php))
+
+  
+
+*   iFlashBook《小学华文》动漫课本）（小四至小六）([http://www.iflashbook.com](http://www.iflashbook.com/))
+
+  
+
+*   网上中英字典 ([http://www.nciku.com/](http://www.nciku.com/))  
+      
+    
+*   《義安园地》( [https://www.ezhishi.net/NAPSebook2021](https://www.ezhishi.net/NAPSebook2021/) )
