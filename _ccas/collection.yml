@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Guzheng.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
