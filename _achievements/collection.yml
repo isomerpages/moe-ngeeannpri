@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Academic/Competition 2020.md
       - Academic/.keep
       - CCA Achievement/CCA Achievement 2021.md
       - CCA Achievement/.keep
