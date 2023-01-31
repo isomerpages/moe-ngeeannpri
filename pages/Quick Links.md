@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /Quick-Links
+permalink: /Quick-Links/
 description: ""
 ---
 *   Ngee Ann Primary FAQ - [Click here](/files/FAQs%20as%20at%2030%20December%202019.pdf)

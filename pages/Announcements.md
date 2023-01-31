@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /Announcements
+permalink: /Announcements/
 description: ""
 ---
 **[Student iCON](/curriculum/infocomm-technology/student-icon-n-microsoft-office-plus)**

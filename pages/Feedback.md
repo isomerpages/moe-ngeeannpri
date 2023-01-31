@@ -1,6 +1,6 @@
 ---
 title: Feedback
-permalink: /Feedback
+permalink: /Feedback/
 description: ""
 ---
 Please send us your feedback [here](https://forms.cwp.gov.sg/ngeeannpri/FormMRNJN).

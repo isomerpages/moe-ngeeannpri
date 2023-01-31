@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /partners/Forms
+permalink: /partners/Forms/
 description: ""
 ---
 *   [MOE FAS Form](/files/MOE-FAS-application-form.pdf)

@@ -1,6 +1,6 @@
 ---
 title: Objectives
-permalink: /curriculum/Aesthetics/Objectives
+permalink: /curriculum/Aesthetics/Objectives/
 description: ""
 third_nav_title: Aesthetics
 ---

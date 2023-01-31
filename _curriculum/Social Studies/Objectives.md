@@ -1,6 +1,6 @@
 ---
 title: Objectives
-permalink: /curriculum/Social-Studies/Objectives
+permalink: /curriculum/Social-Studies/Objectives/
 description: ""
 third_nav_title: Social Studies
 ---

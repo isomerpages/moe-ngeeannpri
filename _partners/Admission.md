@@ -1,6 +1,6 @@
 ---
 title: Admission
-permalink: /partners/Admission
+permalink: /partners/Admission/
 description: ""
 ---
 *   **Parent Volunteering**
