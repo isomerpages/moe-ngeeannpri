@@ -1,6 +1,6 @@
 ---
 title: Objectives
-permalink: /curriculum/CCE/Objectives
+permalink: /curriculum/CCE/Objectives/
 description: ""
 third_nav_title: CCE
 ---

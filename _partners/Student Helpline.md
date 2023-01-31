@@ -1,6 +1,6 @@
 ---
 title: Student Helpline
-permalink: /partners/Student-Helpline
+permalink: /partners/Student-Helpline/
 description: ""
 ---
 **School Helpline (Home-Based Learning)**

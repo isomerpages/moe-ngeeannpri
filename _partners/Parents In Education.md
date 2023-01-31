@@ -1,6 +1,6 @@
 ---
 title: Parents In Education
-permalink: /partners/Parents-In-Education
+permalink: /partners/Parents-In-Education/
 description: ""
 ---
 Useful links/material

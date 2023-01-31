@@ -1,6 +1,6 @@
 ---
 title: PSG Exco Members
-permalink: /partnership/PSG-Exco-Members
+permalink: /partnership/PSG-Exco-Members/
 description: ""
 ---
 <img src="/images/Ms%20Kinpi%20Padia%20-%20Chairperson.jpeg" 

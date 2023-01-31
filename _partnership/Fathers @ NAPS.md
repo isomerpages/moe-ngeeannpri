@@ -1,6 +1,6 @@
 ---
 title: Fathers @ NAPS
-permalink: /partnership/Fathers-at-NAPS
+permalink: /partnership/Fathers-at-NAPS/
 description: ""
 ---
 Fathers@NAPS &nbsp;was formed in 2009 as a platform to inspire and involve fathers of NAPS pupils to play &nbsp;a more active role in their children's lives. In line with the FDs For Life movement supported by the Ministry of Community Development, Youth and Sports&nbsp;(MCYS), we want fathers to be life long positive influencers on their children by&nbsp;**ACT**:

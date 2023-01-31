@@ -1,6 +1,6 @@
 ---
 title: Communication to Parents
-permalink: /partners/Communication-to-Parents
+permalink: /partners/Communication-to-Parents/
 description: ""
 ---
 **Student Learning Space**

@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /partnership/Parent-Support-Group-PSG
+permalink: /partnership/Parent-Support-Group-PSG/
 description: ""
 ---
 Our Parents Support Group (PSG) was formed in 1999 to promote parenting skills and value of family bonding. The PSG members participate actively in our school programmes.

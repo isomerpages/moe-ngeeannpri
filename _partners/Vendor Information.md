@@ -1,6 +1,6 @@
 ---
 title: Vendor Information
-permalink: /partners/Vendor-Information
+permalink: /partners/Vendor-Information/
 description: ""
 ---
 **Student Care @ Ngee Ann Primary School**  

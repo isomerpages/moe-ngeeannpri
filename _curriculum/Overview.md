@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /curriculum/Overview
+permalink: /curriculum/Overview/
 description: ""
 ---
 **Ngee Ann Primary School Holistic Education Experience**
