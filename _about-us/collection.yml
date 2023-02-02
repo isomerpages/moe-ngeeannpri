@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest, Motto & Song.md
       - School Rules.md
       - General Information/School Management Committee.md
       - General Information/Our History, Philosophy, Mission & Vision.md
