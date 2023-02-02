@@ -10,7 +10,7 @@ third_nav_title: School Staff
 | -------- | -------- | 
 | Principal     |[Mdm Pang Siu San](mailto:naps_sl@moe.edu.sg)   | 
 |Vice-Principal (Academic)|[Mrs Tye-Low Lee Chern](mailto:naps_sl@moe.edu.sg)|
-|Vice-Principal (Administrative)|[Mrs Yvonne Tan](mailto:naps_sl@moe.edu.sg)
+|Vice-Principal (Academic)|[Mrs Lim Li Li](mailto:naps_sl@moe.edu.sg)
 
 **Heads of Department**
 
@@ -43,8 +43,9 @@ third_nav_title: School Staff
 |ICT|Vacant
 |Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
 |Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
-|Assistant Year Head (P5 & P6)|Vacant
-|Student Development|Vacant
+|Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
+|Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
+|Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
 |CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
 
 **Subject/Level Heads**
