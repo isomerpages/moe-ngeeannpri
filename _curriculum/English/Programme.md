@@ -4,33 +4,32 @@ permalink: /curriculum/English/Programme/
 description: ""
 third_nav_title: English
 ---
-Our design of the English curriculum and programmes has been guided by the 2010 EL syllabus and principles of Holistic Assessment. The school curriculum and STELLAR work hand in hand to prepare our students to be confident users of the language. Taking into consideration the students’ cognitive development and the background knowledge that they bring with them, the curriculum has been designed to stretch the students’ learning while respecting their differences.
+Our design of the English curriculum and programmes has been guided by the 2020 EL syllabus and principles of Holistic Assessment. The school curriculum and STELLAR work in tandem to prepare our students to be confident users of the language. Taking into consideration our students’ cognitive development and their existing schema, our English Language curriculum has been designed to cater to the varying levels of progression of our students.
 
-![](/images/EL_Map_2.jpeg)
-
-<center>Framework Source: moe/cpdd(englishunit)</center>
+![](/images/Picture1.png)
+<center>Framework Source: MOE/CPDD</center>
 
 **Reading**
 
-A sound **reading programme** is crucial for language learning to be effective. Through the different foundation stages, our students are exposed to various genres of literature. Independently, students have been flooded with reading materials that they take with them for a period of two weeks. Respecting their space, the school implements the uninterrupted silent and sustained reading on a daily basis.
+A sound reading programme is the fundamental building block for language learning to be effective. Through the different foundation stages, our students are exposed to various genres of literature. Independently, students have been flooded with reading materials that they take with them for a period of two weeks. Respecting their space, the school implements the uninterrupted silent and sustained reading daily.
 
   
 
-*   **P1 and P2**
+**P1 - 3** 
 
-Special teachers promote language through the **_Extensive Reading_** (ER) programme. By ensuring that the ER teachers are in no way their subject teachers, students are more relaxed and are able to enjoy the discussions. Learning accelerates because the environment is safe and relaxed. Written work is an absolute taboo in these classes.
-
-  
-
-*   **P3 and P4**
-
-The reading programme is extended into **_mini book clubs_** where students periodically share their views of the books they have read. Classes have been equipped with a rich supply of books of different genres. The school has also deliberately selected award-winning books to add to our supply.
+The love for reading is promoted through the Extensive Reading (ER) programme. By ensuring that the ER teachers are in no way their subject teachers, students are more relaxed and are able to enjoy the discussions. Learning accelerates because the environment is safe and relaxed. Written work is an absolute taboo in these classes.
 
   
 
-*   **P5 and P6**
+**P4**
 
-Upper primary students are introduced to **_Literature_** through discussions and in-depth study of a classic. We have over the years varied our materials. Some of the titles that we have included are _Bungee Cord Hair and Free me_.
+The reading programme is extended into mini book clubs where students periodically share their views of the books they have read. Classes have been equipped with a rich supply of books of different genres. The school has also deliberately selected award-winning books to add to our supply.
+
+  
+
+**P5 and P6**  
+
+Upper primary students are introduced to Literature through discussions and in-depth studies of Some of the titles that we have included are Bungee Cod Free me.
 
   
 
@@ -38,7 +37,7 @@ Upper primary students are introduced to **_Literature_** through discussions 
 
 **Writing**
 
-*   A great focus is also given to **_writing_**. In order to nurture prolific writers, the school is embarking on creating a writing **community**.
+*   A great focus is also given to **writing**. In order to nurture prolific writers, the school is embarking on creating a writing **community**.
 *   P3 to 6 students are actively recording their ideas in their writers’ journals. Through a structured, whole school approach, the students are taken through the writing journey to build up fluency.
 
   
