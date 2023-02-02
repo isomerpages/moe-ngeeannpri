@@ -10,21 +10,17 @@ third_nav_title: School Staff
 
 |  |  | 
 | -------- | -------- |
-| [Mdm Nuraina Bte Mohamed Zain](mailto:nuraina_mohamed_zain@moe.edu.sg)     | [Ms Yeo Ting Hui Raquel](mailto:yeo_ting_hui_raquel@moe.edu.sg)     | 
-|[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)|[Mdm Choo Choon Mui, Jenny](mailto:choo_choon_mui@moe.edu.sg)
-|[Ms Yak Wan Cheng, Zann](mailto:Yak_Wan_Cheng@moe.edu.sg)|[Mdm Chong Kui Lan](mailto:chong_kui_lan@moe.edu.sg)
-|[Mdm Kok Meng Leng](mailto:kok-leow_meng_ling@moe.edu.sg)|[Mrs Tan Good Leng](mailto:lee_poh_choon@moe.edu.sg)
-|[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)|[Ms Sim Amanda](mailto:sim_amanda@moe.edu.sg)
-| [Ms Cherine Tan](mailto:tan_yin_huay_cherine@moe.edu.sg)|[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
-|Mr Chong Ming Wayne Troy|Mdm Tan Hui Theng
-|Ms Chiam Tsu Hua
+| [Mdm Chong Kui Lan](mailto:chong_kui_lan@moe.edu.sg)|[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
+|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg)|[Mdm Choo Choon Mui, Jenny](mailto:choo_choon_mui@moe.edu.sg)
+|Mdm Norazlin Binte Ab Rahman |[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
 
-**Other Chinese Language Teachers**
+**Other Language Teachers**
 
 |  |  | 
 | -------- | -------- |
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Chng Eng Choo](mailto:chng_eng_choo@moe.edu.sg)
-|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)|Mr Mohd Ishak
+|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)|Mdm Wong Pui Wan Zoe
+|Mdm Hazel Lian Siao Lean|Mr Mohamed Ishak Bin Abdul Rahman
 
 **Special Needs Officer**
 
