@@ -4,7 +4,11 @@ permalink: /curriculum/Physical-Education/Objectives/
 description: ""
 third_nav_title: Physical Education
 ---
-**_“To Be Fit, Healthy and Happy”_**
+**“Physical Literacy for Life”** 
+
+Physical Literacy is the motivation, confidence, physical competence, knowledge and understanding to value and take responsibility for engagement in physical activities (Whitehead, 2016).
+
+Ngee Ann Primary School's physical education programme provides students with a wide range of movement experiences to develop physical literacy and lay the foundation for an active life.
 
   
 
