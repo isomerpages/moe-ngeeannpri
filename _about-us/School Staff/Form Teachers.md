@@ -45,12 +45,12 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P4 Unity|[Ms Hon Wyfen Purdee](mailto:hon_wyfen_purdee@moe.edu.sg)<br>[Mdm Ting Soo Wee Karen](mailto:ting_soo_wee@moe.edu.sg)
-|P4 Respect|[Mdm Chew Mei Ling, Magdaline](mailto:chew_mei_ling_magdaline@moe.edu.sg)<br>[Mdm Shen Yang](mailto:shen_yang@moe.edu.sg)
-|P4 Honesty|[Ms Zhang Xi](mailto:zhang_xi@moe.edu.sg)<br>[Mdm Che Fauziah Bte Abdullah](mailto:che_fauziah_abdullah@moe.edu.sg)
-|P4 Love|[Mr Low Boon Siang](mailto:low_boon_siang@moe.edu.sg)<br>[Mdm Ng Yee Meei](mailto:ng_yee_meei@moe.edu.sg)
-|P4 Joy|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)<br>[Mdm Siti Azaliyah](mailto:siti_azaliyah_abdul_majid@moe.edu.sg)
-|P4 Tenacity|[Ms Manjusri](mailto:manjusri_veeragoo_sg@moe.edu.sg)<br>[Mdm Megalai d/o Thangavelu](mailto:megalai_thangavelu@moe.edu.sg)
+|P4 Unity|[Mr Teo Ee Ming](mailto:teo_ee_ming@moe.edu.sg)<br>[Mrs Anisa Begum](mailto:anisa_begum@moe.edu.sg)
+|P4 Respect|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)<br>[Mdm Joycelyn Poh Xue Ying](mailto:joycelyn_poh_xue_ying@moe.edu.sg)
+|P4 Honesty|[Mrs Looi-Tan Lee Ling](mailto:looi-tan_lee_ling@moe.edu.sg)<br>[Mr Parapallil Kuruvilla Abraham](mailto:parapallil_kuruvilla_abraham@moe.edu.sg)
+|P4 Love|[Ms Tan What Goh](mailto:tan_what_goh@moe.edu.sg)<br>[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
+|P4 Joy|[Mr Pang Jiun Khai](mailto:pang_jiun_khai@moe.edu.sg)<br>[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
+|P4 Tenacity|[Mr Chan Boon Keat, Andrew](mailto:chan_boon_keat@moe.edu.sg)<br>[Mdm Maisarah Bte Supani](mailto:maisarah_supani@moe.edu.sg)
 
 **Primary Five**
 
