@@ -28,8 +28,3 @@ Over two years, students will participate in 8 modules conducted by our teachers
 |Garden Exploration|Performing Arts (Drama)|
 |Visual Arts|Sports & Games|
 |Performing Arts (Music)|Team Bonding
-
-
-![](/images/pal.jpeg)
-<img src="/images/pal1.jpeg" 
-     style="width:50%">
