@@ -68,10 +68,10 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P6 Unity|[Mdm Rafeah Bte Yahya](mailto:rafeah_yahya@moe.edu.sg)<br>[Mr Kenneth Goh Tai Peng](mailto:kenneth_goh_tai_peng@moe.edu.sg)
-|P6 Respect|[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)<br>[Ms Soh Yi Ping](mailto:soh_yi_ping@moe.edu.sg)
-|P6 Honesty|[Mr Chew Keng Kok](mailto:chew_keng_kok@moe.edu.sg)<br>[Mdm Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
-|P6 Love|[Mdm Lim Meixia Larene](mailto:lim_mei_xia_larene@moe.edu.sg)<br>[Mr Ahmad Musta'in Bin Ahmad Rumzi](mailto:ahmad_mustain@moe.edu.sg)
-|P6 Joy|[Mdm Noor Aini Bte M K Kamaludin](mailto:noor_aini@moe.edu.sg)<br>[Mr Tong Kwang Boo Edward](mailto:tong_kwang_boo@moe.edu.sg)
-|P6 Tenacity|[Mr A A Hussain Mohamed Farook](mailto:a_a_hussain_mohamed@moe.edu.sg)<br>[Mr Ridzwan B Abas](mailto:ridzwan_b_abas@moe.edu.sg)
-|P6 Care|[Mdm Jasmeet Kaur](mailto:jasmeet_kaur@moe.edu.sg)<br>[Mr Shahrudin Bin Salleh](mailto:shahrudin_salleh@moe.edu.sg)<br>[Mr Rohan Nizam Bin Basheer](mailto:rohan_nizam_basheer@moe.edu.sg),
+|P6 Unity|[Mdm Norshahanaz Bte Md Noordin](mailto:norshahanaz_md_noordin@moe.edu.sg)<br>[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)
+|P6 Respect|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)<br>[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
+|P6 Honesty|[Mr Rahul Rajasabhai](mailto:rahul_rajasabhai@moe.edu.sg)<br>[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
+|P6 Love| [Mdm Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)<br>[Mdm Rafeah Bte Yahya](mailto:rafeah_yahya@moe.edu.sg)
+|P6 Joy|[Mdm Liang Guifang Evelyn](mailto:liang_guifang_evelyn@moe.edu.sg)<br>[Mr Shahrudin Bin Salleh](mailto:shahrudin_salleh@moe.edu.sg)
+|P6 Tenacity|[Ms Kuah Soh Ling, Sharon](mailto:kuah_soh_ling@moe.edu.sg)<br>[Mr Mohammad Shahrin Bin Jasmani](mailto:mohammad_shahrin_jasmani@moe.edu.sg)
+|P6 Care|[Mrs Alyssa Wijaya](mailto:chng_hwee_hwee@moe.edu.sg)<br>[Mdm Ang Leng Hwee Angela](mailto:ang_leng_hwee@moe.edu.sg)
