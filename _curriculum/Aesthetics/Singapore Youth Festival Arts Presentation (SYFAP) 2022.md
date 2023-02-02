@@ -4,15 +4,12 @@ permalink: /curriculum/Aesthetics/Singapore-Youth-Festival-Arts-Presentation-SYF
 description: ""
 third_nav_title: Aesthetics
 ---
+Traditionally, the Singapore Youth Festival (SYF) is an annual event organised by the Arts Education Branch (AEB) from the Ministry of Education, to celebrate the diverse artistic talents of our youths. As part of the SYF, the Arts Presentation (AP) is a performance and benchmarking platform for schools to receive feedback and affirmation from a panel of adjudicators for continual learning and improvement.
 
-Our Art Instructional Programme offers our students a comprehensive programme which allows them to acquire skills, techniques and exposure to different art forms (2-dimensional & 3-dimensional art) through drawing, painting, crafts and digital art.
+This year, five of our performing groups, Chinese Orchestra, Gu Zheng, Choir, Chinese Dance, and Malay Dance had taken part in the Singapore Youth Festival Arts Presentation.
 
+In view of the impact of Covid-19 on CCAs, the intention of benchmarking was cancelled for the year. Regardless, our passionate performers had started preparing for the festival since last year. We are proud to announce that the tremendous sense of resilience they had shown over the past few months of practices had resulted in beautiful and vibrant performances during the SYFAP 2022.
 
-| Level | Key Programme | Implementation | Objectives|
-| -------- | -------- | -------- | -------- |
-| Primary 1     | Drawing & Crafts     | Term 1 to 4     |•     Learn the fundamental skills and techniques in the Elements of Art through a journey of self-discovery and experiential learning<br>•     Build students’ awareness of self and confidence
-|Primary 2|3D Sculpture<br>MS Paint|Term 2<br>Term 3|•     Learn about 2D & 3D art form in different medium<br>•     Build students’ awareness of self & community<br>•     Provide opportunities for students to learn ICT software
-|Primary 3|Drawing & Crafts|Term 1 to 4|•     Build students’ ability to make own decisions and manage time<br>•     Provide opportunities for acquiring skills through inquiry based learning
-|Primary 4|Photo Journalism<br>Museum Based Learning|Term 1<br>Term 2|•     Learn about photo-taking & photo editing techniques.<br>•     Learn to present photo using PowerPoint software<br>•     Expose students to local artists’ artworks in a museum setting
-|Primary 5|Drawing & Crafts|Term 1 & 2|•     Learn about the elements of art in 3D art form through dioramas<br>•     Build students’ awareness of environmental issues through relief art<br>•     Provide opportunities for creative expression through Surrealism drawing.
-|Primary 6|Manga<br>Stop motion Animation & Movie-maker|Term 2<br>Term 3|•     Learn to draw Manga style characters and build a storyline around their characters<br>•     Learn about elements of art, storyboarding & stop-motion animation<br>•     Devise ideas from students’ Manga stories of Singapore and bring the stories to life through stop motion animation<br>•     Provide opportunities for self-directed learning and teamwork
+We would like to thank all students, teachers and instructors for all the effort put into making this a truly memorable experience for the students.
+
+![](/images/SYFAP%20Pic.png)
