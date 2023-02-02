@@ -21,14 +21,14 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P2 Unity|[Mrs Sharleen Yong-Pang Yeng Ting](mailto:sharleen_yong-pang_yeng_ting@moe.edu.sg)<br>[Mr Neo Ginn Ning Bryan](mailto:bryan_neo_ginn_ning@moe.edu.sg)
-|P2 Respect|[Mr Adam Quek Joe Luck](mailto:adam_quek_joe_luck@moe.edu.sg)<br>[Ms Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)
-|P2 Honesty|[Ms Tan Wan lee](mailto:tan_wan_lee@moe.edu.sg)<br>[Mrs Lisa Lee](mailto:lisa_lee-chong@moe.edu.sg)
-|P2 Love|[Mdm Khoo Hui Hoon, Teresa](mailto:khoo_hui_hoon@moe.edu.sg)<br>[Ms Lee Siew Hoon Angeline](mailto:lee_siew_hoon_angeline@moe.edu.sg)
-|P2 Joy|[Mdm Diyana Bte Harun](mailto:diyana_harun@moe.edu.sg)<br>[Ms Atikah Binte Asjayani](mailto:atikah_asjayani@moe.edu.sg)|
-|P2 Tenacity|[Mdm Liyana Bte Sajupri](mailto:liyana_sajupri@moe.edu.sg)<br>[Mr Shafiruddin B Rahim](mailto:shafiruddin_b_rahim@moe.edu.sg)
-|P2 Care|[Mdm Sharifah Zaharah Bte Syed Ahmad](mailto:sharifah_zaharah_syed_ahma@moe.edu.sg)<br>[Mdm Ng Beng Koon, Mindy](mailto:ng_beng_koon@moe.edu.sg)
-|P2 Kindness|[Mrs Angeline Pang](mailto:angeline_pang@moe.edu.sg)<br>[Mdm Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
+|P2 Unity|[Mdm Azizah Bte Juma'at](mailto:azizah_jumaat@moe.edu.sg)<br>[Ms Liu Mengkuan](mailto:liu_meng_kuan@moe.edu.sg)<br>[Mdm Khoo Hui Hoon, Teresa](mailto:khoo_hui_hoon@moe.edu.sg)
+|P2 Respect|[Mdm Kartini Bte Abdul Hamid](mailto:kartini_abdul_hamid@moe.edu.sg)<br>[Mr Neo Ginn Ning Bryan](mailto:bryan_neo_ginn_ning@moe.edu.sg)
+|P2 Honesty|[Mdm Chan Siew Leng](mailto:chan_siew_leng@moe.edu.sg)<br>[Ms Chen Hui Ting](mailto:chen_hui_ting@moe.edu.sg)
+|P2 Love|[Mdm Beh Choo Kim](mailto:beh_choo_kim@moe.edu.sg)<br>[Mr Ahmad Musta'in Bin Ahmad Rumzi](mailto:ahmad_mustain@moe.edu.sg)
+|P2 Joy|[Mdm Alice Lim Mei Lian](mailto:lim_mei_lian_alice@moe.edu.sg)<br>[Ms Manjusri](mailto:manjusri_veeragoo_sg@moe.edu.sg)|
+|P2 Tenacity|[Ms Cheah Siew Yin Angeline](mailto:cheah_siew_yin_angeline@moe.edu.sg)<br>[Mr Shafiruddin B Rahim](mailto:shafiruddin_b_rahim@moe.edu.sg)
+|P2 Care|[Ms Hannah Yeoh Shih En](mailto:hannah_yeoh_shih_en@moe.edu.sg)<br>[Mdm Sadhana Bte Yusop](mailto:sadhana_yusop@moe.edu.sg)
+|P2 Kindness|[Mr Chan Sin Liang](mailto:chan_sin_liang@moe.edu.sg)<br>[Mdm Mastura](mailto:mastura_noordin@moe.edu.sg)
 
 **Primary Three**
 
