@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Languages
 ---
 **Objectives**
 
-*   To nurture & mould students into individuals of strong character with good communication skills and a love for mother tongue
+*   To nurture & mold students into individuals of strong character with good communication skills and a love for mother tongue
 *   To promote ethnic culture & inculcate good moral values in all our students
 
   
