@@ -10,13 +10,14 @@ Curious Inquirers, Responsible Explorers
 
 **Mission**
 
-Develop each student to become an inquiring, collaborative and self-directed learner in exploring the natural and physical world around them
+Develop each student to become an inquiring, collaborative and self-directed learner in exploring the natural and physical world around them through hands-on and minds-on.
 
 **Objectives**
 
 At the end of Primary Science education in the school, students should be able to:
 
-*   Demonstrate knowledge and understanding of scientific facts, concepts and principles;
-*   Apply scientific facts, concepts and principles to new situations;
-*   Demonstrate curiosity about their environment and the world around them; and
-*   Develop science process skills, attitudes and values that are essential for scientific inquiry.
+*   Build on their interest and stimulate their curiosity about themselves and their environment
+*   Acquire basic scientific concepts to help them understand themselves and the world around them
+*   Develop skills, dispositions, and attitudes for scientific inquiry
+*   Apply scientific concepts and skills in making responsible decisions
+*   Appreciate how Science influences people and the environment
