@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Management Committee.md
       - History, Philosophy, Mission/Our School History.md
       - History, Philosophy, Mission/Our Philosophy, Mission & Vision.md
       - History, Philosophy, Mission/.keep
