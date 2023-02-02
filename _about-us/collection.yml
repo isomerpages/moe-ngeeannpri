@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - History, Philosophy, Mission/Our History.md
       - History, Philosophy, Mission/Our Philosophy, Mission & Vision.md
       - History, Philosophy, Mission/.keep
       - School Crest, Motto & Song.md
