@@ -4,9 +4,10 @@ permalink: /curriculum/English/Additional-Support/
 description: ""
 third_nav_title: English
 ---
-*   Learning Support Programme
+*   **Learning Support Programme**  
+    
 
-The MOE Learning Support Programme is **_a specialised early intervention programme_** to help students who enter Primary 1 with weak English language and literacy skills. Identification of students is done through a systematic screening process that is carried out at the beginning of P1.
+The MOE Learning Support Programme is a specialised early intervention programme to help students who enter Primary 1 with weak English language and literacy skills. Identification of students is done through a systematic screening process that is carried out at the beginning of P1.
 
   
 
@@ -18,6 +19,6 @@ The school also carries out SDR and RRP programmes for middle-primary students w
 
   
 
-*   Workshops for students
+*   **Workshops for students**
 
-Workshops on oral, writing and comprehension are conducted to **_prepare students for the PSLE_**. These have been effective in helping students zoom into the expectations of the examinations. Follow-up actions are then taken by the individual English teacher.
+Workshops on oral, writing and comprehension are conducted to prepare students for the PSLE. These have been effective in helping students zoom into the expectations of the examinations. Follow-up actions are then taken by the individual English teacher.
