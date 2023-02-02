@@ -56,13 +56,13 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P5 Unity|[Mdm Norshahanaz Bte Md Noordin](mailto:norshahanaz_md_noordin@moe.edu.sg)<br>[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
-|P5 Respect|[Mr Hoon Wei Sheng](mailto:hoon_wei_sheng@moe.edu.sg)<br>[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
-|P5 Honesty|[Mr Rahul Rajasabhai](mailto:rahul_rajasabhai@moe.edu.sg)<br>[Mrs Anisa Begum](mailto:anisa_begum@moe.edu.sg)
-|P5 Love|[Mr Ng Gem Peng Derick](mailto:ng_gem_peng_derick@moe.edu.sg)<br>[Ms Huang Xin](mailto:xin_huang@moe.edu.sg)
-|P5 Joy|[Mr Kok Hoe Ming](mailto:kok_hoe_ming@moe.edu.sg)<br>[Mdm Liang Guifang Evelyn](mailto:liang_guifang_evelyn@moe.edu.sg)
-|P5 Tenacity|[Ms Kuah Soh Ling, Sharon](mailto:kuah_soh_ling@moe.edu.sg)<br>[Mdm Nurazah Bte Abdul Aziz](mailto:nurazah_abdul_aziz@moe.edu.sg)
-|P5 Care|[Mr Chia Tet Soon, Anthony](mailto:chia_tet_soon_anthony@moe.edu.sg)<br>[Mrs Alyssa Wijaya](mailto:chng_hwee_hwee@moe.edu.sg)
+|P5 Unity|Ms Revathy D/O Pachamuthu <br>[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
+|P5 Respect|[Mdm Ting Soo Wee Karen](mailto:ting_soo_wee@moe.edu.sg)<br>[Mr Ng Gem Peng Derick](mailto:ng_gem_peng_derick@moe.edu.sg)
+|P5 Honesty|[Mr Kenneth Goh Tai Peng](mailto:kenneth_goh_tai_peng@moe.edu.sg)<br>[Mr Ridzwan B Abas](mailto:ridzwan_b_abas@moe.edu.sg)
+|P5 Love|[Mr Adam Quek Joe Luck](mailto:adam_quek_joe_luck@moe.edu.sg)<br>[Mdm Lim Meixia Larene](mailto:lim_mei_xia_larene@moe.edu.sg)
+|P5 Joy|[Mdm Noor Aini Bte M K Kamaludin](mailto:noor_aini@moe.edu.sg)<br>[Mr Hoon Wei Sheng](mailto:hoon_wei_sheng@moe.edu.sg)
+|P5 Tenacity|[Mr Tong Kwang Boo Edward](mailto:tong_kwang_boo@moe.edu.sg)<br>[Mr Low Boon Siang](mailto:low_boon_siang@moe.edu.sg)
+|P5 Care|[Mdm Jasmeet Kaur](mailto:jasmeet_kaur@moe.edu.sg)<br>[Mr Rohan Nizam Bin Basheer](mailto:rohan_nizam_basheer@moe.edu.sg)
 
 **Primary Six**
 
