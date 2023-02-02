@@ -4,14 +4,16 @@ permalink: /curriculum/Science/Science-Syllabus/
 description: ""
 third_nav_title: Science
 ---
-The Science syllabus in Ngee Ann Primary School follows closely to the Primary Science Syllabus as designed by MOE and emphasises the need for a balance between the acquisition of science knowledge, process and attitudes. This includes the development of reasoning and analytical skills, decision and problem solving skills, the ability to respond to different contexts and an open and inquiring mind that is willing to explore new territories and learn new things. These are the skills and habits of mind that are aligned to the desired 21st century competencies.
+The Science syllabus in Ngee Ann Primary School follows closely to the Primary Science Syllabus as designed by MOE (2023 syllabus for Primary 3; 2014 syllabus for Primary 4, 5 and 6) in helping our students understand and address many of the local and global challenges they will face in the 21st century.
 
-**Lower Block Science (P3-P4)**
+To navigate these challenges, we need to develop scientifically literate citizens who:
 
-![](/images/science.png)
+*   Can make informed decisions and responsible actions in their daily lives,
+*   Participate in socio-scientific issues ethically and in an informed manner and
+*   Apply scientific knowledge and skills, as well as adopt scientific attitudes and mindsets to innovate and push new frontiers.
 
-**Upper Block Science (P5-P6)**
+These are the skills and habits of mind that are aligned to the desired 21st century competencies.
 
-![](/images/science2.png)
-
-_The topics which are underlined are not required for students taking Foundation Science._
+Overview of Science Syllabus
+----------------------------
+![](/images/sciencesyllabus.png)
