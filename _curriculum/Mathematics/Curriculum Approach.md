@@ -14,12 +14,9 @@ The development of mathematical problem solving ability is dependent on five int
 
 The school’s teaching approaches and programmes are aligned closely to the underlying principles of this Mathematics Framework.
 
-<img src="/images/Mathematic_Framework.jpeg" 
-     style="width:70%">
+![](/images/Picture2.png)
 		 
-Framework Source:
-
-[http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf](http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf)
+Framework Source: [http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2021.pdf](http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2021.pdf)
 
   
 
@@ -38,3 +35,5 @@ The use of bar-models is one of the commonly used approaches in teaching problem
 **Thinking Routine**
 
 The Polya’s Problem Solving Techniques is another approach used to help pupils develop thinking routine when solving problem sums. This technique comprises of the 4 essential steps of understanding the problem, devising a plan on which heuristics skills to use, carrying out the plan and checking the results.
+
+![](/images/Capture.jpeg)
