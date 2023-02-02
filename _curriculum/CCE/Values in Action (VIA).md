@@ -18,4 +18,5 @@ P5 Support Staff Appreciation
 ![](/images/via2.png)
 
 P6 Community Outreach
-![](/images/via3.jpeg)
+<img src="/images/via3.jpeg" 
+     style="width:30%">
