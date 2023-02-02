@@ -24,7 +24,5 @@ Over two years, students will participate in 8 modules conducted by our teachers
 
 | **Primary One** | **Primary Two** | 
 | -------- | -------- | 
-| Outdoor Education     | Performing Arts (Dance)     | 
-|Garden Exploration|Performing Arts (Drama)|
-|Visual Arts|Sports & Games|
-|Performing Arts (Music)|Team Bonding
+| Outdoor Education     | Performing Arts (Dance)<br>Performing Arts (Drama)|
+|Visual Arts<br>Performing Arts (Music)|Sports & Games|
