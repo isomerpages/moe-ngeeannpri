@@ -69,7 +69,7 @@ b. Character and Citizenship Education (CCE)
 <br>
 
 
-| CCE(FTGP) THEME | LESSON TITLE / DURATION | Lesson OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| CCE(FTGP) THEME | LESSON TITLE / DURATION | Lesson Overview | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 6 |
 |  |  Did You Know?<br>(60 min)<br>  | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 9 |
@@ -98,5 +98,3 @@ b. Character and Citizenship Education (CCE)
 This form will be distributed to parents who wish to opt out and is downloadable [here](/files/SEd%202023%20Infor%20for%20Website.pdf). The completed opt-out form is to be submitted by 16/01/2023.
 
 10\. Parents can contact the school at [naps@moe.edu.sg](mailto:naps@moe.edu.sg) or Mdm Noor Aini (SEd) coordinator at 64418677 for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-
