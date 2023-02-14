@@ -8,11 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_Resize.gif
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /Announcements
-        - title: Quick Links
-          description: ""
-          url: /Quick-Links
 ---
