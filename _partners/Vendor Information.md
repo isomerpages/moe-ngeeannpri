@@ -5,15 +5,11 @@ description: ""
 ---
 **Student Care @ Ngee Ann Primary School**  
 
-Ngee Ann Student Care Centre (NASCC) 
+ACE @ WORK STUDENTCARE PTE. LTD
 
-Managed by NASCANS Pte Ltd, 
+Tel: 6899 8622 
 
-Tel: 9657 7930    Email:  [nascc@nascans.com](mailto:nascc@nascans.com)    Website: [www.nascans.com](http://www.nascans.com/) 
-
-Centre Opening Hours (Monday to Friday, Closed on Saturdays, Sundays and Public Holidays) 
-
-School Term: 1 p.m. to 7 p.m.    School Holiday:  7.30 a.m. to 7 p.m. 
+Email: [feedbacknaps@aceatwork.com.sg](mailto:feedbacknaps@aceatwork.com.sg)
 
   
 
