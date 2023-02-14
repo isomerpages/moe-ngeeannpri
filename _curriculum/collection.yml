@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - English/Objective.md
+      - English/English Language Objective.md
       - English/Programme.md
       - English/Additional Support.md
       - English/Programme at a Glance.md
