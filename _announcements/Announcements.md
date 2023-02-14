@@ -3,7 +3,6 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
-
 **[Student iCON](/curriculum/infocomm-technology/student-icon-n-microsoft-office-plus)**
 
 If you need help for student iCON, click on the link above. The URL to login is workspace.google.com/dashboard
