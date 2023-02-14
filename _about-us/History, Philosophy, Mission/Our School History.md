@@ -4,7 +4,7 @@ permalink: /about-us/History-Philosophy-Mission/Our-School-History/
 description: ""
 third_nav_title: History, Philosophy, Mission
 ---
-![](/images/sch_history.jpeg)
+![](/images/IMG_9717.jpg))
 **Ngee Ann Primary School History**  
 
 Ngee Ann Primary School was formerly known as Ngee Ann Girls’ School. In 1940, The Ngee Ann Kongsi's Board of Directors comprising the late Mr Lee Wee Nam, the late Mr Yeo Chan Boon, the late Mr Lim Kim Seng and a few other members set up this institution to encourage education for girls.
