@@ -48,15 +48,15 @@ third_nav_title: School Staff
 |Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
 |CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
 
-**Subject/Level Heads**
+**Teacher Leaders**
 
 | | | 
 | -------- | -------- | 
-|Lead Teacher (EL)|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
-|English|Vacant
-|Educational Support|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)
-|Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
-|Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
-|Chinese Language|Vacant
-|Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
-|CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
+|Lead Teacher English Language|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
+|Senior Teacher English|Vacant
+|Senior Teacher Educational Support|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)
+|Senior Teacher Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
+|Senior Teacher Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
+|Senior Teacher Chinese Language|Vacant
+|Senior Teacher Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
+|Senior Teacher CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
