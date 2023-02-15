@@ -36,4 +36,5 @@ third_nav_title: School Staff
 |OSO|Mr Johari
 |Admin Executive|Vacant
 |ICT Associate|Mr Azri
-|Desktop Engineer|Mr Hakim<br>Mr Kelvin Tan
+|Desktop Engineer|Mr Hakim
+|Desktop Engineer|Mr Kelvin Tan
