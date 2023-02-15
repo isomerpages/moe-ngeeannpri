@@ -29,9 +29,11 @@ third_nav_title: School Staff
 |Adjunct MSO|Ms Florence
 |Admin Support|Mdm Aldilla
 |OSO|Mdm Sarifah
-|OSO|Mr Farhad Chand
 |OSO|Mdm Rinah
 |OSO|Mdm Lin Jinying
+|OSO|Mr Farhad Chand
+|OSO|Mdm Kalla
+|OSO|Mr Johari
 |Admin Executive|Vacant
 |ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim<br>Mr Kelvin Tan
