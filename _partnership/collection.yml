@@ -1,0 +1,7 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - Parent Support Group (PSG).md
+      - PSG Exco Members.md
+      - Fathers @ NAPS.md

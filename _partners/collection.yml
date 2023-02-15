@@ -1,0 +1,11 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Admission.md
+      - Forms.md
+      - Calendar of Events.md
+      - Communication to Parents.md
+      - Student Helpline.md
+      - Parents In Education.md
+      - Vendor Information.md

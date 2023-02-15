@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Management Committee.md
+      - History, Philosophy, Mission/Our School History.md
+      - History, Philosophy, Mission/Our Philosophy, Mission & Vision.md
+      - History, Philosophy, Mission/.keep
+      - School Crest, Motto & Song.md
+      - School Rules.md
+      - School Information/School Information.md
+      - School Information/Opening Hours of School Gate.md
+      - School Information/Financial Information.md
+      - School Information/.keep
+      - School Staff/Key Personnel.md
+      - School Staff/Form Teachers.md
+      - School Staff/Other Teaching Staff.md
+      - School Staff/Administrative Team.md
+      - School Staff/.keep
