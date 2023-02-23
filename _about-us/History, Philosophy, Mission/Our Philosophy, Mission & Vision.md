@@ -4,7 +4,7 @@ permalink: /about-us/History-Philosophy-Mission/Our-Philosophy-Mission-and-Visio
 description: ""
 third_nav_title: History, Philosophy, Mission
 ---
-![](/images/sch_philosophy.jpeg)
+![](/images/Slide2.jpg)
 **OUR PHILOSOPHY**
 
   
@@ -37,4 +37,3 @@ A Vibrant School to Learn with Passion and Serve with Pride
 *   Respectfulness Our Nature
 *   Resilience Our Fortitude
 *   Commitment Our Pledge
-
