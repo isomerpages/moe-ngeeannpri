@@ -9,7 +9,7 @@ For any account/password issues with the home-based learning (HBL) platform, ple
 
   
 
-SLS Account : **[Click Here](https://form.gov.sg/#!/5fd825b29fd0cd00122de3e4)**
+SLS password reset : Send an email to naps@moe.edu.sg with your name & class. The password will be resetted within 3 working days.
 
 For SLS userid, please approach your form teachers.
 
