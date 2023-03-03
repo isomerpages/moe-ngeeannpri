@@ -12,15 +12,15 @@ third_nav_title: School Staff
 | -------- | -------- |
 | [Mdm Chong Kui Lan](mailto:chong_kui_lan@moe.edu.sg)|[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
 |[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg)|[Mdm Choo Choon Mui, Jenny](mailto:choo_choon_mui@moe.edu.sg)
-|Mdm Norazlin Binte Ab Rahman |[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
+|[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)  |[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
 
 **Other Language Teachers**
 
 |  |  | 
 | -------- | -------- |
-|[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Chng Eng Choo](mailto:chng_eng_choo@moe.edu.sg)
-|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)|Mdm Wong Pui Wan Zoe
-|Mdm Hazel Lian Siao Lean|Mr Mohamed Ishak Bin Abdul Rahman
+|[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
+|[Mdm Wong Pui Wan Zoe](mailto:zoe_wong_pui_wan@moe.edu.sg)| [Mdm Hazel Lian Siao Lean](mailto:hazel_lian_siao_yean@moe.edu.sg)
+|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)
 
 **Special Needs Officer**
 
