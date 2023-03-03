@@ -13,7 +13,7 @@ third_nav_title: School Staff
 |P1 Honesty|[Ms Lee Siew Hoon Angeline](mailto:lee_siew_hoon_angeline@moe.edu.sg)<br>[Mdm Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)<br>[Mdm Siti Shafarina Bte A Aleem](mailto:siti_shafarina_abdul_aleem@moe.edu.sg)
 |P1 Love|[Mrs Sharleen Yong-Pang Yeng Ting](mailto:sharleen_yong-pang_yeng_ting@moe.edu.sg)<br>[Ms Gao Xiaodong](mailto:gao_xiaodong@moe.edu.sg)
 |P1 Joy|[Ms Huang Xin](mailto:xin_huang@moe.edu.sg)<br>[Mrs Angeline Pang](mailto:angeline_pang@moe.edu.sg)
-|P1 Tenacity|[Mdm Diyana Bte Harun](mailto:diyana_harun@moe.edu.sg)<br>Ms Lau Wei Yi Elaine
+|P1 Tenacity|[Mdm Diyana Bte Harun](mailto:diyana_harun@moe.edu.sg)<br>[Ms Lau Wei Yi Elaine](mailto:lau_wei_yi_elaine@moe.edu.sg)
 |P1 Care|[Mdm Liyana Bte Sajupri](mailto:liyana_sajupri@moe.edu.sg)<br>[Mdm Ng Beng Koon, Mindy](mailto:ng_beng_koon@moe.edu.sg)<br>[Mrs Yeo-Goh Wenmei Abigail](mailto:goh_wenmei_abigail@moe.edu.sg)
 |P1 Kindness|[Mdm Ng Yee Meei](mailto:ng_yee_meei@moe.edu.sg)<br>[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)
 
@@ -56,7 +56,7 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P5 Unity|Ms Revathy D/O Pachamuthu <br>[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
+|P5 Unity|[Ms Revathy D/O Pachamuthu](revathy_pachamuthu@moe.edu.sg) <br>[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
 |P5 Respect|[Mdm Ting Soo Wee Karen](mailto:ting_soo_wee@moe.edu.sg)<br>[Mr Ng Gem Peng Derick](mailto:ng_gem_peng_derick@moe.edu.sg)
 |P5 Honesty|[Mr Kenneth Goh Tai Peng](mailto:kenneth_goh_tai_peng@moe.edu.sg)<br>[Mr Ridzwan B Abas](mailto:ridzwan_b_abas@moe.edu.sg)
 |P5 Love|[Mr Adam Quek Joe Luck](mailto:adam_quek_joe_luck@moe.edu.sg)<br>[Mdm Lim Meixia Larene](mailto:lim_mei_xia_larene@moe.edu.sg)

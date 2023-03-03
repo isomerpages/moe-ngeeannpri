@@ -18,7 +18,7 @@ third_nav_title: School Staff
 | -------- | -------- | 
 | Administration Manager     |[Mdm Sharifah Mariam](mailto:naps@moe.edu.sg)  | 
 |Operations Manager|Mr Raman
-|Operations Manager|Vacant
+|Operations Manager|Mr Maurice Sng
 
 **Support Staff**
 
@@ -26,15 +26,17 @@ third_nav_title: School Staff
 | -------- | -------- | 
 |MSO|Ms Rachel Tan
 |MSO|Mdm Josephine Quek|
+|MSO|Mdm Kathleen Ho
 |Adjunct MSO|Ms Florence
-|Admin Support|Mdm Aldilla
+|Receptionist|Mdm Aldilla
 |OSO|Mdm Sarifah
-|OSO|Mdm Rinah
+|OSO|Mdm Hazrinah
 |OSO|Mdm Lin Jinying
 |OSO|Mr Farhad Chand
 |OSO|Mdm Kalla
 |OSO|Mr Johari
-|Admin Executive|Vacant
+|Admin Assistant|Mdm Djaja Mega
+|Admin Assistant| Ms Joanne Wee
 |ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim
 |Desktop Engineer|Mr Kelvin Tan

@@ -5,17 +5,11 @@ description: ""
 ---
 **School Helpline (Home-Based Learning)**
 
-For any account/password issues with the home-based learning (HBL) platform, please fill up the form at the link below.
-
-  
-
-SLS Account : **[Click Here](https://form.gov.sg/#!/5fd825b29fd0cd00122de3e4)**
+SLS password reset : Send an email to naps@moe.edu.sg with your name & class. The password will be resetted within 3 working days.
 
 For SLS userid, please approach your form teachers.
 
-  
-
-**SLS Helpline**
+ **SLS Helpline**
 
 Students should contact the **SLS Helpdesk** for support.
 
@@ -32,3 +26,15 @@ Saturdays: 9:00 am - 3:00 pm<br>
 **Student iCON**
 
 For a detailed guide on student iCON, please [click here](https://ngeeannpri.moe.edu.sg/curriculum/infocomm-technology/student-icon).
+
+**Chinese E-Learning Platform**
+
+[eZhishi](https://www.ezhishi.net/)
+
+[DuDu Town](https://go.dudu.town/)
+
+[ZB Schools](https://www.zbschools.sg/)
+
+**Mathematics E-Learning Platform**
+
+[Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
