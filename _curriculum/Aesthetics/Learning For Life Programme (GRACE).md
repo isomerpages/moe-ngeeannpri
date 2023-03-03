@@ -17,4 +17,10 @@ GRowing Appreciation for Creative Expression (GRACE) is the Learning for Life Pr
 
 GRACE encompasses all visual and performing arts experiences at Ngee Ann Primary School. Currently, it develops students in two tiers: “Students” and “Talents”.
 
-At Ngee Ann Primary School, “Talents” comprises of students who are  passionate to learn the Arts, and also those who have the heart to serve as leaders to champion the Arts.  
+At Ngee Ann Primary School, “Talents” comprises of students who are  passionate to learn the Arts, and also those who have the heart to serve as leaders to champion the Arts.
+
+![](/images/Grace2.jpg)
+
+![](/images/Grace3.png)
+
+![](/images/Grace4.png)
