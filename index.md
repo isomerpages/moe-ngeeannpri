@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/websitebanner_copy__.jpg
+      background: /images/NewTestBanner.png
 ---
