@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Teachers' Helpline.md
       - Admission.md
       - Forms.md
       - Calendar of Events.md
