@@ -33,7 +33,7 @@ For a detailed guide on student iCON, please [click here](https://ngeeannpri.mo
 
 [DuDu Town](https://go.dudu.town/)
 
-[ZB Schools](https://www.zbschools.sg/)
+[Zao Bao Schools (Newspaper)](https://www.zbschools.sg/)
 
 **Mathematics E-Learning Platform**
 
