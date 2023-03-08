@@ -13,4 +13,6 @@ description: ""
 6. [Parents Gateway](https://pg.moe.edu.sg/)
 7. [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 8. [HR and Payroll portal (HRP)](https://www.hrp.gov.sg/)
-9. 
+9. [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
+10. [One Portal All Learners (OPAL 2.0)](https://www.opal2.moe.edu.sg)
+11. [iExams](https://iexams.seab.gov.sg/login)
