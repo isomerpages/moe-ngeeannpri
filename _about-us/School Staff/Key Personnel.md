@@ -46,7 +46,7 @@ third_nav_title: School Staff
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
 |Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
 |Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
-|CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
+|CCE|[Ms Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
 
 **Teacher Leaders**
 
