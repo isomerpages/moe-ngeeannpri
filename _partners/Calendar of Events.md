@@ -3,7 +3,7 @@ title: Calendar of Events
 permalink: /partners/Calendar-of-Events/
 description: ""
 ---
-									**SCHOOL CALENDAR OF ACTIVITIES 2023 (TERM 2)**
+**SCHOOL CALENDAR OF ACTIVITIES 2023 (TERM 2)**
 
 <table style="margin-left:6.45pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:480;mso-padding-alt:
