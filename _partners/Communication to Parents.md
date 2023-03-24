@@ -35,12 +35,6 @@ Malay - [Click here](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)
 
 Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
-**2023 P1 Virtual Orientation**  
-
-
-
-  
-
 **Term 1 Letter to Parents**
 
 **Annual School-based Health & Dental Services -** [Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
@@ -52,17 +46,17 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **LM Letter to Parents**
 
-P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P1%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
-P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P2%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
-P3 - [Term 1](/files/P3%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P3 - [Term 1](/files/P3%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P3%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
-P4 - [Term 1](/files/P4%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P4 - [Term 1](/files/P4%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P4%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
-P5 - [Term 1](/files/P5%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P5 - [Term 1](/files/P5%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P5%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
-P6 - [Term 1](/files/P6%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P6 - [Term 1](/files/P6%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P6%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
   
 
