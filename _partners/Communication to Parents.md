@@ -52,7 +52,7 @@ Tamil - [Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **LM Letter to Parents**
 
-P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
+P1 - [Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P1%20Term%202%20Level%20Letter%202023.pdf), Term 3, Term 4
 
 P2 - [Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), Term 2, Term 3, Term 4
 
