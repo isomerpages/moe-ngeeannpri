@@ -10,6 +10,6 @@ sections:
       background: /images/A2Test.png
       key_highlights:
         - title: Events
-          description: Latest events & Happenings
+          description: Connect with NAPS 爱我義安
           url: https://www.facebook.com/profile.php?id=100064057052671
 ---
