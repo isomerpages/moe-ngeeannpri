@@ -4,8 +4,6 @@ permalink: /curriculum/Aesthetics/GRACE/
 description: ""
 third_nav_title: Aesthetics
 ---
-**Learning for Life Programme - GRACE**
-
 *“Before a child speaks, it sings. Before they write, they paint. As soon as they stand, they dance. Art is the basis of human expression.”*
  -Phylicia Rashad
 
