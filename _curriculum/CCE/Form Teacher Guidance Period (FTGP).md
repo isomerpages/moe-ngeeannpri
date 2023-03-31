@@ -4,8 +4,6 @@ permalink: /curriculum/CCE/Form-Teacher-Guidance-Period-FTGP/
 description: ""
 third_nav_title: CCE
 ---
-### 
-
 In line with the Primary Education Review and Implementation (PERI) recommendations, the school embarked on the Form Teacher Guidance Period (FTGP) from Primary 1 to 6. FTGP is conducted once a week within the school’s curriculum time for all classes by the form teachers.
 
 Research has shown that students are more likely to be emotionally and intellectually invested in classes where they have positive relationships with their teachers (Nichols, 2006; Pianta, 1999; Phelan, 1992). Social emotional competencies are critical to the development of students. Explicit instructions for social emotional competencies will assist them to acquire life skills that will benefit them for life. The provision of opportunities for social and emotional learning (SEL) contributes to the formation of good teacher-student relationship (Jennings & Greenberg, 2009; Murray, 2002; Pianta, 1999).

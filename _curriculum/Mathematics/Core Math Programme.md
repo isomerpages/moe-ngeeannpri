@@ -4,8 +4,6 @@ permalink: /curriculum/Mathematics/Core-Math-Programme/
 description: ""
 third_nav_title: Mathematics
 ---
-**Core Math Programs @ Ngee Ann**
-
 **Learning Experiences**
 
 Besides learning concepts and skills, developing pupils’ cognitive and metacognitive skills are equally important. These skills can learned through carefully constructed learning experiences. These learning experiences provie pupils with opportunity to work together, encourages them to be inquisitive and discover mathematical results on their own.
