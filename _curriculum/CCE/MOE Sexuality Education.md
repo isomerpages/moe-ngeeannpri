@@ -4,48 +4,46 @@ permalink: /curriculum/CCE/MOE-Sexuality-Education/
 description: ""
 third_nav_title: CCE
 ---
-### MOE Sexuality Education
-
 **Moe Sexuality Education in Schools**
 
-1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1\.&nbsp;Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2\. The **Goals** of Sexuality Education are:
+2\. The&nbsp;**Goals**&nbsp;of Sexuality Education are:
 
-(a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
 
-(b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c)          To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
-3\. The **Key Messages** of Sexuality Education are:
+3\. The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
 
-(a) Love and respect yourself as you love and respect others;
+(a)&nbsp;Love and respect yourself as you love and respect others;
 
-(b) Build positive relationships based on love and respect (which are the foundation for strong families);
+(b)&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
 
-(c) Make responsible decisions for yourself, your family and society; and
+(c)&nbsp;Make responsible decisions for yourself, your family and society; and
 
-(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
   
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
   
 
 ### Overview of Ngee Ann Primary School Sexuality Education Programme For 2023
 
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4\.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
 5\. The subjects that incorporate topics on sexuality include:
 
-a. Science
+a.&nbsp;Science
 
-b. Character and Citizenship Education (CCE)
+b.&nbsp;Character and Citizenship Education (CCE)
 
   
 
@@ -53,11 +51,11 @@ b. Character and Citizenship Education (CCE)
 
   
 
-6\7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+6\7.&nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters..&nbsp;The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
   
 
-7\.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+7\.&nbsp;&nbsp; &nbsp;The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd&nbsp;Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;_changes_, build healthy&nbsp;_relationships_, especially online relationships, and exercise&nbsp;_safety_.
 
 ### At Ngee Ann Primary School, the following lessons from the Growing Years Programme will be taught in 2023:
 
@@ -87,7 +85,7 @@ b. Character and Citizenship Education (CCE)
 
 **Please Note:**
 
-<b> * For <u>2023</u>, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort. </b>
+<b> * For&nbsp;<u>2023</u>, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort. </b>
 
 #### Information for Parents
 
@@ -95,6 +93,6 @@ b. Character and Citizenship Education (CCE)
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.  
 
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.  
-This form will be distributed to parents who wish to opt out and is downloadable [here](/files/SEd%202023%20Infor%20for%20Website.pdf). The completed opt-out form is to be submitted by 16/01/2023.
+This form will be distributed to parents who wish to opt out and is downloadable&nbsp;[here](/files/SEd%202023%20Infor%20for%20Website.pdf).&nbsp;The completed opt-out form is to be submitted by 16/01/2023.
 
-10\. Parents can contact the school at [naps@moe.edu.sg](mailto:naps@moe.edu.sg) or Mdm Noor Aini (SEd) coordinator at 64418677 for discussion or to seek clarification about the school’s Sexuality Education programme.
+10\. Parents can contact the school at&nbsp;[naps@moe.edu.sg](mailto:naps@moe.edu.sg)&nbsp;or Mdm Noor Aini (SEd) coordinator at 64418677 for discussion or to seek clarification about the school’s Sexuality Education programme.
