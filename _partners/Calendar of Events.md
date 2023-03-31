@@ -1244,8 +1244,8 @@ description: ""
   11.0pt">P6<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
   -.1pt">Students</span></span></p></td></tr></tbody></table>
 
-School Term: Mon, 20 Mar 2022 – Fri, 26 May 2022
+School Term: Mon, 20 Mar 2023 – Fri, 26 May 2023
 
-School Vacation: Sat, 27 May 2022 – Sun, 25 June 2022
+School Vacation: Sat, 27 May 2023 – Sun, 25 June 2023
 
 _\*More details will be provided closer to the date._
