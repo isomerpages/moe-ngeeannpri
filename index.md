@@ -10,7 +10,7 @@ sections:
       background: /images/A2Test.png
   - infobar:
       title: Events
-      description: For the lastest events and happenings, follow us on Facebook
+      description: For the latest events and happenings, follow us on Facebook
       button: Ngee Ann Primary School 爱我義安
       url: https://www.facebook.com/profile.php?id=100064057052671
 ---
