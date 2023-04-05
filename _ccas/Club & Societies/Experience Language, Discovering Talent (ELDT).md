@@ -6,7 +6,7 @@ third_nav_title: Club &amp; Societies
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mr Teo Ee Ming**<br>Ms Christine Chua<br>&nbsp;Mrs Alice Lim    | 
+| **Teachers In Charge**     | **Mr Teo Ee Ming**<br>Mr Hoon Wei Sheng    | 
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Library (Level 1)
