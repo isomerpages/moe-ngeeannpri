@@ -6,9 +6,9 @@ third_nav_title: Sports &amp; Games
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mr Shahrin / Mdm Alyssa**<br>Mr Hoon Wei Sheng<br>Mr Low Boon Siang|
+| **Teachers In Charge**     | **Mr Shahrin**<br>Mr Andrew Chan Boon Keat|
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
-|**Training Venue**|Basketball Court/ Running Track
+|**Training Venue**|Basketball Court
 
 ![](/images/sportsclub2023.jpg)
