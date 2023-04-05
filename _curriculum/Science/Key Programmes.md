@@ -4,7 +4,6 @@ permalink: /curriculum/Science/Key-Programmes/
 description: ""
 third_nav_title: Science
 ---
-
 | Programmes | Level(s) | Objective |
 | -------- | -------- | -------- |
 | “Each Child a Seed” Programme     | P3     | Every Child a Seed is one of the programmes organised by NParks to involve school students in appreciating greenery. The programme gives every P3 student a chance to grow their own plant, go through and appreciate the challenges of the planting process, and experience the joy of seeing their plants grow.<br><br>Complementing the Primary 3 Science syllabus, this programme will also teach students about the life cycle of a plant, plant parts and their functions. The values of care and responsibility will also be reinforced.<br><br>Through this programme, we hope that students will appreciate the effort needed to care for plants and understand that every Singaporean plays a part in shaping our City in a Garden.     |
@@ -14,3 +13,4 @@ third_nav_title: Science
 |Learning Journey|P3 to P6|Learning journeys are organized for the various levels, where possible, for students to strengthen the learning of scientific concepts and enriching their learning experiences beyond the classroom.
 |Science Excellence 2000 E2K|P4|Selected Primary 4 students are given opportunities to engage in scientific investigations involving advanced Science concepts. This programme aims to stimulate curiosity and to further develop and strengthen our students’ abilities to study phenomena and their possible causes in scientific investigations and discourse. Through this programme, students learn to work harmoniously in groups and work towards a common goal in solving problems.
 |Augmented Reality enhanced learning|P5|Students use AR to learn life science topics such as Plant transport system to deepen their understanding on abstract concepts through the incorporation of ICT tools for meaningful and authentic learning experiences.
+|Partnership|P1 to 6|Students also have the opportunities to learn from external partners such as NParks, PUB, AVA through workshops, assembly talks and roving exhibition panels
