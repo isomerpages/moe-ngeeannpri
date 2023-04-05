@@ -36,3 +36,10 @@ P5 students learn about the importance of energy conservation, clean energy and 
 To cultivate a green citizenzry, we equip students to become responsible advocates of the environment. We design and provide learning experiences to help students understand real-world issues and how the individual could positively contribute to sustainable development.
 
 ![](/images/alpscience4.png)
+
+| Level | Learning Experience | Objective |
+| -------- | -------- | -------- |
+|P4 to 6|Project Zero Waste, Paper Recycling| Students are active participants to collect recycled papers in their classrooms. Eco representatives from each class are given leadership opportunities to take the lead|
+|P5-6|Eco Club|Eco Club members are the school’s eco champions who are passionate in leading the school in their environmental efforts. The students participate in environmental workshops and competitions. They are also given opportunities to engage the school to bring about greater awareness on environmental issues during the annual Sustainable Living Week through assembly talks and setting up booths. Students also take part in the completion of the Young Scientist Card on Sustainability. 
+
+
