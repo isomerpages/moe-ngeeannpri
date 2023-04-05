@@ -50,4 +50,5 @@ Upper primary students are introduced to&nbsp;Literature&nbsp;through discussion
 This strategy has a&nbsp;**two-fold objective**:
 
 *   Students will learn to brainstorm and build up on their ideas through the use of various strategies such as Quick Write.
-*   Teachers are able to provide constructive feedback on their students’ strengths and weaknesses.
+*   Teachers are able to provide constructive feedback on their students’ strengths and weaknesses.<br>
+![](/images/elwriting.JPG)
