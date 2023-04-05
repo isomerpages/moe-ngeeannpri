@@ -6,7 +6,7 @@ third_nav_title: Sports &amp; Games
 ---
 | | |
 | --- | ---|
-| **Teachers In-Charge** |**Mdm Kartini**<br>Ms Zhang Xi<br>Mdm Diyana<br>Ms Angeline Cheah<br>Mr Chew Keng Kok
+| **Teachers In-Charge** |**Mr Chew Keng Kok**<br>Mdm Kartini<br>Ms Zhang Xi<br>Mdm Diyana<br>Ms Angeline Cheah
 |**Training Day**|Monday
 |**Training Time**|2.00pm to 5.00pm
 |**Training Venue**|School Hall
