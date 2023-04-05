@@ -32,6 +32,9 @@ The reading programme is extended into&nbsp;mini book clubs&nbsp;where students 
 **P5 and P6**  
 
 Upper primary students are introduced to&nbsp;Literature&nbsp;through discussions and in-depth studies of Some of the titles that we have included are&nbsp;Bungee Cod Free me.
+<br>
+![](/images/elp5p6.JPG)
+<br>
 
   
 
