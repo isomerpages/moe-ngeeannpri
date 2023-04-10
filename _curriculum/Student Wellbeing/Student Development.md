@@ -32,3 +32,7 @@ In line with MOE’s UPLIFT (Uplifting Pupils in Life and Inspiring Families Tas
 3. To spark kinship among peers. <br>
 
 The Spark programme aims to engage our students to learn new skills and develop new interests and hobbies.  Our students are exposed to a variety of enrichment activities like Rollerblading, Hip Hop Dance, Global Percussion, Photo Journalism and others.  Through these activities, we hope to instil in our students positive values like confidence, resilience and a sense of pride and belonging to the school.
+
+![](/images/studentwellbeing5.JPG)
+![](/images/studentwellbeing6.JPG)
+
