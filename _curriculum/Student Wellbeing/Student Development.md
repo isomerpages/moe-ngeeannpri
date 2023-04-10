@@ -9,3 +9,7 @@ The goal of the Student Development Team (SDT) is to promote the holistic develo
 <u>Peer Support Relationship</u>
 <br>
 Positive peer relationships facilitate the provision of care, building of resilience and a sense of belonging amongst students. In Ngee Ann Primary School, Peer Support Relationship (PSR) follows the framework from MOE.
+<br>
+![](/images/studentwellbeing1.JPG)
+
+
