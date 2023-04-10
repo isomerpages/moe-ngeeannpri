@@ -36,3 +36,9 @@ The Spark programme aims to engage our students to learn new skills and develop 
 ![](/images/studentwellbeing5.JPG)
 ![](/images/studentwellbeing6.JPG)
 
+In 2022, the Spark Programme expanded to include Literacy and Numeracy sessions for the lower primary students.  Through games and interacting with peers, the students sharpen their literacy and numeracy skills with reading pens, math manipulatives and educational games.
+
+![](/images/studentwellbeing7.JPG)
+
+<u>Uplift Teacher Mentors</u><br>
+The teachers in the Uplift team are also mentors to some of the students in the Spark programme. The Teacher Mentors act as a trusted adult with whom the students can confide in and share problems they face at home and in school.  The teacher mentors meet up with their mentees weekly or fortnightly during recess to play games and check in on their well-being.
