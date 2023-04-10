@@ -23,3 +23,12 @@ To promote the culture of positive peer relationship and to provide a platform f
 ![](/images/studentwellbeing3.JPG)
 <br>
 ![](/images/studentwellbeing4.JPG)
+
+<u>NAPS Uplift Programme</u><br>
+In line with MOE’s UPLIFT (Uplifting Pupils in Life and Inspiring Families Taskforce) initiative to support disadvantaged students, Spark, an after-school programme was initiated by the school’s Uplift team in 2021.  The three-fold objectives of the Spark Programme are: 
+
+1. To spark the joy of learning. <br>
+2. To spark the passion in life.<br>
+3. To spark kinship among peers. <br>
+
+The Spark programme aims to engage our students to learn new skills and develop new interests and hobbies.  Our students are exposed to a variety of enrichment activities like Rollerblading, Hip Hop Dance, Global Percussion, Photo Journalism and others.  Through these activities, we hope to instil in our students positive values like confidence, resilience and a sense of pride and belonging to the school.
