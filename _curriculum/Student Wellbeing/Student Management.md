@@ -26,4 +26,121 @@ Ngee Ann Primary School has been identified to be part of the MOE’s pilot prog
 The School Counsellor supported by trained Teacher Counsellors provide support to students to manage and cope with social-emotional challenges and empower them for success. The School Counsellor and Teacher Counsellors meet up with the students weekly or fortnightly for counselling sessions to help them cope and manage the challenges they face.
 
 <u>Student Leadership</u><br>
-The goal of the Student Leadership team is to nurture our students to be Leaders of Character who demonstrate the attributes of a concerned citizen and an empathetic leader/ individual. Centralised and decentralized training programmes are designed to develop the leadership potential and provide leadership opportunities for students.  The Student Leadership Programme IN Ngee Ann Primary School follows the structure below. 
+The goal of the Student Leadership team is to nurture our students to be Leaders of Character who demonstrate the attributes of a concerned citizen and an empathetic leader/ individual. Centralised and decentralized training programmes are designed to develop the leadership potential and provide leadership opportunities for students.  The Student Leadership Programme IN Ngee Ann Primary School follows the structure below.
+
+<pre></pre>
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					Level of Influence
+				</p>
+			</td>
+			<td>
+				<p>
+					Student Leadership Appointment
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<u>Level 3</u>
+					- Building a caring &amp; enabling school culture (Student
+					Initiated)
+				</p>
+				<p>
+					The pinnacle of student leadership. Trainings and
+					discussions will be streamlined towards grooming student
+					leaders to lead their fellow student leaders in designing
+					programmes and problem solve.
+				</p>
+				<p>
+					<u> </u>
+				</p>
+			</td>
+			<td>
+				<ul>
+					<li>
+						Prefect Exco
+					</li>
+					<li>
+						Selected CCA Leaders
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<u>Level 2</u>
+					- Building a caring &amp; enabling school culture
+				</p>
+				<p>
+					Training will be provided for students who have been given
+					leadership roles to equip them with the necessary skills to
+					lead and inspire their peers.
+				</p>
+			</td>
+			<td>
+				<ul>
+					<li>
+						Prefects
+					</li>
+					<li>
+						AV Leader
+					</li>
+					<li>
+						CCA Leader
+					</li>
+					<li>
+						Eco Champ
+					</li>
+					<li>
+						PE Monitor
+					</li>
+					<li>
+						Class Monitor (CMC)
+					</li>
+					<li>
+						CyberChamp (CMC)
+					</li>
+					<li>
+						Peer Support Leader (CMC)
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<u>Level 1</u>
+					- Building a caring &amp; enabling class culture
+				</p>
+				<p>
+					Inculcate basic leadership skills in all students.
+				</p>
+				<p>
+					Impress upon them that each of them can exercise
+					self-leadership and can be a leader in their own way as
+					opportunities may arise in any situations.
+				</p>
+			</td>
+			<td>
+				<ul>
+					<li>
+						Eco Representatives
+					</li>
+					<li>
+						ICT Representatives
+					</li>
+					<li>
+						Subject Representatives
+					</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
