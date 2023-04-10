@@ -18,4 +18,12 @@ Social Skills @ Recess Programme started in 2021.  This programme focuses on tur
 
 <u>TRANSIT Programme</u>
 <br>
-Ngee Ann Primary School has been identified to be part of the MOE’s pilot programme for **TRANsition Support for InTegration (TRANSIT)**.  The programme takes place during Primary 1 to help students with social and behavioural needs develop independence through learning foundational self-management skills. Students are identified for this support programme based on information gathered from parents and teachers, and through systematic observations conducted by trained school personnel. The students identified for TRANSIT are taught pre-requisite skills in pull-out classes and are gradually integrated back into their form classes. 
+Ngee Ann Primary School has been identified to be part of the MOE’s pilot programme for **TRANsition Support for InTegration (TRANSIT)**.  The programme takes place during Primary 1 to help students with social and behavioural needs develop independence through learning foundational self-management skills. Students are identified for this support programme based on information gathered from parents and teachers, and through systematic observations conducted by trained school personnel. The students identified for TRANSIT are taught pre-requisite skills in pull-out classes and are gradually integrated back into their form classes.
+
+![](/images/studentwellbeing8.JPG)
+
+<u>School Counsellor and Teacher Counsellors</u><br>
+The School Counsellor supported by trained Teacher Counsellors provide support to students to manage and cope with social-emotional challenges and empower them for success. The School Counsellor and Teacher Counsellors meet up with the students weekly or fortnightly for counselling sessions to help them cope and manage the challenges they face.
+
+<u>Student Leadership</u><br>
+The goal of the Student Leadership team is to nurture our students to be Leaders of Character who demonstrate the attributes of a concerned citizen and an empathetic leader/ individual. Centralised and decentralized training programmes are designed to develop the leadership potential and provide leadership opportunities for students.  The Student Leadership Programme IN Ngee Ann Primary School follows the structure below. 
