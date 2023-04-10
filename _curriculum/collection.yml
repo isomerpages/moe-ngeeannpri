@@ -3,49 +3,50 @@ collections:
     output: true
     order:
       - Overview.md
+      - English/.keep
       - English/English Language Objective.md
       - English/Programme.md
       - English/Additional Support.md
       - English/Programme at a Glance.md
       - English/Reading List.md
-      - English/.keep
+      - Mathematics/.keep
       - Mathematics/Mathematics Objectives.md
       - Mathematics/Curriculum Approach.md
       - Mathematics/Core Math Programme.md
       - Mathematics/Math Learning Support Programme.md
-      - Mathematics/.keep
       - Science/.keep
       - Science/Vision, Mission and Objectives.md
       - Science/Our Approach.md
       - Science/Science Syllabus.md
       - Science/Key Programmes.md
       - Science/Applied Learning Programme, Sustainable Green @ Ngee Ann.md
+      - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Objectives.md
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
-      - Mother Tongue Languages/.keep
+      - Physical Education/.keep
       - Physical Education/Physical Education Objectives.md
       - Physical Education/Curriculum Approach.md
       - Physical Education/Character Building.md
-      - Physical Education/.keep
+      - Social Studies/.keep
       - Social Studies/Social Studies Objectives.md
       - Social Studies/Curriculum Approach.md
       - Social Studies/Assessments.md
       - Social Studies/Field Based Learning.md
-      - Social Studies/.keep
       - Aesthetics/.keep
       - Aesthetics/Aesthetics Objectives.md
       - Aesthetics/Programme.md
       - Aesthetics/Learning For Life Programme (GRACE).md
       - Aesthetics/Singapore Youth Festival Arts Presentation (SYFAP) 2022.md
       - Aesthetics/Singapore Youth Festival Art Exhibition 2021.md
+      - InfoComm Technology/.keep
       - InfoComm Technology/InfoComm Technology Objectives.md
       - InfoComm Technology/Curriculum Approach.md
       - InfoComm Technology/Cyberwellness.md
       - InfoComm Technology/Student iCON & Microsoft Office Plus.md
       - InfoComm Technology/Our School Library.md
-      - InfoComm Technology/.keep
+      - CCE/.keep
       - CCE/CCE Objectives.md
       - CCE/Values in Action (VIA).md
       - CCE/National Education (NE).md
@@ -53,4 +54,6 @@ collections:
       - CCE/MOE Sexuality Education.md
       - CCE/Form Teacher Guidance Period (FTGP).md
       - CCE/Education Career Guidance (ECG).md
-      - CCE/.keep
+      - Student Wellbeing/.keep
+      - Student Wellbeing/Student Development.md
+      - Student Wellbeing/Student Management.md
