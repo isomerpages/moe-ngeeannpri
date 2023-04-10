@@ -16,3 +16,10 @@ In Ngee Ann Primary School, students are encouraged to provide social and emotio
 
 Peer Support Leaders (PSLs) are appointed and trained to provide timely support to students within the class and level. The PSLs go through training sessions to equip them with the necessary skills and knowledge in carrying out their duties.
 
+![](/images/studentwellbeing2.JPG)
+
+To promote the culture of positive peer relationship and to provide a platform for the Peer Support Leaders to showcase and apply what they have learnt, a B.F.F (Be a Fabulous Friend) week is organized annually.  The PSLs take the lead to coordinate and manage the photo and games booths.  The aim is to remind students on the importance of being a good friend and foster positive peer relationships through games and activities during recess.
+
+![](/images/studentwellbeing3.JPG)
+<br>
+![](/images/studentwellbeing4.JPG)
