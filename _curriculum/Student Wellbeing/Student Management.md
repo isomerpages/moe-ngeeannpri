@@ -26,6 +26,7 @@ Ngee Ann Primary School has been identified to be part of the MOE’s pilot prog
 The School Counsellor supported by trained Teacher Counsellors provide support to students to manage and cope with social-emotional challenges and empower them for success. The School Counsellor and Teacher Counsellors meet up with the students weekly or fortnightly for counselling sessions to help them cope and manage the challenges they face.
 
 <u>Student Leadership</u><br>
+![](/images/studentwellbeing9.JPG)
 The goal of the Student Leadership team is to nurture our students to be Leaders of Character who demonstrate the attributes of a concerned citizen and an empathetic leader/ individual. Centralised and decentralized training programmes are designed to develop the leadership potential and provide leadership opportunities for students.  The Student Leadership Programme IN Ngee Ann Primary School follows the structure below.
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" align="left" width="606" style="width:454.25pt;border-collapse:collapse;border:none;
@@ -150,4 +151,3 @@ The goal of the Student Leadership team is to nurture our students to be Leaders
   frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:page;mso-element-left:76.8pt;
   mso-element-top:17.2pt;mso-height-rule:exactly"><span lang="EN-SG" style="mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr></tbody></table>
-	
