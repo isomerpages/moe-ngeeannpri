@@ -12,4 +12,7 @@ Positive peer relationships facilitate the provision of care, building of resili
 <br>
 ![](/images/studentwellbeing1.JPG)
 
+In Ngee Ann Primary School, students are encouraged to provide social and emotional support to one another and facilitate help-seeking by alerting trusted school personnel when their friends encounter difficulties. Supportive peer relationships can contribute to and strengthen a caring school culture.  To equip all students to be a peer supporter, the “CHEER” model, adapted from MOE Guidance Branch, is introduced as part of the Peer Support Curriculum. Peer Support Skills are taught in both curricular contexts and experiential learning through the various school activities, programmes and events.
+
+Peer Support Leaders (PSLs) are appointed and trained to provide timely support to students within the class and level. The PSLs go through training sessions to equip them with the necessary skills and knowledge in carrying out their duties.
 
