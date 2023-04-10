@@ -15,4 +15,3 @@ Students with official diagnosis of SEN and those with observed traits are assig
 Students with autism have an Individualized Education Plan crafted in line with the Structured TEACCH Approach for students with autism. For students with dyslexia, they are supported with the resources and structure based on the Orton-Gillingham Approach that is similar to the Dyslexia Association of Singapore (DAS) Literacy Support that incorporates a structured, engaging and multi-sensory learning.
 
 Social Skills @ Recess Programme started in 2021.  This programme focuses on turn-taking, friendship skills, conversation manners and observing social norms for students with SEN. The SENOs also conduct “Walk in The Shoes of Others” to promote inclusivity for students with SEN in their mainstream classes.  The aim is to create awareness among the students that their peers may differ and highlight the need to practise empathy and patience to form a community of support.
-
