@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Student Wellbeing.md
       - Overview.md
       - English/English Language Objective.md
       - English/Programme.md
