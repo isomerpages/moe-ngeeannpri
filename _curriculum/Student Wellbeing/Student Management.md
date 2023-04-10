@@ -143,4 +143,3 @@ The goal of the Student Leadership team is to nurture our students to be Leaders
 		</tr>
 	</tbody>
 </table>
-
