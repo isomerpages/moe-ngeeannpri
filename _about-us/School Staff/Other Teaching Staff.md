@@ -20,7 +20,8 @@ third_nav_title: School Staff
 | -------- | -------- |
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
 |[Mdm Wong Pui Wan Zoe](mailto:zoe_wong_pui_wan@moe.edu.sg)| [Mdm Hazel Lian Siao Lean](mailto:hazel_lian_siao_yean@moe.edu.sg)
-|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)
+|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Por Soon Lan](mailto:por_soon_lan@moe.edu.sg)
+|[Mdm Lum Yick Thim](mailto:lum_yick_thim_a@moe.edu.sg)
 
 **Special Needs Officer**
 
