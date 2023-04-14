@@ -33,7 +33,7 @@ Founded in 1845 by a group of prominent Teochews, The Kongsi meaning "Company", 
   mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-latin;
   mso-bidi-font-family:Latha"></span></i></p></td><td width="450" valign="top" style="width:337.25pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
-  64"><span style="color:black;mso-color-alt:windowtext">Goh Kim Hock<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp; </span></span><span lang="ZH-CN" style="font-family:
+  64"><span style="color:black;mso-color-alt:windowtext">Mr Goh Kim Hock<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp; </span></span><span lang="ZH-CN" style="font-family:
   DengXian;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">吴锦福</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="126" valign="top" style="width:94.25pt;border:none;border-right:solid #7F7F7F 1.0pt;
@@ -46,7 +46,7 @@ Founded in 1845 by a group of prominent Teochews, The Kongsi meaning "Company", 
   mso-bidi-font-family:Latha;color:black;mso-color-alt:windowtext">Vice-Chairman:</span></i><i><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;
   mso-ascii-theme-font:major-latin;mso-fareast-font-family:&quot;DengXian Light&quot;;
   mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-latin;
-  mso-bidi-font-family:Latha"></span></i></p></td><td width="450" valign="top" style="width:337.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Ku Swee Ngein <span style="mso-tab-count:1"></span><span lang="ZH-CN" style="font-family:
+  mso-bidi-font-family:Latha"></span></i></p></td><td width="450" valign="top" style="width:337.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Miss Ku Swee Ngein <span style="mso-tab-count:1"></span><span lang="ZH-CN" style="font-family:
   DengXian;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">邱瑞盈</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="126" rowspan="5" valign="top" style="width:94.25pt;border:none;
@@ -68,9 +68,9 @@ Founded in 1845 by a group of prominent Teochews, The Kongsi meaning "Company", 
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">吕纪鹏律师</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="450" valign="top" style="width:337.25pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
-  64"><span style="color:black;mso-color-alt:windowtext">Tan Ter Lun <span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="ZH-CN" style="font-family:DengXian;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  64"><span style="color:black;mso-color-alt:windowtext">Mr Tan Ter Lun <span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span lang="ZH-CN" style="font-family:DengXian;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">陈淂伦</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="450" valign="top" style="width:337.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Phua Chung Ann (Pan Zhong<span lang="ZH-CN" style="font-family:DengXian;mso-ascii-font-family:
+  mso-hansi-theme-font:minor-latin;color:black;mso-color-alt:windowtext">陈淂伦</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="450" valign="top" style="width:337.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Mr Phua Chung Ann (Pan Zhong<span lang="ZH-CN" style="font-family:DengXian;mso-ascii-font-family:
   Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">’</span>an)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="ZH-CN" style="font-family:
   DengXian;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
