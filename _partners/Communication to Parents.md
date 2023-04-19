@@ -41,6 +41,19 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 <br>
 [Term 1](/files/Term%201%20Letter%20to%20Parents%202023.pdf), [Term 2](/files/Term%202%20Letter%20to%20Parents%202023.pdf), Term 3, Term 4
   
+**P6 Curiculum Briefing**
+<br>
+[English Language](/files/2023%20p6%20el%20briefing.pdf)
+<br>[Foundation English Language](/files/2023%20p6%20fel%20briefing.pdf)
+<br>[Mathematics](/files/2023%20p6%20ma%20briefing.pdf)
+<br>[Foundation Mathematics](/files/2023%20p6%20fma%20briefing.pdf)
+<br>[Science](/files/2023%20p6%20sci%20briefing.pdf)
+<br>[Foundation Science](/files/2023%20p6%20fsci%20briefing.pdf)
+<br>[Chinese Language](/files/2023%20p6%20cl%20briefing.pdf)
+<br>[Foundation Chinese Language](/files/2023%20p6%20fcl%20briefing.pdf)
+<br>[Malay Language and Foundation Malay Language](/files/2023%20p6%20ml_fml%20briefing.pdf)
+<br>[Tami Language](/files/2023%20p6%20tl%20briefing.pdf)
+<br>[Higher Chinese Language](/files/2023%20p6%20hcl%20briefing.pdf)
 
 **LM Letter to Parents**
 <br>
