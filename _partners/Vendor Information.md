@@ -50,3 +50,5 @@ Steadfast Transport Service 
 Tel: 6747 4825    or    Mobile: 9736 5432 (Mr Lim)
 
 Email: [steadfastbus@gmail.com](mailto:steadfastbus@gmail.com)
+
+![](/images/schoolbus.JPG)
