@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Vendor/Vendor Information.md
-      - Vendor/.keep
       - Admission.md
       - Forms.md
       - Calendar of Events.md
@@ -11,3 +9,5 @@ collections:
       - Teachers' Helpline.md
       - Student Helpline.md
       - Parents In Education.md
+      - Vendor/.keep
+      - Vendor/Vendor Information.md
