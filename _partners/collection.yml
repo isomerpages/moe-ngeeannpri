@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Vendor/Vendor Information.md
       - Vendor/.keep
       - Admission.md
       - Forms.md
