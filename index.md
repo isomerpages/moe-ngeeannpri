@@ -17,5 +17,5 @@ sections:
       title: School Canteen Vacancy
       description: To know more, click on the link below
       button: Click Here
-      url: www.google.com.sg
+      url: /partners/vendor/advertisement/
 ---
