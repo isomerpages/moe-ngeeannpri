@@ -18,17 +18,17 @@ School Canteen Advertisement<br>
 
 <b>Application Procedure</b>
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+Step 1:  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 [Application Form](https://go.gov.sg/canteenstall)
 
-2. Attached the following documents together with the application form:
+Step 2:  Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+Step 3: Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 Address:&nbsp; 344 Marine Terrace S449149
 
