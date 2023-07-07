@@ -26,7 +26,7 @@ NAPS Approach to Cyber Wellness programme for students
 
 **Resources for Students**
 
-Interland
+[Interland](https://beinternetawesome.withgoogle.com/en_us/interland)
 
 ![](/images/Interland.jpeg)
 
@@ -39,4 +39,7 @@ Interland is a free web-based game consists of 4 mini-games that allows players 
 |3|Kind Kingdom|-   Understanding that the Internet amplifies kindness and negativity<br>-   Not tolerating bullying and speaking up<br>-   Blocking and reporting mean-spirited behaviour
 |4|Tower of Treasure|-   Taking responsibility to protect one’s information<br>-   Knowing how to make a strong and memorable password
 
-It should take approximately 15 to 20 minutes per game or a total of 1 to 1.5 hours for students to complete the 4 mini-games, and the link to Interland is: [g.co/interland](https://beinternetawesome.withgoogle.com/en_us/interland)
+It should take approximately 15 to 20 minutes per game or a total of 1 to 1.5 hours for students to complete the 4 mini-games, and the link to Interland is:&nbsp;[g.co/interland](https://beinternetawesome.withgoogle.com/en_us/interland)
+
+[7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm)
+![cyberdads collage for main photo](https://www.schoolbag.edu.sg/images/default-source/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special/cyberdads-collage-for-main-photo.jpg)
