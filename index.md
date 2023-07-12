@@ -14,6 +14,7 @@ sections:
       button: Ngee Ann Primary School 爱我義安
       url: https://www.facebook.com/profile.php?id=100064057052671
       image: /images/infopic.jpeg
+      alt: Ngee Ann Facebook Page
   - infobar:
       title: 2023 P1 Registration Exercise Phase 2A (12 - 14 July 2023)
       description: Singapore Citizen or Permanent Resident child born between 2 Jan
