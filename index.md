@@ -20,4 +20,10 @@ sections:
         former student of NAPS.
       button: Click here for more info
       url: https://www.moe.gov.sg/primary/p1-registration
+  - infopic:
+      title: Events
+      description: For the latest events and happenings, follow us on Facebook
+      button: Ngee Ann Primary School 爱我義安
+      url: https://www.facebook.com/profile.php?id=100064057052671
+      image: /images/infopic.jpeg
 ---
