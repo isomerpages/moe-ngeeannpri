@@ -32,9 +32,9 @@ Emma Koh, P2
 
 Gabrielle Chan, P2
 
-Category B – _Anyone Hungry?_
+**Category B** – _Anyone Hungry?_
 
-
+![](/images/picture%20b.png)
 
 “Our artwork is inspired by Tan Zi Xi’s Plastic Ocean.
 
@@ -56,9 +56,9 @@ Elizabeth Lim, P4
 
 Ansley Tong, P4
 
-Category C – _Identities_
+**Category C**  – _Identities_
 
-_(Insert “Picture C” here)_
+![](/images/picture%20c.png)
 
 “Inspired by Picasso’s Weeping Woman, the background reflects undulating life experiences, while the fingerprints represent how uniquely individuals process emotions. The specks of gold remind us that despite challenges we face, our strengths and talents will shine through in times of difficulty. Positive thoughts and deeds generates possibilities to win.”
 
