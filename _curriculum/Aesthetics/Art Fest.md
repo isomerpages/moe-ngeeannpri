@@ -27,7 +27,7 @@ third_nav_title: Aesthetics
     string and marble art!
 </p>
 <p>
-    (Insert <em>Video “Arts Fest 2023” here</em>)
+    [Art Fest 2023](https://drive.google.com/file/d/1xK-T2ac8utbiWm2WgQFQFJsODnFH0aEV/view?usp=drive_link)
 </p>
 <p>
     The first of its kind in Ngee Ann Primary School, this Arts  Fest was
