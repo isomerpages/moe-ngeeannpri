@@ -4,3 +4,40 @@ permalink: /curriculum/aesthetics/artfest/
 description: ""
 third_nav_title: Aesthetics
 ---
+<p>
+    <strong><u>Arts Fest 2023</u></strong>
+</p>
+<p>
+    As part of the school’s LLP in “<strong>GR</strong>owing
+    <strong>A</strong>ppreciation  for <strong>C</strong>reative
+    <strong>
+        E
+    </strong>
+    xpression”, all students were given the opportunity  to immerse themselves
+    in the vibrancy of the arts at NAPS to mark the end of a  fruitful first
+    semester at school.
+</p>
+<p>
+    Students were treated to a day’s worth of art and music  activities
+    beginning with an exciting line-up of performances. After which, they  also
+    learnt something new about art and music which was introduced to them by
+    “<em>Art and Music Mentors</em>”, a role that is taken on by students from
+    senior levels.  During recess, students even got their caricatures done by a
+    professional, played  the boomwhackers, drew their friends, and dabbled in
+    string and marble art!
+</p>
+<p>
+    (Insert <em>Video “Arts Fest 2023” here</em>)
+</p>
+<p>
+    The first of its kind in Ngee Ann Primary School, this Arts  Fest was
+    conceived with the intention of giving our pupils a wider perspective  of
+    the Arts as well as to give our art and music leaders an opportunity to lead
+    and champion the Arts.
+</p>
+<p>
+    We hope that this inclusive platform will help students  build confidence
+    and create lasting shared memories of being a student at NAPS  when they
+    experience the joy of creative expression when acquiring new  knowledge or
+    skill and showcase their talent or passion for the Arts.
+</p>
