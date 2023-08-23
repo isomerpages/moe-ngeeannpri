@@ -8,9 +8,9 @@ To reflect their passion for the Visual Arts, our young artists from the school�
 
 We are proud to announce that our students artists behind “Anggerik” have received the _Certificate of Recogition_ for their piece. All three works will be put up on an E-gallery by the SYF committee.
 
-Category A – _Anggerik_
+**Category A** – _Anggerik_
 
-_(Insert “Picture A” here)_
+![](/images/picture%20a.jpeg)
 
 “Our artwork is inspired by the late Mr Sarkasi Said’s artwork entitled Rawa-Rawa.
 
@@ -34,7 +34,7 @@ Gabrielle Chan, P2
 
 Category B – _Anyone Hungry?_
 
-_(Insert “Picture B” here)_
+
 
 “Our artwork is inspired by Tan Zi Xi’s Plastic Ocean.
 
