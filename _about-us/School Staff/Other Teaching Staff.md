@@ -33,4 +33,4 @@ third_nav_title: School Staff
 
 School Counsellor
 
-[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg)
+[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) | Ms Tee Ying Seah Cheralin
