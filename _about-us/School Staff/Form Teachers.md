@@ -23,9 +23,9 @@ third_nav_title: School Staff
 | -------- | -------- | 
 |P2 Unity|[Mdm Azizah Bte Juma'at](mailto:azizah_jumaat@moe.edu.sg)<br>[Ms Liu Mengkuan](mailto:liu_meng_kuan@moe.edu.sg)<br>[Mdm Khoo Hui Hoon, Teresa](mailto:khoo_hui_hoon@moe.edu.sg)
 |P2 Respect|[Mdm Kartini Bte Abdul Hamid](mailto:kartini_abdul_hamid@moe.edu.sg)<br>[Mr Neo Ginn Ning Bryan](mailto:bryan_neo_ginn_ning@moe.edu.sg)
-|P2 Honesty|[Mdm Chan Siew Leng](mailto:chan_siew_leng@moe.edu.sg)<br>[Ms Chen Hui Ting](mailto:chen_hui_ting@moe.edu.sg)
+|P2 Honesty|[Mdm Chan Siew Leng](mailto:chan_siew_leng@moe.edu.sg)<br>[Ms&nbsp;Chen Hui Ting](mailto:chen_hui_ting@moe.edu.sg)
 |P2 Love|[Mdm Beh Choo Kim](mailto:beh_choo_kim@moe.edu.sg)<br>[Mr Ahmad Musta'in Bin Ahmad Rumzi](mailto:ahmad_mustain@moe.edu.sg)
-|P2 Joy|[Mdm Alice Lim Mei Lian](mailto:lim_mei_lian_alice@moe.edu.sg)<br>[Ms Manjusri](mailto:manjusri_veeragoo_sg@moe.edu.sg)|
+|P2 Joy|[Mdm Alice Lim Mei Lian](mailto:lim_mei_lian_alice@moe.edu.sg)<br>[Ms&nbsp;Manjusri](mailto:manjusri_veeragoo_sg@moe.edu.sg)|
 |P2 Tenacity|[Ms Cheah Siew Yin Angeline](mailto:cheah_siew_yin_angeline@moe.edu.sg)<br>[Mr Shafiruddin B Rahim](mailto:shafiruddin_b_rahim@moe.edu.sg)
 |P2 Care|[Ms Hannah Yeoh Shih En](mailto:hannah_yeoh_shih_en@moe.edu.sg)<br>[Mdm Sadhana Bte Yusop](mailto:sadhana_yusop@moe.edu.sg)
 |P2 Kindness|[Mr Chan Sin Liang](mailto:chan_sin_liang@moe.edu.sg)<br>[Mdm Mastura](mailto:mastura_noordin@moe.edu.sg)
@@ -56,7 +56,7 @@ third_nav_title: School Staff
 
 |  |  |
 | -------- | -------- | 
-|P5 Unity|[Ms Revathy D/O Pachamuthu](revathy_pachamuthu@moe.edu.sg) <br>[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
+|P5 Unity|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg) <br>[Ms Seah Xiao Yun, Sherlyn](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
 |P5 Respect|[Mdm Ting Soo Wee Karen](mailto:ting_soo_wee@moe.edu.sg)<br>[Mr Ng Gem Peng Derick](mailto:ng_gem_peng_derick@moe.edu.sg)
 |P5 Honesty|[Mr Kenneth Goh Tai Peng](mailto:kenneth_goh_tai_peng@moe.edu.sg)<br>[Mr Ridzwan B Abas](mailto:ridzwan_b_abas@moe.edu.sg)
 |P5 Love|[Mr Adam Quek Joe Luck](mailto:adam_quek_joe_luck@moe.edu.sg)<br>[Mdm Lim Meixia Larene](mailto:lim_mei_xia_larene@moe.edu.sg)
@@ -71,7 +71,7 @@ third_nav_title: School Staff
 |P6 Unity|[Mdm Norshahanaz Bte Md Noordin](mailto:norshahanaz_md_noordin@moe.edu.sg)<br>[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)
 |P6 Respect|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)<br>[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
 |P6 Honesty|[Mr Rahul Rajasabhai](mailto:rahul_rajasabhai@moe.edu.sg)<br>[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
-|P6 Love| [Mdm Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)<br>[Mdm Rafeah Bte Yahya](mailto:rafeah_yahya@moe.edu.sg)
+|P6 Love|&nbsp;[Mdm Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)<br>[Mdm Rafeah Bte Yahya](mailto:rafeah_yahya@moe.edu.sg)
 |P6 Joy|[Mdm Liang Guifang Evelyn](mailto:liang_guifang_evelyn@moe.edu.sg)<br>[Mr Shahrudin Bin Salleh](mailto:shahrudin_salleh@moe.edu.sg)
 |P6 Tenacity|[Ms Kuah Soh Ling, Sharon](mailto:kuah_soh_ling@moe.edu.sg)<br>[Mr Mohammad Shahrin Bin Jasmani](mailto:mohammad_shahrin_jasmani@moe.edu.sg)
 |P6 Care|[Mrs Alyssa Wijaya](mailto:chng_hwee_hwee@moe.edu.sg)<br>[Mdm Ang Leng Hwee Angela](mailto:ang_leng_hwee@moe.edu.sg)
