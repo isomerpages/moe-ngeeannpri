@@ -13,6 +13,7 @@ third_nav_title: School Staff
 | [Mdm Chong Kui Lan](mailto:chong_kui_lan@moe.edu.sg)|[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
 |[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg)|[Mdm Choo Choon Mui, Jenny](mailto:choo_choon_mui@moe.edu.sg)
 |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)  |[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
+|[Mr Hoon Ding Chen](mailto:hoon_ding_cheng@moe.edu.sg)
 
 **Other Language Teachers**
 
@@ -32,4 +33,4 @@ third_nav_title: School Staff
 
 School Counsellor
 
-[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg)
+[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) | Ms Tee Ying Seah Cheralin
