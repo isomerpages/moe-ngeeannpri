@@ -39,7 +39,7 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Termly Letter to Parents**
 <br>
-[Term 1](/files/Term%201%20Letter%20to%20Parents%202023.pdf), [Term 2](/files/Term%202%20Letter%20to%20Parents%202023.pdf), [Term 3](/files/2023%20term%203%20letter%20to%20parents%20.pdf), Term 4
+[Term 1](/files/Term%201%20Letter%20to%20Parents%202023.pdf), [Term 2](/files/Term%202%20Letter%20to%20Parents%202023.pdf), [Term 3](/files/2023%20term%203%20letter%20to%20parents%20.pdf), [Term 4](/files/term%204%20letter%20to%20parents%202023.pdf)
   
 **P6 Curiculum Briefing**
 <br>
@@ -57,17 +57,17 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **LM Letter to Parents**
 <br>
-P1 -&nbsp;[Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P1%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3, Term 4
+P1 -&nbsp;[Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P1%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p1%20term%203%20level%20letter%202023.pdf), Term 4
 <br>
-P2 -&nbsp;[Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P2%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3,&nbsp;Term 4
+P2 -&nbsp;[Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P2%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p2%20term%203%20level%20letter%202023.pdf), Term 4
 <br>
-P3 -&nbsp;[Term 1](/files/P3%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P3%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3,&nbsp;Term 4
+P3 -&nbsp;[Term 1](/files/P3%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P3%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p3%20term%203%20level%20letter%202023.pdf), Term 4
 <br>
-P4 -&nbsp;[Term 1](/files/P4%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P4%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3,&nbsp;Term 4
+P4 -&nbsp;[Term 1](/files/P4%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P4%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p4%20term%203%20level%20letter%202023.pdf), Term 4
 <br>
-P5 -&nbsp;[Term 1](/files/P5%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P5%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3,&nbsp;Term 4
+P5 -&nbsp;[Term 1](/files/P5%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P5%20Term%202%20Level%20Letter%202023.pdf), [Term 3](), Term 4
 <br>
-P6 -&nbsp;[Term 1](/files/P6%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P6%20Term%202%20Level%20Letter%202023.pdf),&nbsp;Term 3,&nbsp;Term 4
+P6 -&nbsp;[Term 1](/files/P6%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P6%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p6%20term%203%20level%20letter%202023.pdf), Term 4
 
   
 
