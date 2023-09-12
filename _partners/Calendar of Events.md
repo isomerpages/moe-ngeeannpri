@@ -747,3 +747,9 @@ description: ""
 <p><br></p>
 <p>School Term: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mon, 11 Sep 2023 – Fri, 17 Nov 2023 &nbsp; &nbsp; &nbsp;</p>
 <p>School Vacation: &nbsp; &nbsp; &nbsp; &nbsp; Sat, 18 Nov 2023 – Tue, 2 Jan 2024</p>
+<p><br></p>
+<p>PSLE: Primary School Leaving Examination</p>
+<p>EYE: End-of-Year Examinations</p>
+<p><br></p>
+<p>School activities will be carried out during curriculum time, unless otherwise specified.</p>
+<p>*More details will be provided to the levels/students involved closer to the date.</p>
