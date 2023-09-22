@@ -36,7 +36,7 @@ third_nav_title: School Staff
 |OSO|Mdm Kalla
 |OSO|Mr Johari
 |Admin Assistant|Mdm Djaja Mega
-|Admin Assistant| Ms Joanne Wee
+|Admin Assistant|Mdm Shahrulbariah Ali
 |ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim
-|Desktop Engineer|Mr Kelvin Tan
+|Desktop Engineer|Mr Au Yang Xian
