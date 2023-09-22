@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/A2Test.png
+  - infobar:
+      title: Notification of School Canteen Stall Vacancy
+      id: infobar
+      description: We have a vancancy for Halal Rice stall. interested applicants may
+        click on the button below for more information.
+      button: Click here
+      url: https://www.ngeeannpri.moe.edu.sg/partners/vendor/advertisement/
   - infopic:
       title: Events
       description: For the latest events and happenings, follow us on Facebook
