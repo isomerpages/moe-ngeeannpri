@@ -2,6 +2,7 @@
 title: Communication to Parents
 permalink: /partners/Communication-to-Parents/
 description: ""
+variant: markdown
 ---
 **Student Learning Space**
 
@@ -39,7 +40,7 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Termly Letter to Parents**
 <br>
-[Term 1](/files/Term%201%20Letter%20to%20Parents%202023.pdf), [Term 2](/files/Term%202%20Letter%20to%20Parents%202023.pdf), [Term 3](/files/2023%20term%203%20letter%20to%20parents%20.pdf), [Term 4](/files/term%204%20letter%20to%20parents%202023%20(1).pdf)
+Term 1, Term 2, Term 3, [Term 4](/files/term%204%20letter%20to%20parents%202023%20(1).pdf)
   
 **P6 Curiculum Briefing**
 <br>
@@ -57,31 +58,31 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **LM Letter to Parents**
 <br>
-P1 -&nbsp;[Term 1](/files/P1%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P1%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p1%20term%203%20level%20letter%202023.pdf), [Term 4](/files/p1%20term%204%20level%20letter%202023.pdf)
+P1 -Term 1, Term 2, Term 3, [Term 4](/files/p1%20term%204%20level%20letter%202023.pdf)
 <br>
-P2 -&nbsp;[Term 1](/files/P2%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P2%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p2%20term%203%20level%20letter%202023.pdf), [Term 4](/files/p2%20term%204%20level%20letter%202023.pdf)
+P2 -Term 1, Term 2, Term 3, [Term 4](/files/p2%20term%204%20level%20letter%202023.pdf)
 <br>
-P3 -&nbsp;[Term 1](/files/P3%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P3%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p3%20term%203%20level%20letter%202023.pdf), [Term 4](/files/p3%20term%204%20level%20letter%202023.pdf)
+P3 -Term 1, Term 2, Term 3, [Term 4](/files/p3%20term%204%20level%20letter%202023.pdf)
 <br>
-P4 -&nbsp;[Term 1](/files/P4%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P4%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p4%20term%203%20level%20letter%202023.pdf), [Term 4](/files/p4%20term%204%20level%20letter%202023.pdf)
+P4 -Term 1, Term 2, Term 3, [Term 4](/files/p4%20term%204%20level%20letter%202023.pdf)
 <br>
-P5 -&nbsp;[Term 1](/files/P5%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P5%20Term%202%20Level%20Letter%202023.pdf), [Term 3](), [Term 4](/files/p5%20term%204%20level%20letter%202023.pdf)
+P5 -Term 1, Term 2, Term 3, [Term 4](/files/p5%20term%204%20level%20letter%202023.pdf)
 <br>
-P6 -&nbsp;[Term 1](/files/P6%20Term%201%20Level%20Letter%202023.pdf), [Term 2](/files/P6%20Term%202%20Level%20Letter%202023.pdf), [Term 3](/files/p6%20term%203%20level%20letter%202023.pdf), [Term 4]()
+P6 -Term 1, Term 2, Term 3, [Term 4](/files/p6%20term%204%20level%20letter%202023.pdf)
 
   
 
-**2023 Booklist**  
-P1 -&nbsp;[Click here](/files/Primary%201.pdf)
-<br>P2 -&nbsp;[Click here](/files/Primary%202.pdf)
-<br>P3 -&nbsp;[Click here](/files/Primary%203.pdf)
-<br>P4 -&nbsp;[Click here](/files/Primary%204.pdf)
-<br>P5 -&nbsp;[Click here](/files/Primary%205.pdf)
-<br>P5 1SEL -&nbsp;[Click here](/files/5%201SEL3F.pdf)
-<br>P5 1SMT3F -&nbsp;[Click here](/files/5%201SMT3F.pdf)
-<br>P5 2S2F -&nbsp;[Click here](/files/5%202S2F%20(1).pdf)
-<br>P5 4F -&nbsp;[Click here]
-<br>P6 -&nbsp;[Click here](/files/Primary%206.pdf)
-<br>P6 1SMT3F -&nbsp;[Click here](/files/6%201SMT3F.pdf)
-<br>P6 2S2F -&nbsp;[Click here](/files/6%202S2F.pdf)
-<br>P6 4F -&nbsp;[Click here](/files/6%204F.pdf)
+**2024 Booklist**  
+P1 - [Click here](/files/2024%20Booklist/Ngee_Ann_Booklist_2024_Primary_1_v2.pdf)
+<br>P2 - [Click here](/files/2024%20Booklist/Ngee_Ann_Booklist_2024_Primary_2.pdf)
+<br>P3 - [Click here](/files/2024%20Booklist/Ngee_Ann_Booklist_2024_Primary_3.pdf)
+<br>P4 -
+<br>P5 -
+<br>P5 1SEL -
+<br>P5 1SMT3F -
+<br>P5 2S2F -
+<br>P5 4F -
+<br>P6 -
+<br>P6 1SMT3F -
+<br>P6 2S2F -
+<br>P6 4F -
