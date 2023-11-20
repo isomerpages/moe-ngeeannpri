@@ -2,30 +2,31 @@
 title: Student Helpline
 permalink: /partners/Student-Helpline/
 description: ""
+variant: markdown
 ---
 **School Helpline (Home-Based Learning)**
 
-SLS password reset : Send an email to naps@moe.edu.sg with your name & class. The password will be resetted within 3 working days.
+SLS password reset : Send an email to naps@moe.edu.sg with your name &amp; class. The password will be resetted within 3 working days.
 
 For SLS userid, please approach your form teachers.
 
  **SLS Helpline**
 
-Students should contact the **SLS Helpdesk** for support.
+Students should contact the&nbsp;**SLS Helpdesk**&nbsp;for support.
 
-Call SLS Helpdesk at 6702 6513
+Call SLS Helpdesk at&nbsp;6702 6513
 
 Mondays - Fridays: 4:00 pm - 9:00 pm<br>
 Saturdays: 9:00 am - 3:00 pm<br>
-\*Closed on Sundays & Public Holidays
+\*Closed on Sundays &amp; Public Holidays
 
- Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
+&nbsp;Email SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
- When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
+&nbsp;When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
 
 **Student iCON**
 
-For a detailed guide on student iCON, please [click here](https://ngeeannpri.moe.edu.sg/curriculum/infocomm-technology/student-icon).
+For a detailed guide on student iCON, [click here](https://www.ngeeannpri.moe.edu.sg/curriculum/InfoComm-Technology/Student-iCON-and-Microsoft-Office-Plus/)
 
 **Chinese E-Learning Platform**
 
@@ -37,4 +38,4 @@ For a detailed guide on student iCON, please [click here](https://ngeeannpri.mo
 
 **Mathematics E-Learning Platform**
 
-[Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
+[Koobits](https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login)
