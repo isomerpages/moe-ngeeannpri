@@ -38,6 +38,11 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
+**P1 2024 Orientation Kit**<br>
+[P1 2024 Orientation](/files/P1_2024_Orientation_smaller_compressed.pdf) <br>
+[P1 Info Sheet 2024](/files/P1_Information_Sheet__1_2024_.pdf) <br>
+[P1 Parents FAQ 2024](/files/Primary_1_Parents_FAQ_2024.pdf)
+
 **Termly Letter to Parents**
 <br>
 Term 1, Term 2, Term 3, [Term 4](/files/term%204%20letter%20to%20parents%202023%20(1).pdf)
