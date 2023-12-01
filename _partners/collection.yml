@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Google Calendar.md
+      - School Academic Calendar.md
       - Admission.md
       - Forms.md
       - Calendar of Events.md
