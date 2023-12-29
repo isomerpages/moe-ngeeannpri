@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - School Academic Calendar.md
       - Admission.md
       - Forms.md
+      - School Academic Calendar.md
       - Calendar of Events.md
       - Communication to Parents.md
       - Teachers' Helpline.md
