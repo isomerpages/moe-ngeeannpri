@@ -2,11 +2,12 @@
 title: Visual Arts
 permalink: /ccas/Club-and-Societies/Visual-Arts/
 description: ""
-third_nav_title: Club &amp; Societies
+third_nav_title: Club & Societies
+variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Masturah**<br>Ms Purdee<br>Ms Chen Hui Ting    | 
+| **Teachers In Charge**     | **Mdm Masturah**<br>Ms Tan What Goh  | 
 |**Training Day**|Monday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Art Room
