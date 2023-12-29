@@ -34,6 +34,6 @@ variant: markdown
 |[Mdm Nur Shereen Bte Mohd Shah](mailto:nur_shereen_mohamed_shah@moe.edu.sg)|[Ms Nurhanim Bte Md Ali](mailto:nurhanim_mohd_ali@moe.edu.sg)
 |[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)|[Mdm Siti Aminah](mailto:siti_aminah_mahfud@moe.edu.sg)
 
-School Counsellor
+**School Counsellor**
 
-[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) | Ms Tee Ying Seah Cheralin
+[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) | [Ms Tee Ying Seah Cheralin](mailto:tee_ying_seah_cheralin@moe.edu.sg)
