@@ -3,6 +3,7 @@ title: Administrative Team
 permalink: /about-us/School-Staff/Administrative-Team/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 **School Leaders**
 
@@ -27,7 +28,7 @@ third_nav_title: School Staff
 |MSO|Ms Rachel Tan
 |MSO|Mdm Josephine Quek|
 |MSO|Mdm Kathleen Ho
-|Adjunct MSO|Ms Florence
+|Adjunct MSO|Mdm Azreen
 |Receptionist|Mdm Aldilla
 |OSO|Mdm Sarifah
 |OSO|Mdm Hazrinah
@@ -36,7 +37,7 @@ third_nav_title: School Staff
 |OSO|Mdm Kalla
 |OSO|Mr Johari
 |Admin Assistant|Mdm Djaja Mega
-|Admin Assistant|Mdm Shahrulbariah Ali
+|Admin Assistant|Mdm Catlyn
 |ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim
 |Desktop Engineer|Mr Au Yang Xian
