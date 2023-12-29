@@ -45,7 +45,7 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Termly Letter to Parents**
 <br>
-Term 1, Term 2, Term 3, [Term 4](/files/term%204%20letter%20to%20parents%202023%20(1).pdf)
+[Term 1](/files/Term_1_Letter_to_Parents_2024.pdf), Term 2, Term 3, Term 4
   
 **P6 Curiculum Briefing**
 <br>
@@ -63,17 +63,17 @@ Term 1, Term 2, Term 3, [Term 4](/files/term%204%20letter%20to%20parents%202023%
 
 **LM Letter to Parents**
 <br>
-P1 -Term 1, Term 2, Term 3, [Term 4](/files/p1%20term%204%20level%20letter%202023.pdf)
+P1 -Term 1, Term 2, Term 3, Term 4
 <br>
-P2 -Term 1, Term 2, Term 3, [Term 4](/files/p2%20term%204%20level%20letter%202023.pdf)
+P2 -Term 1, Term 2, Term 3, Term 4
 <br>
-P3 -Term 1, Term 2, Term 3, [Term 4](/files/p3%20term%204%20level%20letter%202023.pdf)
+P3 -Term 1, Term 2, Term 3, Term 4
 <br>
-P4 -Term 1, Term 2, Term 3, [Term 4](/files/p4%20term%204%20level%20letter%202023.pdf)
+P4 -Term 1, Term 2, Term 3, Term 4
 <br>
-P5 -Term 1, Term 2, Term 3, [Term 4](/files/p5%20term%204%20level%20letter%202023.pdf)
+P5 -Term 1, Term 2, Term 3, Term 4
 <br>
-P6 -Term 1, Term 2, Term 3, [Term 4](/files/p6%20term%204%20level%20letter%202023.pdf)
+P6 -Term 1, Term 2, Term 3, Term 4
 
   
 
