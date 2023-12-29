@@ -2,11 +2,12 @@
 title: Experience Language, Discovering Talent (ELDT)
 permalink: /ccas/Club-and-Societies/Experience-Language-Discovering-Talent-ELDT/
 description: ""
-third_nav_title: Club &amp; Societies
+third_nav_title: Club & Societies
+variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mr Teo Ee Ming**<br>Mr Hoon Wei Sheng    | 
+| **Teachers In Charge**     | Mr Hoon Wei Sheng    | 
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Library (Level 1)
