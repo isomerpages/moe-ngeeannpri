@@ -36,4 +36,4 @@ variant: markdown
 
 **School Counsellor**
 
-[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) | [Ms Tee Ying Seah Cheralin](mailto:tee_ying_seah_cheralin@moe.edu.sg)
+[Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) |
