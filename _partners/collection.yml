@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Fathers @ NAPS.md
       - Parent Support Group (PSG).md
       - Admission.md
       - Forms.md
