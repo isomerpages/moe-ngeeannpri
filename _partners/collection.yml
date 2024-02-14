@@ -2,15 +2,15 @@ collections:
   partners:
     output: true
     order:
-      - Fathers @ NAPS.md
       - Parent Support Group (PSG).md
-      - Admission.md
-      - Forms.md
-      - School Academic Calendar.md
+      - Fathers @ NAPS.md
       - Communication to Parents.md
-      - Teachers' Helpline.md
-      - Student Helpline.md
-      - Parents In Education.md
+      - School Academic Calendar.md
       - Vendor/.keep
       - Vendor/Vendor Information.md
       - Vendor/Notification of Vacancy.md
+      - Admission.md
+      - Forms.md
+      - Teachers' Helpline.md
+      - Student Helpline.md
+      - Parents In Education.md
