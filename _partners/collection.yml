@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Useful Links/Teachers' Helpline.md
       - Useful Links/Student Helpline.md
       - Useful Links/Forms.md
       - Useful Links/.keep
