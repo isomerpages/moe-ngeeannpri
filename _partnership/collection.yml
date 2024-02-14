@@ -1,5 +1,4 @@
 collections:
   partnership:
     output: true
-    order:
-      - Fathers @ NAPS.md
+    order: []
