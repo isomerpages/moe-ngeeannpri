@@ -75,7 +75,7 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Parent Gateway**
 
-Parent Gateway FAQ -&nbsp;[Click here](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
+Parent Gateway FAQ -[Click here](https://pg.moe.edu.sg/faq)
 
 Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
 
