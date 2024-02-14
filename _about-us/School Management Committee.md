@@ -2,8 +2,9 @@
 title: School Management Committee
 permalink: /about-us/School-Management-Committee/
 description: ""
+variant: markdown
 ---
-Ngee Ann Primary School is a Government-Aided school with strong financial support rendered by the School Management Committee -&nbsp;[The Ngee Ann Kongsi](http://www.ngeeann.com.sg/).
+Ngee Ann Primary School is a Government-Aided school with strong financial support rendered by the School Management Committee -&nbsp;[The Ngee Ann Kongsi](https://thengeeannkongsi.com.sg/en/).
 
   
 
