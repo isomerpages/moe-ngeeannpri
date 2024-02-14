@@ -5,6 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: Useful Links
 ---
+**Student Learning Space**
+
+[Guide to getting started with SLS](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
+
 **School Helpline (Home-Based Learning)**
 
 SLS password reset : Send an email to naps@moe.edu.sg with your name &amp; class. The password will be resetted within 3 working days.
