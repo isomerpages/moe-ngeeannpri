@@ -2,10 +2,10 @@ collections:
   partners:
     output: true
     order:
-      - Useful Links/Teachers' Helpline.md
-      - Useful Links/Student Helpline.md
-      - Useful Links/Forms.md
       - Useful Links/.keep
+      - Useful Links/Forms.md
+      - Useful Links/Student Helpline.md
+      - Useful Links/Teachers' Helpline.md
       - Parent Support Group (PSG).md
       - Fathers @ NAPS.md
       - Communication to Parents.md
