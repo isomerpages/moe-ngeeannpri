@@ -2,7 +2,7 @@
 title: Sports Club
 permalink: /ccas/sports-and-games/sportsclub/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 | |  | 
 | -------- | -------- | 
