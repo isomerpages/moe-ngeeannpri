@@ -1,0 +1,15 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Parent Support Group (PSG).md
+      - Fathers @ NAPS.md
+      - Letters & Notifications.md
+      - School Calendar.md
+      - Vendors/.keep
+      - Vendors/Vendor Information.md
+      - Vendors/Notification of Vacancy.md
+      - Useful Links/.keep
+      - Useful Links/Forms.md
+      - Useful Links/Useful Links for Students.md
+      - Useful Links/Teachers' Helpline.md

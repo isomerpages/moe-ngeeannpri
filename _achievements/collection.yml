@@ -1,0 +1,10 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Academic/2023.md
+      - Academic/2022.md
+      - Academic/.keep
+      - CCA Achievement/CCA Achievement 2023.md
+      - CCA Achievement/CCA Achievement 2022.md
+      - CCA Achievement/.keep

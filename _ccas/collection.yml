@@ -1,0 +1,27 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Sports Club.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Track & Field.md
+      - Sports & Games/Wushu.md
+      - Club & Societies/.keep
+      - Club & Societies/Eco Club.md
+      - Club & Societies/Experience Language, Discovering Talent (ELDT).md
+      - Club & Societies/Infocomm & Media Club.md
+      - Club & Societies/Visual Arts.md
