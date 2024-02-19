@@ -1,8 +1,9 @@
 ---
 title: Wushu
-permalink: /ccas/Sports-and-Games/Wushu/
+permalink: /ccas/sports-and-games/wushu/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
+variant: tiptap
 ---
 | |  | 
 | -------- | -------- | 

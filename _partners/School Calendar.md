@@ -1,5 +1,5 @@
 ---
-title: School Academic Calendar
+title: School Calendar
 permalink: /partners/gcalendar/
 variant: markdown
 description: ""

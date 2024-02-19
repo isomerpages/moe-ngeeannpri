@@ -2,7 +2,7 @@
 title: Vendor Information
 permalink: /partners/Vendor-Information/
 description: ""
-third_nav_title: Vendor
+third_nav_title: Vendors
 ---
 **Student Care @ Ngee Ann Primary School**  
 

@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /ccas/Sports-and-Games/Floorball/
+permalink: /ccas/sports-and-games/floorball/
 description: ""
 third_nav_title: Sports & Games
 variant: markdown

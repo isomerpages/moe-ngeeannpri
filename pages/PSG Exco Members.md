@@ -5,8 +5,8 @@ description: ""
 ---
 ![](/images/psg.jpeg)
 
-<center>Ms Kinpi Padia, Chairperson
-<br>Mdm Suzanna Lim 
+<center>Ms Kinpi Padia,&nbsp;Chairperson
+<br>Mdm Suzanna Lim&nbsp;
 <br>Mdm Lee Pei Lin
 <br>Mr Daniel Wee
 <br>Mr Tan Jui Tee</center>

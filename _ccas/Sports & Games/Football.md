@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /ccas/Sports-and-Games/Football/
+permalink: /ccas/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
 variant: markdown
