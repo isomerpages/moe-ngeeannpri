@@ -2,9 +2,8 @@
 title: School Crest, Motto & Song
 permalink: /about-us/School-Crest-Motto-and-Song/
 description: ""
+variant: markdown
 ---
-
-
 **OUR SCHOOL CREST**
 
 
@@ -24,8 +23,7 @@ The motto "ONWARD IN UNITY" is to remind the pupils that they have to work in un
 
 **OUR SCHOOL SONG**
 
-<img src="/images/schsong_thumb.jpeg" 
-     style="width:50%;float:right">
+<img src="/images/schsong_thumb.jpeg" style="width:50%;float:right">
 		 
 We're the pupils of Ngee Ann Primary,  
 Young though we may be.  
@@ -37,7 +35,7 @@ Ngee Ann Primary,
 Our pride you’ll always be.  
 To seek for knowledge as rule  
 Diligent we must be.  
-Bring honour to our beloved school,  
+Bringing honour to our beloved school,  
 This our aim shall be.  
   
 Ngee Ann, Ngee Ann,  
