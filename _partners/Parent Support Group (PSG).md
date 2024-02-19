@@ -2,6 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /partnership/Parent-Support-Group-PSG/
 description: ""
+variant: markdown
 ---
 Our Parents Support Group (PSG) was formed in 1999 to promote parenting skills and value of family bonding. The PSG members participate actively in our school programmes.
 
@@ -29,4 +30,4 @@ Click here to visit [NAPS PSG Facebook Group](https://www.facebook.com/groups/A
 
 [Click here to be part of NAPS PSG](https://form.gov.sg/61df783d6e0f840013fef2d1)
 
-![](/images/psg.jpeg)
+![](/images/PSG2024.jpeg)
