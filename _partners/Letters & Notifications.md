@@ -6,7 +6,7 @@ variant: markdown
 ---
 **Termly Letter to Parents**
 <br>
-[Term 1](/files/Term_1_Letter_to_Parents_2024.pdf), Term 2, Term 3, Term 4
+[Term 1](/files/Term_1_Letter_to_Parents_2024.pdf), [Term 2](/files/Term_2_Letter_to_Parents_2024_.pdf), Term 3, Term 4
 
 **LM Letter to Parents**
 <br>
@@ -87,10 +87,3 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 [One page Infographic on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
-
-  
-
-
-
-  
-
