@@ -3,6 +3,7 @@ title: Tamil Language
 permalink: /curriculum/Mother-Tongue-Languages/Tamil-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 **Objectives**
 
@@ -49,7 +50,3 @@ Yengum Tamilosai - [http://sangamam.moe.edu.sg/tamilosai/slot/u113/index.html](
   
 
 Theen Thamizh - [https://sangamam.moe.edu.sg/tamilosai/slot/u113/web/primary.html](https://sangamam.moe.edu.sg/tamilosai/slot/u113/web/primary.html)
-
-  
-
-iMTL Portal - [http://imtl.moe.edu.sg](http://imtl.moe.edu.sg/)
