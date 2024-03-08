@@ -3,6 +3,7 @@ title: Malay Language
 permalink: /curriculum/Mother-Tongue-Languages/Malay-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 **Objectives**
 
@@ -38,12 +39,6 @@ The programmes either offer enrichment and instructional support to pupils or it
 *   PSLE Malay / Higher Malay / Foundation Malay : Subject Information
 
 [http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp](http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp)
-
-  
-
-*   iMTL Portal
-
-[https://imtl.sg/login/index.php](https://imtl.sg/login/index.php)
 
   
 
