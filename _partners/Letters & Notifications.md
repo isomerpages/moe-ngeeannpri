@@ -12,7 +12,7 @@ variant: markdown
 <br>
 P1 -[Term 1](/files/2024%20LM%20Letter/Term%201/P1_Term_1_Level_Letter_2024_Final.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P1_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
-P2 -[Term 2](/files/2024%20LM%20Letter/Term%201/P2_Term_1_Level_Letter_2024.pdf),[Term 2](/files/2024%20LM%20Letter/Term%202/P2_Term_2_Level_Letter_2024.pdf) Term 3, Term 4
+P2 -[Term 2](/files/2024%20LM%20Letter/Term%201/P2_Term_1_Level_Letter_2024.pdf),[Term 2](/files/2024%20LM%20Letter/Term%202/P2_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
 P3 -[Term 1](/files/2024%20LM%20Letter/Term%201/P3_Term_1_Level_Letter_2024.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P3_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
