@@ -10,17 +10,19 @@ variant: markdown
 
 **LM Letter to Parents**
 <br>
-P1 -[Term 1](/files/2024%20LM%20Letter/Term%201/P1_Term_1_Level_Letter_2024_Final.pdf), Term 2, Term 3, Term 4
+P1 -[Term 1](/files/2024%20LM%20Letter/Term%201/P1_Term_1_Level_Letter_2024_Final.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P1_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
-P2 -[Term 2](/files/2024%20LM%20Letter/Term%201/P2_Term_1_Level_Letter_2024.pdf), Term 2, Term 3, Term 4
+P2 -[Term 2](/files/2024%20LM%20Letter/Term%201/P2_Term_1_Level_Letter_2024.pdf),[Term 2](/files/2024%20LM%20Letter/Term%202/P2_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
-P3 -[Term 1](/files/2024%20LM%20Letter/Term%201/P3_Term_1_Level_Letter_2024.pdf), Term 2, Term 3, Term 4
+P3 -[Term 1](/files/2024%20LM%20Letter/Term%201/P3_Term_1_Level_Letter_2024.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P3_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
-P4 -[Term 1](/files/2024%20LM%20Letter/Term%201/P4_Term_1_Level_Letter_2024.pdf), Term 2, Term 3, Term 4
+P4 -[Term 1](/files/2024%20LM%20Letter/Term%201/P4_Term_1_Level_Letter_2024.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P4_Term_2_Level_Letter_2024_amended.pdf), Term 3, Term 4
 <br>
-P5 -[Term 1](/files/2024%20LM%20Letter/Term%201/P5_Term_1_Level_Letter_2024_.pdf), Term 2, Term 3, Term 4
+P5 -[Term 1](/files/2024%20LM%20Letter/Term%201/P5_Term_1_Level_Letter_2024_.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P5_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
 <br>
-P6 -[Term 1](/files/2024%20LM%20Letter/Term%201/P6_Term_1_Level_Letter_2024_.pdf), Term 2, Term 3, Term 4
+P6 -[Term 1](/files/2024%20LM%20Letter/Term%201/P6_Term_1_Level_Letter_2024_.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P6_Term_2_Level_Letter_2024.pdf), Term 3, Term 4
+
+[MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
 **P1 2024 Orientation Kit**<br>
 [P1 2024 Orientation](/files/P1_2024_Orientation_smaller_compressed.pdf) <br>
