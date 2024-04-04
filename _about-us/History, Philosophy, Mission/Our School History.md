@@ -44,7 +44,7 @@ Ngee Ann Primary School was accorded the Learning for Life Programme, ‘ **GR*
 
   
 
-From 2014 to 2016, the school upgraded its infrastructure in line with MOE’s Primary Education Review and Implementation (PERI). A new teaching block, a Performing Arts Theatre (PAT) and an Indoor Sports Hall (ISH) were built as part of the expansion. In 2019, the school garden, L.I.F.E. @ Ngee Ann, was officially launched. L.I.F.E (Learning, Inquiring, Flourishing, Exploring) @ Ngee Ann is an outdoor exploratory garden for learning to come alive beyond the classrooms.
+From 2014 to 2016, the school upgraded its infrastructure in line with MOE’s Primary Education Review and Implementation (PERI). A new teaching block, a Performing Arts Theatre (PAT) and an Indoor Sports Hall (ISH) were built as part of the expansion. In 2019, the school garden, L.I.F.E. @ Ngee Ann, was officially launched *to support our Applied Learning Program - Sustainable Green @ Ngee Ann*. L.I.F.E (Learning, Inquiring, Flourishing, Exploring) @ Ngee Ann is an outdoor exploratory garden for learning to come alive beyond the classrooms.
 
   
 
