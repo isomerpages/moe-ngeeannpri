@@ -40,7 +40,7 @@ Subsequently, with increasing pupil enrolment of more than 1800, the premises an
 
   
 
-Ngee Ann Primary School was accorded the Learning for Life Programme, ‘ **GR** aciousness through **A** rts, **C** reating **E** xcellence (GRACE) Programme’ and attained the Best Practice Award (BPA) for Student All-Round Development in 2016. It has since been updated in 2022 to encompass a wider artistic experience and renamed as  ‘ GR owing A ppreciation for C reative E xpression (GRACE) Programme’.
+Ngee Ann Primary School was accorded the Learning for Life Programme, ‘ **GR** aciousness through **A** rts, **C** reating **E** xcellence (GRACE) Programme’ and attained the Best Practice Award (BPA) for Student All-Round Development in 2016. It has since been updated in 2022 to encompass a wider artistic experience and renamed as  ‘ **GR** owing **A** ppreciation for **C** reative **E** xpression (GRACE) Programme’.
 
   
 
