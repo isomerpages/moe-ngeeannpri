@@ -37,7 +37,7 @@ variant: markdown
 |OSO|Mdm Kalla
 |OSO|Mr Johari
 |Admin Assistant|Mdm Djaja Mega
-|Admin Assistant|Mdm Catlyn
+|Admin Assistant|Mdm Nurul Fazira
 |ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim
 |Desktop Engineer|Mr Au Yang Xian
