@@ -7,4 +7,4 @@ variant: markdown
 ---
 ![](/images/ccaachieve.png)
 
-![](/images/Scouts_Brownies_SYF.png)
+![](/images/Scouts_Brownies_SYF_2.png)
