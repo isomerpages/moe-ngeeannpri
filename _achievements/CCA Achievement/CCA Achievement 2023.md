@@ -173,4 +173,12 @@ Zane Ong Hong Yuan – Senior Division, 1st
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Bronze</span></p></td></tr></tbody></table>
 
-![](/images/Scouts_Brownies_2023_1.png)
+**Scouts**
+<br>
+Scouts achieved Coen Sipke Hogendorp for the Akela Award.
+
+**Brownies**
+<br>
+Brownies achieved Gold for Puan Noor Aisha Award.
+<br>
+Chan Li Jia Nicole and Tanisshi Selvam were awarded The Chief Commissioner Award Badge.
