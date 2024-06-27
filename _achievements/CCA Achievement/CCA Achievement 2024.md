@@ -409,4 +409,37 @@ Silver Pin</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>Hwa Chong Info-communications Challenge</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Wen Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
