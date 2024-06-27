@@ -331,3 +331,79 @@ Silver Pin</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival (SYF) 2024 Arts Presentation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
