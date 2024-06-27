@@ -442,4 +442,53 @@ Silver Pin</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong><u>13th National Inter School Archery Championship</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Fu An, Evan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place (Individual Ranking)</p>
+<p>3rd Place (Individual Elimination)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Jing Wen Isabella</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place (Individual Ranking)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>&nbsp;</u></strong>
+</p>
