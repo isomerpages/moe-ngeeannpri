@@ -8,7 +8,6 @@ locations:
       - "344"
       - Marine Terrace
       - Singapore 449149
-    title: School Address
     operating_hours:
       - days: Mon-Fri
         time: 7.00am - 5.30pm
@@ -17,6 +16,7 @@ locations:
         time: 7.30am - 5.00pm
         description: Term Holidays
     maps_link: ""
+    title: School Address
 contacts:
   - content:
       - phone: +65 6441 8677
