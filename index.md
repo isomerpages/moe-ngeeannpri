@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/A2Test.png
+  - infobar:
+      title: Canteen Vacancy
+      id: infobar
+      description: There is a vacancy for Halal Rice Stall.
+      button: Click here
+      url: https://www.ngeeannpri.moe.edu.sg/partners/vendor/advertisement/
   - infopic:
       title: Events
       description: For the latest events and happenings, follow us on Facebook
