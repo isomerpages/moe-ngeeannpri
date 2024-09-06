@@ -70,3 +70,15 @@ dedication in making this a truly unforgettable experience.</p>
 </div>
 <p>Gu Zheng</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Gu_Zheng.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Gu_Zheng_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Gu_Zheng_3.jpg">
+</div>
+<p></p>
