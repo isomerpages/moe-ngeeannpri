@@ -81,4 +81,30 @@ dedication in making this a truly unforgettable experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Gu_Zheng_3.jpg">
 </div>
+<p>Indian Dance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School__Indian_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School__Indian_Dance_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School__Indian_Dance_3.jpg">
+</div>
+<p>Malay Dance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Malay_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Malay_Dance_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Malay_Dance_3.jpg">
+</div>
 <p></p>
