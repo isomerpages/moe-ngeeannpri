@@ -13,12 +13,10 @@ the diverse artistic talents of our youth. As part of SYF, the Arts Presentation
 (AP) serves as a platform for schools to showcase their performances and
 receive constructive feedback from a panel of adjudicators, supporting
 ongoing learning and improvement.</p>
-<p>&nbsp;</p>
 <p>We are proud to announce that the resilience our students demonstrated
 throughout months of preparation resulted in vibrant and captivating performances
 during the SYF Arts Presentation 2024. Our Chinese Orchestra, Choir, Malay,
 and Indian Dance groups were awarded Certificates of Accomplishment, while
 our Guzheng and Chinese Dance teams earned Certificates of Distinction.</p>
-<p>&nbsp;</p>
 <p>A heartfelt thank you to all students, teachers, and instructors for their
 dedication in making this a truly unforgettable experience.</p>
