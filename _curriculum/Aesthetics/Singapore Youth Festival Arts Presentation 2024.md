@@ -57,4 +57,16 @@ dedication in making this a truly unforgettable experience.</p>
 </div>
 <p>Choir</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Choir.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Choir_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFCCA/Ngee_Ann_Primary_School_Choir_3.jpg">
+</div>
+<p>Gu Zheng</p>
 <p></p>
