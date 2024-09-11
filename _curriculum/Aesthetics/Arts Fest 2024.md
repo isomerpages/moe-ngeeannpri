@@ -7,7 +7,7 @@ third_nav_title: Aesthetics
 ---
 <p><strong>Arts Fest 2024</strong>
 </p>
-<p>As part of the school's LLP, "**GR**owing <strong>A</strong>ppreciation
+<p>As part of the school's LLP, "<strong>GR</strong>owing <strong>A</strong>ppreciation
 for <strong>C</strong>reative <strong>E</strong>xpression," all students
 had the chance to immerse themselves in the vibrant arts scene at NAPS,
 marking the end of a rewarding first semester. The day was filled with
