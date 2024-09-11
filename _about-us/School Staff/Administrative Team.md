@@ -26,7 +26,7 @@ variant: markdown
 | | | 
 | -------- | -------- | 
 |MSO|Ms Rachel Tan
-|MSO|Mdm Josephine Quek|
+|AE|Mdm Josephine Quek|
 |MSO|Mdm Kathleen Ho
 |Adjunct MSO|Mdm Azreen
 |Receptionist|Mdm Aldilla
