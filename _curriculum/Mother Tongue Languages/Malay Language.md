@@ -36,9 +36,7 @@ The programmes either offer enrichment and instructional support to pupils or it
 
 **Web Resources**
 
-*   PSLE Malay / Higher Malay / Foundation Malay : Subject Information
-
-[http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp](http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp)
+*   [PSLE Malay / Higher Malay / Foundation Malay : Subject Information](https://www.seab.gov.sg/home/examinations/psle/psle-formats-examined-in-2024)
   
 *   Online Dictionary
 
