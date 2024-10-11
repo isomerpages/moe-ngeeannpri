@@ -42,11 +42,3 @@ This is a personalised Tutorial Programme specially designed for primary school 
 ![](/images/tamil2.png)
 
 **Useful Resources**
-
-  
-
-Yengum Tamilosai - [http://sangamam.moe.edu.sg/tamilosai/slot/u113/index.html](http://sangamam.moe.edu.sg/tamilosai/slot/u113/index.html)
-
-  
-
-Theen Thamizh - [https://sangamam.moe.edu.sg/tamilosai/slot/u113/web/primary.html](https://sangamam.moe.edu.sg/tamilosai/slot/u113/web/primary.html)
