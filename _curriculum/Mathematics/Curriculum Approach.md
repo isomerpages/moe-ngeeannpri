@@ -13,11 +13,6 @@ The development of mathematical problem solving ability is dependent on five int
 
   
 
-The school’s teaching approaches and programmes are aligned closely to the underlying principles of this Mathematics Framework.
-
-![](/images/Picture2.png)
-		 
-
 **Varied Teaching Approaches @ Ngee Ann**
 
   
