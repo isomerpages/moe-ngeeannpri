@@ -2,8 +2,9 @@
 title: Feedback
 permalink: /Feedback/
 description: ""
+variant: markdown
 ---
-Please send us your feedback [here](https://forms.cwp.gov.sg/ngeeannpri/FormMRNJN).
+Please send us your feedback
 
   
 

@@ -36,18 +36,10 @@ The programmes either offer enrichment and instructional support to pupils or it
 
 **Web Resources**
 
-*   PSLE Malay / Higher Malay / Foundation Malay : Subject Information
-
-[http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp](http://www.seab.gov.sg/pages/nationalExaminations/PSLE/syllabus.asp)
-
+*   [PSLE Malay / Higher Malay / Foundation Malay : Subject Information](https://www.seab.gov.sg/home/examinations/psle/psle-formats-examined-in-2024)
   
-
-*   e-Cekap
-
-[https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html](https://tinta.moe.edu.sg/mekar/slot/u112/ecekap/index.html)
-
-  
-
 *   Online Dictionary
 
-[http://www.dbp.gov.my](http://www.dbp.gov.my/)
+https://prpm.dbp.gov.my/ <br>
+https://www.mllpc.sg/publications <br>
+https://mlcs.moe.edu.sg/mlcs/resources/mlcs-educational-apps/
