@@ -40,4 +40,6 @@ The programmes either offer enrichment and instructional support to pupils or it
   
 *   Online Dictionary
 
-[http://www.dbp.gov.my](http://www.dbp.gov.my/)
+https://prpm.dbp.gov.my/ <br>
+https://www.mllpc.sg/publications <br>
+https://mlcs.moe.edu.sg/mlcs/resources/mlcs-educational-apps/
