@@ -3,6 +3,7 @@ title: Curriculum Approach
 permalink: /curriculum/Mathematics/Curriculum-Approach/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 Mathematical problem solving is central to mathematics learning in the schools. It involves the acquisition and application of mathematics concepts and skills in a wide range of situations, including non-routine, open-ended and real-world problems.
 
@@ -16,11 +17,6 @@ The school’s teaching approaches and programmes are aligned closely to the und
 
 ![](/images/Picture2.png)
 		 
-Framework Source: [http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2021.pdf](http://www.moe.gov.sg/education/syllabuses/sciences/files/maths-primary-2021.pdf)
-
-  
-
-  
 
 **Varied Teaching Approaches @ Ngee Ann**
 
