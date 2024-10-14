@@ -12,4 +12,4 @@ variant: markdown
 |**Training Time**|2.00pm to 5.00pm
 |**Training Venue**|School Hall
 
-![](/images/tabletennis2023.jpg)
+![](/images/CCA/IMG_20240521_WA0008.jpg)
