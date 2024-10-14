@@ -12,4 +12,4 @@ variant: markdown
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Computer Lab 1 &amp; 2
 
-![](/images/infocomm2023.jpeg)
+![](/images/CCA/Game_Designs.jpg)
