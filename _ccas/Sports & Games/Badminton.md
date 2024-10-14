@@ -12,4 +12,4 @@ variant: markdown
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Indoor School Hall
 
-![](/images/CCA/IMG_20240521_WA0008.jpg)
+![](/images/CCA/ceebd813_01fb_4fd8_b945_77e4db105aab.jpg)
