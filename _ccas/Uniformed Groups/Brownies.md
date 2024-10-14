@@ -3,6 +3,7 @@ title: Brownies
 permalink: /ccas/Uniformed-Groups/Brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 | | |
 | --- | ---|
@@ -11,4 +12,4 @@ third_nav_title: Uniformed Groups
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|2 Kindness Classroom
 
-![](/images/brownies2023.jpeg)
+![](/images/CCA/WhatsApp_Image_2024_05_20_at_15_51_44.jpg)
