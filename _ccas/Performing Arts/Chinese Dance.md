@@ -12,3 +12,4 @@ variant: markdown
 |**Training Timing**|2.00pm to 4.00pm
 |**Training Venue**|Performing Arts Theatre
 
+![](/images/CCA/WhatsApp_Image_2024_04_05_at_12_56_05_PM__1_.jpg)
