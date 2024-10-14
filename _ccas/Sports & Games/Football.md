@@ -12,4 +12,4 @@ variant: markdown
 |**Training Time**|Term 1 : 2pm to 4pm&nbsp;<br>Term 2 : 2pm to 5pm
 |**Training Venue**|Term 1 : Basketball Court/ISH/School Hall<br>Term 2 : The Cage
 
-![](/images/Soccer.jpeg)
+![](/images/CCA/IMG_8116.jpg)
