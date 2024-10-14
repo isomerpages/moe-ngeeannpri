@@ -7,8 +7,7 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Tan Poh Suan** <br> Mdm Sultanah Ali
+| **Teachers In Charge**     | **Mdm Sultanah Ali** <br>Mdm Tan Poh Suan <b>
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
-|**Training Venue**|Science Lab
-
+|**Training Venue**|Science Lab</b>
