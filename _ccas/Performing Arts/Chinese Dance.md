@@ -12,4 +12,3 @@ variant: markdown
 |**Training Timing**|2.00pm to 4.00pm
 |**Training Venue**|Performing Arts Theatre
 
-![](/images/cd2023.jpg)
