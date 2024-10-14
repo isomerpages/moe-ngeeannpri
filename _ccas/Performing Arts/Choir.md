@@ -11,3 +11,5 @@ variant: markdown
 |**Training Day**|Monday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Band rooms
+
+![](/images/CCA/Ngee_Ann_Primary_School_0F7A0002.jpg)
