@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /ccas/Performing-Arts/Indian-Dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 | | |
 | --- | ---|
@@ -11,4 +12,4 @@ third_nav_title: Performing Arts
 |**Training Timing**|2.00pm to 4.00pm
 |**Training Venue**|PAL Room 1
 
-![](/images/indiandance2023.jpeg)
+![](/images/CCA/Ngee_Ann_Primary_School_Z81_0665.jpg)
