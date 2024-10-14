@@ -11,3 +11,5 @@ variant: markdown
 |**Training Day**|Monday &amp; Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Art Room 1 &amp; 2
+
+![](/images/CCA/Mixed_Media_1.jpg)
