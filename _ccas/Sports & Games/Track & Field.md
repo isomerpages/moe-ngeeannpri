@@ -7,9 +7,9 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Alyssa**<br>Mr Hoon Ding Cheng
-|**Training Day**|Wednesday
+| **Teachers In Charge**     | **Mdm Alyssa**
+|**Training Day**|Monday (School Team) <br>Wednesday
 |**Training Time**|2.00pm to 4.00pm
-|**Training Venue**|Running Track
+|**Training Venue**|Basketball Court
 
-![](/images/track2023.jpg)
+![](/images/CCA/45f89ecb_cd20_4f7b_b849_2d575294baab.jpg)

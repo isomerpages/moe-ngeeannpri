@@ -7,10 +7,9 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Masturah**<br>Ms Tan What Goh  | 
-|**Training Day**|Monday
+| **Teachers In Charge**     | **Ms Tan What Goh** <br> Mdm Masturah<br> Ms Amira  | 
+|**Training Day**|Monday &amp; Wednesday
 |**Training Time**|2.00pm to 4.00pm
-|**Training Venue**|Art Room
+|**Training Venue**|Art Room 1 &amp; 2
 
-<img src="/images/Painting%20and%20crafts.jpeg" style="width:50%;float:left">
-<img src="/images/Visual%20arts.jpeg" style="width:50%">
+![](/images/CCA/Mixed_Media_1.jpg)

@@ -9,7 +9,7 @@ variant: markdown
 | --- | ---|
 | **Teachers In-Charge** |**Mdm Angela Ang**<br>Mrs Teresa Khoo<br>Ms Huang Xin<br>
 |**Training Day**|Monday
-|**Training Timing**|2.00pm to 5.00pm
-|**Training Venue**|PAL Room 2 (Juniors)<br>Performing Arts Theatre (Seniors)
+|**Training Timing**|2.00pm to 4.00pm
+|**Training Venue**|Performing Arts Theatre
 
-![](/images/cd2023.jpg)
+![](/images/CCA/WhatsApp_Image_2024_04_05_at_12_56_05_PM__1_.jpg)

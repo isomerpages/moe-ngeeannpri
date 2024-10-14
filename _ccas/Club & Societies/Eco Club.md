@@ -7,9 +7,9 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | Mdm Tan Poh Suan
+| **Teachers In Charge**     | **Mdm Sultanah Ali** <br>Mdm Tan Poh Suan <b>
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
-|**Training Venue**|Eco Garden
+|**Training Venue**|Science Lab</b>
 
-![](/images/eco2023.JPG)
+![](/images/CCA/STEM_Sustainability_themed.jpg)
