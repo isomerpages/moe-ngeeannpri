@@ -11,3 +11,5 @@ variant: markdown
 |**Training Day**|Monday &amp;/or&nbsp;Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Guzheng Room
+
+![](/images/CCA/FPWI1059__2_.jpg)
