@@ -11,3 +11,5 @@ variant: markdown
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Science Lab</b>
+
+![](/images/CCA/STEM_Sustainability_themed.jpg)
