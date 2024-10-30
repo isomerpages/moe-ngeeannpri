@@ -15,7 +15,7 @@ variant: markdown
 |[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg)|[Mdm Choo Choon Mui, Jenny](mailto:choo_choon_mui@moe.edu.sg)
 |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)  |[Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
 |[Mdm Nadia  Bte Mochtar](mailto:nadia_mochtar@moe.edu.sg) | [Mdm Nur Aisha Bte Abdul Ghafar](mailto:nur_aisha_abdul_ghafar@moe.edu.sg)| 
-Mr Low Boon Siang | Mdm Wee Cher Ying Grace
+[Mr Low Boon Siang](mailto:low_boon_siang@moe.edu.sg)| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg)
 
 **Other Language Teachers**
 
