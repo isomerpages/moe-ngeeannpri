@@ -29,7 +29,7 @@ P6 -[Term 1](/files/2024%20LM%20Letter/Term%201/P6_Term_1_Level_Letter_2024_.pdf
 [P1 Info Sheet 2024](/files/P1_Information_Sheet__1_2024_.pdf) <br>
 [P1 Parents FAQ 2024](/files/Primary_1_Parents_FAQ_2024.pdf)
 
-**2024 Booklist**  
+**2025 Booklist**  
 P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>P2 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_2.pdf)
 <br>P3 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_3.pdf)
