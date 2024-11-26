@@ -24,10 +24,10 @@ P6 -[Term 1](/files/2024%20LM%20Letter/Term%201/P6_Term_1_Level_Letter_2024_.pdf
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
-**P1 2024 Orientation Kit**<br>
-[P1 2024 Orientation](/files/P1_2024_Orientation_smaller_compressed.pdf) <br>
-[P1 Info Sheet 2024](/files/P1_Information_Sheet__1_2024_.pdf) <br>
-[P1 Parents FAQ 2024](/files/Primary_1_Parents_FAQ_2024.pdf)
+**P1 2025 Orientation Kit**<br>
+[2025 P1 Orientation Briefing Slides](/files/2025%20Booklist/2025P1/P1_2025_Orientation_compressed.pdf)<br>
+[2025 P1 Info Sheet](/files/2025%20Booklist/2025P1/P1_Information_Sheet__1_2025_.pdf)<br>
+[2025 P1 Parents FAQ](/files/2025%20Booklist/2025P1/Primary_1_Parents_FAQ_2025.pdf)
 
 **2025 Booklist**  
 P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
