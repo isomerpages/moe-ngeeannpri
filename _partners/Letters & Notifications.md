@@ -51,7 +51,7 @@ P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>P6 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4F.pdf)
 <br>P6 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6HMT.pdf)
 
-**P6 Curiculum Briefing**
+**2024 P6 Curiculum Briefing**
 <br>
 [English Language]()
 <br>[Foundation English Language]()
