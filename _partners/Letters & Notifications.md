@@ -6,28 +6,28 @@ variant: markdown
 ---
 **Termly Letter to Parents**
 <br>
-[Term 1](/files/Term_1_Letter_to_Parents_2024.pdf), [Term 2](/files/Term_2_Letter_to_Parents_2024_.pdf), [Term 3](/files/2024%20LM%20Letter/Term%201/Term_3_Letter_to_Parents_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term_4_Letter_to_Parents_2024.pdf)
+[2024 Term 4](/files/2024%20LM%20Letter/Term_4_Letter_to_Parents_2024.pdf)
 
 **LM Letter to Parents**
 <br>
-P1 -[Term 1](/files/2024%20LM%20Letter/Term%201/P1_Term_1_Level_Letter_2024_Final.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P1_Term_2_Level_Letter_2024.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P1_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P1_Term_4_Level_Letter_2024.pdf)
+P1 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P1_Term_4_Level_Letter_2024.pdf)
 <br>
-P2 -[Term 2](/files/2024%20LM%20Letter/Term%201/P2_Term_1_Level_Letter_2024.pdf),[Term 2](/files/2024%20LM%20Letter/Term%202/P2_Term_2_Level_Letter_2024.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P2_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P2_Term_4_Level_Letter_2024.pdf)
+P2 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P2_Term_4_Level_Letter_2024.pdf)
 <br>
-P3 -[Term 1](/files/2024%20LM%20Letter/Term%201/P3_Term_1_Level_Letter_2024.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P3_Term_2_Level_Letter_2024.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P3_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P3_Term_4_Level_Letter_2024.pdf)
+P3 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P3_Term_4_Level_Letter_2024.pdf)
 <br>
-P4 -[Term 1](/files/2024%20LM%20Letter/Term%201/P4_Term_1_Level_Letter_2024.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P4_Term_2_Level_Letter_2024_amended.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P4_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P4_Term_4_Level_Letter_2024.pdf)
+P4 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P4_Term_4_Level_Letter_2024.pdf)
 <br>
-P5 -[Term 1](/files/2024%20LM%20Letter/Term%201/P5_Term_1_Level_Letter_2024_.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P5_Term_2_Level_Letter_2024.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P5_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P5_Term_4_Level_Letter_2024.pdf)
+P5 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P5_Term_4_Level_Letter_2024.pdf)
 <br>
-P6 -[Term 1](/files/2024%20LM%20Letter/Term%201/P6_Term_1_Level_Letter_2024_.pdf), [Term 2](/files/2024%20LM%20Letter/Term%202/P6_Term_2_Level_Letter_2024.pdf), [Term 3](/files/2024%20LM%20Letter/Term%203/P6_Term_3_Level_Letter_2024.pdf), [Term 4](/files/2024%20LM%20Letter/Term%204/P6_Term_4_Level_Letter_2024.pdf)
+P6 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P6_Term_4_Level_Letter_2024.pdf)
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
-**P1 2024 Orientation Kit**<br>
-[P1 2024 Orientation](/files/P1_2024_Orientation_smaller_compressed.pdf) <br>
-[P1 Info Sheet 2024](/files/P1_Information_Sheet__1_2024_.pdf) <br>
-[P1 Parents FAQ 2024](/files/Primary_1_Parents_FAQ_2024.pdf)
+**P1 2025 Orientation Kit**<br>
+[2025 P1 Orientation Briefing Slides](/files/2025%20Booklist/2025P1/P1_2025_Orientation_compressed.pdf)<br>
+[2025 P1 Info Sheet](/files/2025%20Booklist/2025P1/P1_Information_Sheet__1_2025_.pdf)<br>
+[2025 P1 Parents FAQ](/files/2025%20Booklist/2025P1/Primary_1_Parents_FAQ_2025.pdf)
 
 **2025 Booklist**  
 P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
@@ -51,7 +51,7 @@ P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>P6 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4F.pdf)
 <br>P6 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6HMT.pdf)
 
-**P6 Curiculum Briefing**
+**2024 P6 Curiculum Briefing**
 <br>
 [English Language]()
 <br>[Foundation English Language]()
