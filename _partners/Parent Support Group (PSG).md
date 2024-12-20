@@ -4,30 +4,37 @@ permalink: /partnership/Parent-Support-Group-PSG/
 description: ""
 variant: markdown
 ---
-Our Parents Support Group (PSG) was formed in 1999 to promote parenting skills and value of family bonding. The PSG members participate actively in our school programmes.
+Our Parents Support Group (PSG) was formed in 1999 to promote parenting skills and enable active parents’ involvement in the school programmes and activities.
 
+The PSG believes that a strong partnership between parents and School is essential to fostering our students' success. Built on trust and shared responsibilities, this collaboration offers valuable insights that benefit both the school and our partners in education. Together, parents, the School, and the community work hand in hand to align on shared goals and desired outcomes, ensuring a supportive environment for our children’s holistic growth and development.
+
+As such, the PSG serves to
+
+1.      Partner with School to support school programmes and activities
+
+2.      Encourage parents’ involvement in the School
+
+3.      Conduct training and learning opportunities to develop parenting skills
+
+4.      Facilitate parents’ peer support, engagement
+
+5.      Enhance relationship between parents and child  
   
 
-PSG understands that to help our students succeed, both parents and school have to work in tandem to have a profound influence on the child. This partnership built on trust and shared responsibilities can potentially provide fresh perspectives for the school and its partners-in-education. Parents, school and the community collaborate and complement one another’s efforts to reach a common understanding of the goals and outcomes that we to achieve for our children’s holistic learning and development.
+Parents can visit [NAPS PSG Facebook](https://www.facebook.com/groups/ALL.PSG/) to find out more about PSG activities and involvement with the School.
 
-  
+The School holds a high regard for PSG members who serve as role models for our students. PSG members are expected to:
 
-PSG members are to be role models to our students.
+*   Comply with school rules, and respect School authorities and staff, and fellow PSG members.
+*   Avoid unauthorized use of the School or PSG name for personal transactions or communications. Any communication to members of the public on behalf of the School or PSG is prohibited.
+*   Uphold professional behaviour, a positive image, and appropriate dress at all School or PSG events. Members are to adhere to prevailing PSG dress codes.
+*   Refrain from publicly commenting about the School or PSG; any concerns or displeasure should be brought to the attention of the School Principal or PSG Chairman directly.
+*   Practice proper social media etiquette in any form of digital communication, using platforms like WhatsApp, Facebook and Instagram responsibly, without personal or vested interests.
 
-1.     All members are expected to follow the school rules and be respectful to the authority of the school and fellow PSG members.
-
-2.     Members may not use the good name of School and or PSG  to communicate or authorize any transaction with any individual or members of the public in general without prior approval of the School.
-
-3.     Members must always conduct themselves in the best of behaviour and exhibit a positive image and dress appropriately at all times in the school and representing school for external events.
-
-4.     Members should refrain from commenting about the school or the PSG publicly. Any displeasure should be brought to the attention of the Principal or Chairman, PSG, respectively.
-
-5.      Members must observe social media etiquette in any forms of communication like whatsapp chat, social media group and platforms (facebook, instagram). Such platforms must not be used for individual vested interest.
-
-  
-
-Click here to visit [NAPS PSG Facebook Group](https://www.facebook.com/groups/ALL.PSG/).
-
-[Click here to be part of NAPS PSG](https://form.gov.sg/61df783d6e0f840013fef2d1)
+To sign up as a PSG member and start getting involved, [complete this form](https://form.gov.sg/61df783d6e0f840013fef2d1).
 
 ![](/images/PSG2024.jpeg)
+
+_Starting from top row from left: Adelena Wong (Hon. Secretary and Communications Lead), Tay Swee Tien (Hon. Treasurer and Dads@NAPS Chairman), Daniel Wee (Chairman), Lee Pei Lin (Vice Chairwoman), Tan Wei Ling, Pauline Chua, Ellynna Koay, Zhang Zhenzhen, Kinpi Padia (Vice Chairwoman), Edma Wong and Emily Chen._
+
+For any communication to the PSG, please email to [ngeeannpri.psg@gmail.com](mailto:ngeeannpri.psg@gmail.com)
