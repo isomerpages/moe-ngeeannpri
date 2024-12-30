@@ -7,7 +7,7 @@ variant: markdown
 ---
 | | |
 | --- | ---|
-| **Teachers In-Charge** |**Mdm Ng Yee Meei**<br>**Mr Edward**<br>Mdm Evelyn Liang
+| **Teachers In-Charge** |**Mdm Ng Yee Meei**<br>**Mdm Evelyn Liang**<br>Ms Angeline Cheah
 |**Training Day**|Monday, Wednesday, Thursday
 |**Training Time**|2.00pm to 5.00pm
 |**Training Venue**|School Hall
