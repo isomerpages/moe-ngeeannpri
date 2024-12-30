@@ -13,7 +13,7 @@ variant: markdown
 | -------- | -------- |
 |[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
 |Mdm Hee Fei Ling | [Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
-|[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| Mdm Lim Wan Szi
+|[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| [Mdm Lim Wan Szi](lim_wan_szi_b@moe.edu.sg)
 |Mdm Millie Soon| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg) |
 |[Ms Joycelyn Poh](mailto:joycelyn_poh_xue_ying@moe.edu.sg)| [Ms Revathy](mailto:revathy_pachamuthu@moe.edu.sg)
 
