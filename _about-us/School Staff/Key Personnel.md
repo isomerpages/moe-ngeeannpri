@@ -35,7 +35,7 @@ variant: markdown
 | | | 
 | -------- | -------- | 
 |English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
-|Mathematics| Mdm Justina
+|Mathematics| Mdm Justina Neo
 |Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
@@ -47,6 +47,7 @@ variant: markdown
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
 |Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
 |Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
+|Student Management| Ms Angel Yang
 |CCE|[Ms Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
 
 **Teacher Leaders**
