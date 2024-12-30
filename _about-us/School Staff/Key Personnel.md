@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/School-Staff/Key-Personnel/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 **School Leaders**
 
@@ -16,7 +17,7 @@ third_nav_title: School Staff
 
 | | | 
 | -------- | -------- | 
-|English|[Mdm Larene Lim](mailto:lim_mei_xia_larene@moe.edu.sg)
+|English| Vacant
 |Mathematics|[Mrs Lisa Lee](mailto:lisa_lee-chong@moe.edu.sg)
 |Science|[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)
 |Mother Tongue|[Mdm Karen Ting](mailto:ting_soo_wee@moe.edu.sg)
@@ -24,7 +25,7 @@ third_nav_title: School Staff
 |ICT|[Mr Anthony Chia](mailto:chia_tet_soon_anthony@moe.edu.sg)
 |School Staff Developer|[Ms Sherlyn Seah](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
 |Student Management|[Mr Bryan Neo](mailto:bryan_neo_ginn_ning@moe.edu.sg)
-|Year Head (P1 & P2)|Vacant
+|Year Head (P1 & P2)| [Mdm Kong Wing Yan](mailto:kong_wing_yan@moe.edu.sg)
 |Year Head (P3 & P4)|[Mdm Maisarah](mailto:maisarah_supani@moe.edu.sg)
 |Year Head (P5 & P6)|[Mr Kenneth Goh](mailto:kenneth_goh_tai_peng@moe.edu.sg)
 |CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
@@ -34,18 +35,19 @@ third_nav_title: School Staff
 | | | 
 | -------- | -------- | 
 |English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
-|Mathematics|Vacant
+|Mathematics| [Mdm Justina Poh](mailto:neo_poh_tin_justina@moe.edu.sg)
 |Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
 |Physical Education|[Mr Shahrudin](mailto:shahrudin_salleh@moe.edu.sg)
 |Aesthetic|[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
-|ICT|Vacant
+|ICT| [Ms Gracia Teo](mailto:gracia_teo_wai_ting@moe.edu.sg)
 |Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
 |Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
 |Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
 |Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
+|Student Management| [Ms Angel Yang](mailto:yang_an_qi_angel@moe.edu.sg)
 |CCE|[Ms Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
 
 **Teacher Leaders**

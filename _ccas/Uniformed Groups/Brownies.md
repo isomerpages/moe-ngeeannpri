@@ -7,7 +7,7 @@ variant: markdown
 ---
 | | |
 | --- | ---|
-| **Teachers In-Charge** |**Mdm Fauziah**<br>Mdm Nuraina<br>Ms Manjusri<br>Mrs Abigail
+| **Teachers In-Charge** |**Mdm Fauziah**<br>Mdm Nuraina<br>Ms Manjusri<br>Mdm Jasmeet
 |**Training Day**|Monday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|2 Kindness Classroom

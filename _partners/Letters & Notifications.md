@@ -6,21 +6,21 @@ variant: markdown
 ---
 **Termly Letter to Parents**
 <br>
-[2024 Term 4](/files/2024%20LM%20Letter/Term_4_Letter_to_Parents_2024.pdf)
+[2025 Term 1](/files/2025%20Comms/Letter%20to%20Parent/2025_Term_1_Letter_to_Parent.pdf)
 
 **LM Letter to Parents**
 <br>
-P1 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P1_Term_4_Level_Letter_2024.pdf)
+P1 -
 <br>
-P2 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P2_Term_4_Level_Letter_2024.pdf)
+P2 -
 <br>
-P3 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P3_Term_4_Level_Letter_2024.pdf)
+P3 -
 <br>
-P4 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P4_Term_4_Level_Letter_2024.pdf)
+P4 - 
 <br>
-P5 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P5_Term_4_Level_Letter_2024.pdf)
+P5 - 
 <br>
-P6 - [2024 Term 4](/files/2024%20LM%20Letter/Term%204/P6_Term_4_Level_Letter_2024.pdf)
+P6 - 
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
