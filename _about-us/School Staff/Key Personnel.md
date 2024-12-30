@@ -56,7 +56,7 @@ variant: markdown
 | -------- | -------- | 
 |Lead Teacher English Language|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
 |Senior Teacher English|Vacant
-|Senior Teacher Educational Support|[Mrs Karen Kee](mailto:karen_kee@moe.edu.sg)
+|Senior Teacher Educational Support| Vacant
 |Senior Teacher Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
 |Senior Teacher Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
 |Senior Teacher Chinese Language|Vacant
