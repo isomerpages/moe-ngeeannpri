@@ -41,13 +41,13 @@ variant: markdown
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
 |Physical Education|[Mr Shahrudin](mailto:shahrudin_salleh@moe.edu.sg)
 |Aesthetic|[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
-|ICT| Mdm Gracia Teo
+|ICT| [Ms Gracia Teo](mailto:gracia_teo_wai_ting@moe.edu.sg)
 |Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
 |Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
 |Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
 |Student Well-being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
-|Student Management| Ms Angel Yang
+|Student Management| [Ms Angel Yang](mailto:yang_an_qi_angel@moe.edu.sg)
 |CCE|[Ms Phua Li Xin](mailto:phua_li_xin@moe.edu.sg)
 
 **Teacher Leaders**
