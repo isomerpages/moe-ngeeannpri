@@ -25,7 +25,7 @@ variant: markdown
 |ICT|[Mr Anthony Chia](mailto:chia_tet_soon_anthony@moe.edu.sg)
 |School Staff Developer|[Ms Sherlyn Seah](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
 |Student Management|[Mr Bryan Neo](mailto:bryan_neo_ginn_ning@moe.edu.sg)
-|Year Head (P1 & P2)| Mdm Kong Wing Yan
+|Year Head (P1 & P2)| [Mdm Kong Wing Yan](mailto:kong_wing_yan@moe.edu.sg)
 |Year Head (P3 & P4)|[Mdm Maisarah](mailto:maisarah_supani@moe.edu.sg)
 |Year Head (P5 & P6)|[Mr Kenneth Goh](mailto:kenneth_goh_tai_peng@moe.edu.sg)
 |CCE|[Ms Sharon Kuah](mailto:kuah_soh_ling@moe.edu.sg)
