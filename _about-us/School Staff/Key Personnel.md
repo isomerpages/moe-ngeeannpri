@@ -35,13 +35,13 @@ variant: markdown
 | | | 
 | -------- | -------- | 
 |English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
-|Mathematics|Vacant
+|Mathematics| Mdm Justina
 |Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
 |Physical Education|[Mr Shahrudin](mailto:shahrudin_salleh@moe.edu.sg)
 |Aesthetic|[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
-|ICT|Vacant
+|ICT| Mdm Gracia Teo
 |Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
 |Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
