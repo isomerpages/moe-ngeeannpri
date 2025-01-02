@@ -13,6 +13,6 @@ sections:
       description: For the latest events and happenings, follow us on Facebook
       button: Ngee Ann Primary School 爱我義安
       url: https://www.facebook.com/profile.php?id=100064057052671
-      image: /images/infopic.jpeg
+      image: /images/iNfOpicWebby.png
       alt: Ngee Ann Facebook Page
 ---
