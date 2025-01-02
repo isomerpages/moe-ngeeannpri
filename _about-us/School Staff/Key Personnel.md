@@ -35,7 +35,7 @@ variant: markdown
 | | | 
 | -------- | -------- | 
 |English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
-|Mathematics| [Mdm Justina Poh](mailto:neo_poh_tin_justina@moe.edu.sg)
+|Mathematics| [Ms Justina Neo](mailto:neo_poh_tin_justina@moe.edu.sg)
 |Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
