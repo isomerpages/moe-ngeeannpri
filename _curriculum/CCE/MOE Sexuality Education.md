@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>NGEE ANN PRIMARY SCHOOL</strong>
 </p>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
