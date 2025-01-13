@@ -81,11 +81,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 <p><strong>At Ngee Ann Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p>&nbsp;</p>
-<p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -178,14 +174,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 6</strong>
 </p>
