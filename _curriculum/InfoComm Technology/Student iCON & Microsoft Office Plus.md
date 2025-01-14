@@ -3,8 +3,12 @@ title: Student iCON & Microsoft Office Plus
 permalink: /curriculum/InfoComm-Technology/Student-iCON-and-Microsoft-Office-Plus/
 description: ""
 third_nav_title: InfoComm Technology
+variant: markdown
 ---
-For a detailed guide please click here :&nbsp;[Student Onboarding Guide](/files/Student%20iCON%20Onboarding%20Guide.pdf)&nbsp;&amp;&nbsp;[Microsoft Office Plus Guide](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
+For a detailed guide, click of the following: 
+<br>&nbsp;[Student Onboarding Guide](/files/Student%20iCON%20Onboarding%20Guide.pdf)<br>[Microsoft Office Plus Guide](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
+<br>
+[Guide for Student Self-Service Password Reset](/files/2025%20Comms/MIMS_SSPR_Guide.pdf)
 
 **Frequently Asked Questions**
 
@@ -28,50 +32,50 @@ You can refer to the following table for guidance on the Operating System/browse
 
 ![](/images/opsys.png)
 
-**Q4.**    **What are the default Google applications available for each level?**
+**Q4.**&nbsp; &nbsp;&nbsp;**What are the default Google applications available for each level?**
 
 Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.  
   
 
-**Q5.    What is the password requirement?**  
+**Q5.&nbsp;&nbsp;&nbsp; What is the password requirement?** &nbsp;
 
-Please follow the password requirements below:  
+Please follow the password requirements below: &nbsp;
 
- ·       Password must be at least 8 character(s) long.  
- ·       Password must contain at least 1 lowercase letter(s).  
- ·       Password must contain at least 1 numeric character(s).  
- ·       Password must contain at least 1 uppercase letter(s).  
- ·       Password must contain at least 2 alphabetic character(s).  
- ·       Password must not be longer than 24 character(s).  
- ·       Password must not be one of 3 previous passwords.  
- ·       Password must not match or contain first name.  
- ·       Password must not match or contain last name.  
- ·       Password must not match or contain user ID.
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must be at least 8 character(s) long.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 lowercase letter(s).  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 numeric character(s).  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 uppercase letter(s).  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 2 alphabetic character(s).  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not be longer than 24 character(s).  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not be one of 3 previous passwords.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain first name.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain last name.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain user ID.
 
-**Q6.    I have encountered one of the following problems:**
+**Q6.&nbsp; &nbsp; I have encountered one of the following problems:**
 
-1.     Error AADSTS900561 given by the Google website.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Error AADSTS900561 given by the Google website.
 
-2.     Website does not load.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website does not load.
 
-3.     Website keeps refreshing between two sites without loading any page.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website keeps refreshing between two sites without loading any page.
 
-4.     Website keeps refreshing itself without loading the page.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website keeps refreshing itself without loading the page.
 
 **What should I do?**
 
-a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+a)&nbsp;Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
-b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+b) If the above does not work, use&nbsp;Incognito mode&nbsp;on your browser to login.&nbsp;Upon activating Incognito mode, proceed to&nbsp;**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
   
 
-**Q7.  I receive the following message: Your account is temporarily locked to prevent unauthorized use. What should I do?**  
+**Q7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?**  
   
 
 a) Email the school at [naps@moe.edu.sg](naps@moe.edu.sg)
 
-Please provide your child’s full name and class.  
+Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.  
 
 **Operating Hours:**
 
