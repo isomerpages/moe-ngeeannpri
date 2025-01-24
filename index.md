@@ -19,5 +19,5 @@ sections:
       title: School Canteen Advertisement
       id: infobar
       button: Click here
-      url: https://www.ngeeannpri.moe.edu.sg/
+      url: https://www.ngeeannpri.moe.edu.sg/partners/vendor/advertisement/
 ---
