@@ -7,7 +7,7 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Alyssa** <br> Ms Angel Yang
+| **Teachers In Charge**     | **Mrs Alyssa Wijaya** <br> Ms Angel Yang
 |**Training Day**|Monday (School Team) <br>Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Basketball Court
