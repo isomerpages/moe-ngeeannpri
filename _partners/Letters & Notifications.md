@@ -72,7 +72,7 @@ P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>[Tami Language]()
 <br>[Higher Chinese Language]()
 
-**Subject-based Banding Information Sheet**
+**Subject-based Banding (SBB) Information Sheet**
 <br>
 English -&nbsp;[Click here](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 <br>
@@ -89,10 +89,6 @@ Parent Gateway FAQ -[Click here](https://pg.moe.edu.sg/faq)
 Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
 
 
-**National Vaccination Exercise Parent Kit**
-<br>
-[Parent Kit on Student Vaccination Exercise](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
-<br>
-[One page Infographic on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
+
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
