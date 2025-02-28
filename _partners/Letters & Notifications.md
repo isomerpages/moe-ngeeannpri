@@ -29,11 +29,11 @@ P6 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P6_Term_1_Level_Letter_2025.pdf)
 [2025 P1 Info Sheet](/files/2025%20Booklist/2025P1/P1_Information_Sheet__1_2025_.pdf)<br>
 [2025 P1 Parents FAQ](/files/2025%20Booklist/2025P1/Primary_1_Parents_FAQ_2025.pdf)
 
-**2025 P4 SBB Briefing**<br>
-[P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
-
 **2025 P1 Parent Engagement Briefing Slides**<br>
 [P1 Parent Engagement Briefing Slides](/files/2025%20Comms/P1_Parents_Engagement_Consolidated_Slide_Deck.pdf)
+
+**2025 P4 Subject-based Banding (SBB) Briefing**<br>
+[P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
 
 
 **2025 Booklist**  
@@ -73,26 +73,26 @@ P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>[Higher Chinese Language]()
 
 **Subject-based Banding Information Sheet**
-
+<br>
 English -&nbsp;[Click here](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
-
+<br>
 Mandarin -&nbsp;[Click here](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
-
+<br>
 Malay -&nbsp;[Click here](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)
-
+<br>
 Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 **Parent Gateway**
-
+<br>
 Parent Gateway FAQ -[Click here](https://pg.moe.edu.sg/faq)
-
+<br>
 Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
 
 
 **National Vaccination Exercise Parent Kit**
-
+<br>
 [Parent Kit on Student Vaccination Exercise](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
-
+<br>
 [One page Infographic on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
