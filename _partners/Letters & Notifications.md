@@ -33,7 +33,8 @@ P6 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P6_Term_1_Level_Letter_2025.pdf)
 [P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
 
 **2025 P1 Parent Engagement Briefing Slides**<br>
-[P1 Parent Engagement Briefing Slides]()
+[P1 Parent Engagement Briefing Slides]
+(/files/2025%20Comms/)
 
 **2025 Booklist**  
 P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
