@@ -31,7 +31,7 @@ with their peers, family and public.</p>
 </p>
 <p><strong>Resources for Students</strong>
 </p>
-<p><strong>Interland </strong>
+<p><strong>Interland</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interland.jpeg">
