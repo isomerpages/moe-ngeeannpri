@@ -6,7 +6,7 @@ variant: markdown
 ---
 **Termly Letter to Parents**
 <br>
-[2025 Term 1](/files/2025%20Comms/Letter%20to%20Parent/2025_Term_1_Letter_to_Parent.pdf)
+[2025 Term 1](/files/2025%20Comms/Letter%20to%20Parent/2025_Term_1_Letter_to_Parent.pdf), [2025 Term 2](/files/2025%20Comms/Letter%20to%20Parent/Term_2_Letter_to_Parents_2025.pdf)
 
 **LM Letter to Parents**
 <br>

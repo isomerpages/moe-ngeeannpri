@@ -15,9 +15,4 @@ sections:
       url: https://www.facebook.com/profile.php?id=100064057052671
       image: /images/iNfOpicWebby.png
       alt: Ngee Ann Facebook Page
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click here
-      url: https://www.ngeeannpri.moe.edu.sg/partners/vendor/advertisement/
 ---
