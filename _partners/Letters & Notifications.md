@@ -12,7 +12,7 @@ variant: markdown
 <br>
 P1 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P1_Term_1_Level_Letter_2025.pdf) [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P1_Term_2_Level_Letter_2025.pdf)
 <br>
-P2 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P2_Term_1_Level_Letter_2025.pdf), [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P2_Term_2_Level_Letter_2025.pdf)
+P2 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P2_Term_1_Level_Letter_2025.pdf) [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P2_Term_2_Level_Letter_2025.pdf)
 <br>
 P3 - [Term 1, ](/files/2025%20Comms/LM%20Letter/P3_Term_1_Level_Letter_2025.pdf) [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P3_Term_2_Level_Letter_2025.pdf)
 <br>
