@@ -12,7 +12,7 @@ variant: markdown
 |  |  | 
 | -------- | -------- |
 |[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
-|Mdm Hee Fei Ling | [Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
+|[Mdm Hee Fei Ling](hee_fei_ling@moe.edu.sg) | [Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
 |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| [Mdm Lim Wan Szi](lim_wan_szi_b@moe.edu.sg)
 |Mdm Millie Soon| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg) |
 |[Ms Joycelyn Poh](mailto:joycelyn_poh_xue_ying@moe.edu.sg)| [Ms Revathy](mailto:revathy_pachamuthu@moe.edu.sg)
@@ -25,7 +25,7 @@ variant: markdown
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
 | [Mdm Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)| [Ms wendy Ng Shiyun](mailto:wendy_ng_shiyun_a@moe.edu.sg)
 |[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Por Soon Lan](mailto:por_soon_lan@moe.edu.sg)
-| Mdm Norseha Binte Sa'at | Mdm Prashanaah Yadunathan
+[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg) | Mdm Prashanaah Yadunathan
 
 
 **Special Needs Officer**
