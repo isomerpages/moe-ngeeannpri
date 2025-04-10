@@ -23,7 +23,7 @@ variant: markdown
 |Mother Tongue|[Mdm Karen Ting](mailto:ting_soo_wee@moe.edu.sg)
 |Physical Education/ CCA/ Aesthetic|[Mr Shafiruddin](mailto:shafiruddin_b_rahim@moe.edu.sg)
 |ICT|[Mr Anthony Chia](mailto:chia_tet_soon_anthony@moe.edu.sg)
-|School Staff Developer|[Ms Sherlyn Seah](mailto:sherlyn_seah_xiao_yun@moe.edu.sg)
+|School Staff Developer| Vacant
 |Student Management|[Mr Bryan Neo](mailto:bryan_neo_ginn_ning@moe.edu.sg)
 |Year Head (P1 & P2)| [Mdm Kong Wing Yan](mailto:kong_wing_yan@moe.edu.sg)
 |Year Head (P3 & P4)|[Mdm Maisarah](mailto:maisarah_supani@moe.edu.sg)
