@@ -215,7 +215,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamaliah Jamal</p>
+<p><a href="mailto:jamaliah_jamal_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Jamaliah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +266,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Huan Fei</p>
+<p><a href="mailto:chan_huan_fei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Huan Fei</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +331,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Prashanaah Yadunathan</p>
+<p><a href="mailto:prashanaah_yadunathan_pillai_c@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Prashanaah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -349,7 +352,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Heng Soo Inn</p>
+<p><a href="mailto:heng_soo_inn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Heng Soo Inn</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -589,7 +593,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ishak Bin Abdul Rahman</p>
+<p><a href="mailto:mohd_ishak_abdul_rahman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohd Ishak</a>
+</p>
 </td>
 </tr>
 <tr>
