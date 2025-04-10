@@ -25,7 +25,7 @@ variant: markdown
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
 | [Mdm Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)| [Ms wendy Ng Shiyun](mailto:wendy_ng_shiyun_a@moe.edu.sg)
 |[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Por Soon Lan](mailto:por_soon_lan@moe.edu.sg)
-[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg) | Mdm Prashanaah Yadunathan
+[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg) | [Mdm Prashanaah](mailto:prashanaah_yadunathan_pillai_c@moe.edu.sg)
 
 
 **Special Needs Officer**
