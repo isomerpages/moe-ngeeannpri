@@ -58,20 +58,6 @@ P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
 <br>P6 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4F.pdf)
 <br>P6 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6HMT.pdf)
 
-**2024 P6 Curiculum Briefing**
-<br>
-[English Language]()
-<br>[Foundation English Language]()
-<br>[Mathematics]()
-<br>[Foundation Mathematics]()
-<br>[Science]()
-<br>[Foundation Science]()
-<br>[Chinese Language]()
-<br>[Foundation Chinese Language]()
-<br>[Malay Language and Foundation Malay Language]()
-<br>[Tami Language]()
-<br>[Higher Chinese Language]()
-
 **Subject-based Banding (SBB) Information Sheet**
 <br>
 English -&nbsp;[Click here](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
@@ -87,8 +73,5 @@ Tamil -&nbsp;[Click here](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 Parent Gateway FAQ -[Click here](https://pg.moe.edu.sg/faq)
 <br>
 Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
-
-
-
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
