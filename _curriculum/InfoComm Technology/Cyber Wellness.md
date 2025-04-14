@@ -116,7 +116,4 @@ Interland is:&nbsp;<a href="https://beinternetawesome.withgoogle.com/en_us/inter
 </p>
 <p><a href="https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm" rel="noopener noreferrer nofollow" target="_blank">7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cyberdads collage for main photo" src="https://www.schoolbag.edu.sg/images/default-source/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special/cyberdads-collage-for-main-photo.jpg">
-</div>
 <p></p>
