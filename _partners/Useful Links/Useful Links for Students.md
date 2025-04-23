@@ -6,16 +6,15 @@ variant: markdown
 third_nav_title: Useful Links
 ---
 **Student Learning Space (SLS)**
-
+<br>
 Access SLS via this [link.](https://vle.learning.moe.edu.sg/login)
-
+<br><br>
 Students are strongly encouraged to log in to SLS via their MIMS account. Please refer to this [self-service password reset guide](https://for.edu.sg/naps-mims-password-reset-guide) if you encounter any of the following issues:
 
-· Forgotten MIMS password
-
-· Expired MIMS password
-
-· MIMS account locked due to multiple unsuccessful login attempts
+* Forgotten MIMS password
+* Expired MIMS password
+* MIMS account locked due to multiple unsuccessful login attempts
+<br><br>
 
 For students who have not set the responses to the security questions, please refer to [this guide](/files/2025%20Comms/NAPS_Guide_to_setup_Security_Questions.pdf) to do so.
 
