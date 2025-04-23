@@ -5,15 +5,21 @@ description: ""
 variant: markdown
 third_nav_title: Useful Links
 ---
-**Student Learning Space**
+**Student Learning Space (SLS) **
 
-[Guide to getting started with SLS](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
+Access SLS via this link.
 
-**School Helpline (Home-Based Learning)**
+Students are strongly encouraged to log in to SLS via their MIMS account. Please refer to this self-service password reset guide if you encounter any of the following issues:
 
-MIMS password reset : Send an email to naps@moe.edu.sg with your name &amp; class. The password will be resetted within 3 working days.
+· Forgotten MIMS password
 
-For MIMS userid, please approach your form teachers.
+· Expired MIMS password
+
+· MIMS account locked due to multiple unsuccessful login attempts
+
+For students who have not set the responses to the security questions, please refer to this guide to do so.
+
+If you continue to experience difficulties, please email naps@moe.edu.sg with your name and class. Your password will be reset within three working days.
 
 **Student iCON**
 
