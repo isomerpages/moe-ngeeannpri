@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 third_nav_title: Useful Links
 ---
-**Student Learning Space (SLS) **
+**Student Learning Space (SLS)**
 
-Access SLS via this link.
+Access SLS via this [link.](https://vle.learning.moe.edu.sg/login)
 
 Students are strongly encouraged to log in to SLS via their MIMS account. Please refer to this self-service password reset guide if you encounter any of the following issues:
 
