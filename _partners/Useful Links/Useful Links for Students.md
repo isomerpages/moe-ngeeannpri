@@ -9,7 +9,7 @@ third_nav_title: Useful Links
 
 Access SLS via this [link.](https://vle.learning.moe.edu.sg/login)
 
-Students are strongly encouraged to log in to SLS via their MIMS account. Please refer to this self-service password reset guide if you encounter any of the following issues:
+Students are strongly encouraged to log in to SLS via their MIMS account. Please refer to this [self-service password reset guide](https://for.edu.sg/naps-mims-password-reset-guide) if you encounter any of the following issues:
 
 · Forgotten MIMS password
 
@@ -17,7 +17,7 @@ Students are strongly encouraged to log in to SLS via their MIMS account. Please
 
 · MIMS account locked due to multiple unsuccessful login attempts
 
-For students who have not set the responses to the security questions, please refer to this guide to do so.
+For students who have not set the responses to the security questions, please refer to [this guide](/files/2025%20Comms/NAPS_Guide_to_setup_Security_Questions.pdf) to do so.
 
 If you continue to experience difficulties, please email naps@moe.edu.sg with your name and class. Your password will be reset within three working days.
 
