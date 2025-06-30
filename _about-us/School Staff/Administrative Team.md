@@ -27,6 +27,7 @@ variant: markdown
 | -------- | -------- | 
 |MSO|Ms Rachel Tan
 |AE|Mdm Josephine Quek|
+|ICT Associate|Mr Azri
 |MSO|Mdm Kathleen Ho
 |Adjunct MSO|Mdm Azreen
 |Receptionist|Mdm Aldilla
@@ -38,6 +39,5 @@ variant: markdown
 |OSO|Mr Johari
 |Admin Assistant|Mdm Djaja Mega
 |Admin Assistant|Mdm Nurul Fazira
-|ICT Associate|Mr Azri
 |Desktop Engineer|Mr Hakim
 |Desktop Engineer|Mr Au Yang Xian
