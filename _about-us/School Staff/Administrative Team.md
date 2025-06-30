@@ -33,9 +33,9 @@ variant: markdown
 |Receptionist|Mdm Aldilla
 |OSO|Mdm Sarifah
 |OSO|Mdm Lin Jinying
-|OSO|Mr Farhad Chand
 |OSO|Mdm Kalla
 |OSO|Mr Johari
+|OSO|Mr Farhad Chand
 |Admin Assistant|Mdm Djaja Mega
 |Admin Assistant|Mdm Nurul Fazira
 |Desktop Engineer|Mr Hakim
