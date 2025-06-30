@@ -32,7 +32,6 @@ variant: markdown
 |Adjunct MSO|Mdm Azreen
 |Receptionist|Mdm Aldilla
 |OSO|Mdm Sarifah
-|OSO|Mdm Hazrinah
 |OSO|Mdm Lin Jinying
 |OSO|Mr Farhad Chand
 |OSO|Mdm Kalla
