@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
-<h4>Learning platforms for all subjects </h4>
+<h4><strong>Learning platforms for all subjects</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -29,7 +29,7 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
-<h4>Learning platforms for specific subjects</h4>
+<h4><strong>Learning platforms for specific subjects</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -80,7 +80,7 @@ third_nav_title: Useful Links
 </tbody>
 </table>
 <p></p>
-<h4>Password Reset Guide for Student Learning Space </h4>
+<h4><strong>Password Reset Guide for Student Learning Space</strong></h4>
 <p>Students are strongly encouraged to log in to SLS via their MIMS account.
 Please refer to this self-service password reset guide if you encounter
 any of the following issues:</p>
@@ -103,19 +103,7 @@ do so.</p>
 <p>If you continue to experience difficulties, please email naps@moe.edu.sg
 with your name and class. Your password will be reset within three working
 days.</p>
-<p><strong>Student iCON</strong>
+<h4><strong>Guide on Student iCON</strong></h4>
+<p>For a detailed guide on Student iCON, <a href="https://www.ngeeannpri.moe.edu.sg/curriculum/InfoComm-Technology/Student-iCON-and-Microsoft-Office-Plus/" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
-<p>For a detailed guide on student iCON, <a href="https://www.ngeeannpri.moe.edu.sg/curriculum/InfoComm-Technology/Student-iCON-and-Microsoft-Office-Plus/" rel="noopener noreferrer nofollow" target="_blank">click here</a>
-</p>
-<p><strong>Chinese E-Learning Platform</strong>
-</p>
-<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">eZhishi</a>
-</p>
-<p><a href="https://go.dudu.town/" rel="noopener noreferrer nofollow" target="_blank">DuDu Town</a>
-</p>
-<p><a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">Zao Bao Schools (Newspaper)</a>
-</p>
-<p><strong>Mathematics E-Learning Platform</strong>
-</p>
-<p><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login" rel="noopener noreferrer nofollow" target="_blank">Koobits</a>
-</p>
+<p></p>
