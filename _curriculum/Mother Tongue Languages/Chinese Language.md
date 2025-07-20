@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /curriculum/Mother-Tongue-Languages/Chinese-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 *   **华文部**
     
@@ -64,7 +65,7 @@ third_nav_title: Mother Tongue Languages
 
 这是华文部专为義安学生设计的网页，是一份年刊。学生可以上网阅读各年级学生的优秀作品和活动报导。
 
-https://www.ezhishi.net/NAPSebook2022/index.html
+https://www.ezhishi.net/NAPSebook2024/index.html
 
 **7.乐学善用互动平台（****iMTL****）（三年级至六年级）**
 
