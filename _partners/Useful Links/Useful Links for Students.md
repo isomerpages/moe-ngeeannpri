@@ -60,17 +60,6 @@ third_nav_title: Useful Links
 <p></p><a class="isomer-image-wrapper" href="https://www.ezhishi.net/NAPSebook2024/index.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg"></a>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
