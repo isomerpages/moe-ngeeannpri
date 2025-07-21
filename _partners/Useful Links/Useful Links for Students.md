@@ -55,15 +55,9 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.ezhishi.net/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg"></a>
-<a class="isomer-image-wrapper" href="https://go.dudu.town/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.jpg">
-</a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.ezhishi.net/NAPSebook2024/index.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg"></a>
-<a class="isomer-image-wrapper" href="https://www.zbschools.sg/user-center/welcome?redirectUri=/">
-<img style="width: 100%" height="auto" width="100%" alt="https://www.zbschools.sg/" src="/images/8.jpg">
-</a>
 </td>
 </tr>
 <tr>
