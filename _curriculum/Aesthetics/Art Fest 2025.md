@@ -28,4 +28,7 @@ arts but also to empower student leaders with meaningful opportunities
 to guide, inspire, and shine. Through this inclusive celebration, we hope
 to nurture confidence, spark joy in learning, and create lasting memories
 for every child at NAPS.</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2F100064057052671%2Fvideos%2F1206843164503410%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
 <p></p>
