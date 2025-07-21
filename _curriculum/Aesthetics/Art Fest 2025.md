@@ -28,5 +28,4 @@ arts but also to empower student leaders with meaningful opportunities
 to guide, inspire, and shine. Through this inclusive celebration, we hope
 to nurture confidence, spark joy in learning, and create lasting memories
 for every child at NAPS.</p>
-<p><a href="https://drive.google.com/file/d/1qznGex0gwkjMufyXr8f889E3SONq5PK2/view" rel="noopener nofollow" target="_blank">Art Fest 2025</a>
-</p>
+<p></p>
