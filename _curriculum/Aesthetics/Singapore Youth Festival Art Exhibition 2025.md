@@ -12,7 +12,7 @@ and “Threads of Light” which were submitted for the SYF Art Exhibition
 2025 based on the theme of “Art<strong><em>i</em></strong>st and Collaboration”.</p>
 <p>&nbsp;</p>
 <p>We are proud to announce that our students artists behind “Threads of
-Light” have received the <em>Certificate of Recogition (Special Mention)</em> for
+Light” have received the <em>Certificate of Recognition (Special Mention)</em> for
 their piece. All three works can be found on the Online Art Gallery at
 the following website:
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://www.syf.gov.sg/art-exhibition/the-online-art-gallery</a>
