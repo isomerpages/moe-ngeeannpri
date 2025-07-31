@@ -65,8 +65,8 @@ third_nav_title: Useful Links
 <p></p>
 <h4><strong>Password Reset Guide for Student Learning Space</strong></h4>
 <p>Students are strongly encouraged to log in to SLS via their MIMS account.
-Please refer to this self-service password reset guide if you encounter
-any of the following issues:</p>
+Please refer to this <a href="https://for.edu.sg/naps-mims-password-reset-guide" rel="noopener nofollow" target="_blank">self-service MIMS password reset guide</a> if
+you encounter any of the following issues:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Forgotten MIMS password</p>
