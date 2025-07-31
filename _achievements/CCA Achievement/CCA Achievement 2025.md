@@ -13,7 +13,8 @@ third_nav_title: CCA Achievement
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chief Scout's Award (Cub Scout)</p>
+<p><strong>Chief Scout's Award (Cub Scout)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -44,56 +45,42 @@ third_nav_title: CCA Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Taekwondo Championships (Poomsae)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quek Li Wen - 7th (Senior Division Girls Yellow 7)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jovan Susanto - 2nd (Senior Division Boys Yellow)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ethaniel Joel Susanto - 2nd (Senior Division Boys Poom 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Table Tennis NSG 2025</p>
+<p><strong>National School Games Taekwondo Championships (Poomsae)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Quek Li Wen - 7th (Senior Division Girls Yellow 7)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Jovan Susanto - 2nd (Senior Division Boys Yellow)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ethaniel Joel Susanto - 2nd (Senior Division Boys Poom 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Table Tennis NSG 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,16 +97,15 @@ third_nav_title: CCA Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Floorball NSG 2025</p>
+<p><strong>Floorball NSG 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,16 +122,15 @@ third_nav_title: CCA Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>East Division Day 2025</p>
+<p><strong>East Division Day 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -186,16 +171,15 @@ third_nav_title: CCA Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Wushu NSG 2025</p>
+<p><strong>Wushu NSG 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,16 +209,15 @@ third_nav_title: CCA Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Calligraphy Competition</p>
+<p><strong>National Calligraphy Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
