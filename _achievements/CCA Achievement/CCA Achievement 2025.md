@@ -47,11 +47,6 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>National School Games Taekwondo Championships (Poomsae)</strong>
 </p>
 </td>
@@ -74,11 +69,6 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Table Tennis NSG 2025</strong>
 </p>
 </td>
@@ -99,11 +89,6 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Floorball NSG 2025</strong>
 </p>
 </td>
@@ -124,11 +109,6 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>East Division Day 2025</strong>
 </p>
 </td>
@@ -140,7 +120,7 @@ third_nav_title: CCA Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chrotal Reading</p>
+<p>Choral Reading</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st</p>
@@ -173,11 +153,6 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Wushu NSG 2025</strong>
 </p>
 </td>
@@ -211,16 +186,8 @@ third_nav_title: CCA Achievement
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>National Calligraphy Competition</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
