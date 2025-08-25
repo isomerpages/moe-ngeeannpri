@@ -3,6 +3,7 @@ title: Vendor Information
 permalink: /partners/Vendor-Information/
 description: ""
 third_nav_title: Vendors
+variant: markdown
 ---
 **Student Care @ Ngee Ann Primary School**  
 
@@ -51,5 +52,7 @@ Steadfast Transport Service 
 Tel: 6747 4825    or    Mobile: 9736 5432 (Mr Lim)
 
 Email: [steadfastbus@gmail.com](mailto:steadfastbus@gmail.com)
+
+[Click here for School Bus Application Form](/files/2025%20Comms/Sch_Bus_Application_form_2026.pdf)
 
 ![](/images/schoolbus.JPG)
