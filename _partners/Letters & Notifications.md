@@ -77,3 +77,5 @@ Parent Gateway FAQ -[Click here](https://pg.moe.edu.sg/faq)
 Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide.pdf)
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
+
+updated 2 Sept 2025
