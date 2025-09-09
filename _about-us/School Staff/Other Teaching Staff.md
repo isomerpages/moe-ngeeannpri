@@ -15,9 +15,9 @@ variant: markdown
 |[Mdm Hee Fei Ling](hee_fei_ling@moe.edu.sg) | [Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg)
 |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| [Mdm Lim Wan Szi](lim_wan_szi_b@moe.edu.sg)
 |Mdm Millie Soon| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg) 
-| [Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg) | Ms Bernice Lau Li Yuan
+| [Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg) |Ms Priya V Jothi |
 | Mdm Phua Soak Hoon Kimberly | Mr Wilson Kwa Kok Beng |
-|Ms Priya V Jothi |
+
 
 **Other Language Teachers**
 
