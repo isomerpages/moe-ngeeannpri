@@ -11,7 +11,8 @@ variant: markdown
 | -------- | -------- | 
 | Principal     |[Mdm Pang Siu San](mailto:naps_sl@moe.edu.sg)   | 
 |Vice-Principal (Academic)|[Mrs Tye-Low Lee Chern](mailto:naps_sl@moe.edu.sg)|
-|Vice-Principal (Academic)|[Mrs Lim Li Li](mailto:naps_sl@moe.edu.sg)
+|Vice-Principal (Academic)|[Mrs Lim Li Li](mailto:naps_sl@moe.edu.sg)|
+|Vice-Principal (Administration) | [Ms Rynne Chua](mailto:naps_sl@moe.edu.sg)
 
 **Heads of Department**
 
@@ -55,10 +56,9 @@ variant: markdown
 | | | 
 | -------- | -------- | 
 |Lead Teacher English Language|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
-|Senior Teacher English|Vacant
-|Senior Teacher Educational Support| Vacant
 |Senior Teacher Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
 |Senior Teacher Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
-|Senior Teacher Chinese Language|Vacant
 |Senior Teacher Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
 |Senior Teacher CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
+
+updated : 09/09/25
