@@ -39,5 +39,6 @@ variant: markdown
 |OSO|Mr Farhad Chand
 |Admin Assistant|Mdm Djaja Mega
 |Admin Assistant|Mdm Nurul Fazira
-|Desktop Engineer|Mr Hakim
 |Desktop Engineer|Mr Au Yang Xian
+
+updated : 09/09/25
