@@ -16,7 +16,8 @@ variant: markdown
 |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| [Mdm Lim Wan Szi](lim_wan_szi_b@moe.edu.sg)
 |Mdm Millie Soon| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg) 
 | [Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg) | Ms Bernice Lau Li Yuan
-| Mdm Phua Soak Hoon Kimberly | Mr Wilson Kwa Kok Beng
+| Mdm Phua Soak Hoon Kimberly | Mr Wilson Kwa Kok Beng |
+|Ms Priya V Jothi |
 
 **Other Language Teachers**
 
@@ -24,7 +25,8 @@ variant: markdown
 | -------- | -------- |
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
 | [Mdm Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)| Mdm Lim Mui Choo
-|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg)
+|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg)|
+Ms Ng Shiyun Wendy
 
 **Special Needs Officer**
 
