@@ -11,7 +11,8 @@ variant: markdown
 | -------- | -------- | 
 | Principal     |[Mdm Pang Siu San](mailto:naps_sl@moe.edu.sg)   | 
 |Vice-Principal (Academic)|[Mrs Tye-Low Lee Chern](mailto:naps_sl@moe.edu.sg)|
-|Vice-Principal (Academic)|[Mrs Lim Li Li](mailto:naps_sl@moe.edu.sg)
+|Vice-Principal (Academic)|[Mrs Lim Li Li](mailto:naps_sl@moe.edu.sg)|
+|Vice-Principal (Administration) | [Ms Rynne Chua](mailto:naps_sl@moe.edu.sg)
 
 **General Office Management**
 
