@@ -25,20 +25,20 @@ The motto "ONWARD IN UNITY" is to remind the pupils that they have to work in un
 
 <img src="/images/schsong_thumb.jpeg" style="width:50%;float:right">
 		 
-We're the pupils of Ngee Ann Primary,  
-Young though we may be.  
-We're the pillars of society  
-Not lacking in humility.  
+We're the pupils of Ngee Ann Primary<br> 
+Young though we may be<br>
+We're the pillars of society <br>
+Not lacking in humility<br>
   
-Ngee Ann Primary,  
-Ngee Ann Primary,  
-Our pride you’ll always be.  
-To seek for knowledge as rule  
-Diligent we must be.  
-Bringing honour to our beloved school,  
-This our aim shall be.  
+Ngee Ann Primary<br>
+Ngee Ann Primary<br>
+Our pride you’ll always be<br>
+To seek for knowledge as a rule  <br>
+Diligent we must be<br>
+Bringing honour to our beloved school<br>
+This our aim shall be<br>
   
-Ngee Ann, Ngee Ann,  
-Our pride you’ll always be.  
-Ngee Ann, Ngee Ann,  
-Our pride you'll always be.
+Ngee Ann, Ngee Ann<br>
+Our pride you’ll always be<br>
+Ngee Ann, Ngee Ann<br>
+Our pride you'll always be<br>
