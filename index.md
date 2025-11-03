@@ -15,4 +15,10 @@ sections:
       url: https://www.facebook.com/profile.php?id=100064057052671
       image: /images/NewPageWLogo.jpg
       alt: Ngee Ann Facebook Page
+  - infobar:
+      title: Notice of Vacancy
+      id: infobar
+      description: School canteen vacancy
+      button: Click here for more
+      url: /partners/vendor/advertisement/
 ---
