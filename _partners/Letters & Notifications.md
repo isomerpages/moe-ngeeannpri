@@ -34,8 +34,20 @@ Slides will be added after the briefing
 [P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
 
 
-**2026 Booklist** 
-<br>Booklist will be uploaded shortly
+**2026 Booklist** <br>
+[Primary 1](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_1.pdf) <br>
+[Primary 2](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_2.pdf) <br>
+[Primary 3](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_3.pdf) <br>
+[Primary 3 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_3_HMT.pdf) <br>
+[Primary 4](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_4.pdf) <br>
+[Primary 4 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_4_HMT.pdf) <br>
+[Primary 5](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5.pdf) <br>
+[Primary 5 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_HMT.pdf) <br>
+[Primary 5 4F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_F.pdf) <br>
+[Primary 5 3S1FMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_3S1FMT.pdf)<br>
+[Primary 5 2S2F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_2S2F.pdf)<br>
+[Primary 5 1SMT3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SMT3F.pdf)<br>
+[Primary 5 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SEL3F.pdf)
 
 
 **Subject-based Banding (SBB) Information Sheet**
