@@ -47,7 +47,14 @@ Slides will be added after the briefing
 [Primary 5 3S1FMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_3S1FMT.pdf)<br>
 [Primary 5 2S2F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_2S2F.pdf)<br>
 [Primary 5 1SMT3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SMT3F.pdf)<br>
-[Primary 5 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SEL3F.pdf)
+[Primary 5 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SEL3F.pdf) <br>
+[Primary 6](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6.pdf)<br>
+[Primary 6 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_HMT.pdf)<br>
+[Primary 6 4F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_F.pdf)<br>
+[Primary 6 3S1FMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_3S1FMT.pdf)<br>
+[Primary 6 2S2F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_2S2F.pdf)<br>
+[Primary 6 1SMT3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_1SMT3F.pdf)<br>
+[Primary 6 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_1SEL3F.pdf)
 
 
 **Subject-based Banding (SBB) Information Sheet**
