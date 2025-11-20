@@ -24,10 +24,8 @@ P6 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P6_Term_1_Level_Letter_202
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
-**P1 2025 Orientation Kit**<br>
-[2025 P1 Orientation Briefing Slides](/files/2025%20Booklist/2025P1/P1_2025_Orientation_compressed.pdf)<br>
-[2025 P1 Info Sheet](/files/2025%20Booklist/2025P1/P1_Information_Sheet__1_2025_.pdf)<br>
-[2025 P1 Parents FAQ](/files/2025%20Booklist/2025P1/Primary_1_Parents_FAQ_2025.pdf)
+**P1 2026 Orientation Kit**<br>
+Slides will be added after the briefing
 
 **2025 P1 Parent Engagement Briefing Slides**<br>
 [P1 Parent Engagement Briefing Slides](/files/2025%20Comms/P1_Parents_Engagement_Consolidated_Slide_Deck.pdf)
@@ -36,27 +34,28 @@ P6 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P6_Term_1_Level_Letter_202
 [P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
 
 
-**2025 Booklist**  
-P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
-<br>P2 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_2.pdf)
-<br>P3 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_3.pdf)
-<br>P3 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_3HMT.pdf)
-<br>P4 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_4.pdf)
-<br>P4 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_4HMT.pdf)
-<br>P5 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_4S.pdf)
-<br>P5 1SEL3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_1SEL3F.pdf)
-<br>P5 1SMT3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_1SMT3F.pdf)
-<br>P5 2S2F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_2S2F.pdf)
-<br> P5 3S1FMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_3S1FMT.pdf)
-<br>P5 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_4F.pdf)
-<br> P5 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5HMT.pdf)
-<br>P6 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4S.pdf)
-<br>P6 1SEL3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_1SEL3F.pdf)
-<br>P6 2S2F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_2S2F.pdf)
-<br> P6 3S1FMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_3S1FMT.pdf)
-<br> P6 1SMT3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_1SMT3F.pdf)
-<br>P6 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4F.pdf)
-<br>P6 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6HMT.pdf)
+**2026 Booklist** <br>
+[Primary 1](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_1.pdf) <br>
+[Primary 2](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_2.pdf) <br>
+[Primary 3](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_3.pdf) <br>
+[Primary 3 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_3_HMT.pdf) <br>
+[Primary 4](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_4.pdf) <br>
+[Primary 4 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_4_HMT.pdf) <br>
+[Primary 5](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5.pdf) <br>
+[Primary 5 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_HMT.pdf) <br>
+[Primary 5 4F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_F.pdf) <br>
+[Primary 5 3S1FMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_3S1FMT.pdf)<br>
+[Primary 5 2S2F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_2S2F.pdf)<br>
+[Primary 5 1SMT3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SMT3F.pdf)<br>
+[Primary 5 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_5_1SEL3F.pdf) <br>
+[Primary 6](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6.pdf)<br>
+[Primary 6 HMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_HMT.pdf)<br>
+[Primary 6 4F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_F.pdf)<br>
+[Primary 6 3S1FMT](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_3S1FMT.pdf)<br>
+[Primary 6 2S2F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_2S2F.pdf)<br>
+[Primary 6 1SMT3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_1SMT3F.pdf)<br>
+[Primary 6 1SEL3F](/files/2026%20Booklist/Ngee_Ann_Booklist_2026_Primary_6_1SEL3F.pdf)
+
 
 **Subject-based Banding (SBB) Information Sheet**
 <br>
@@ -76,4 +75,4 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-updated 2 Sept 2025
+updated 20 November 2025
