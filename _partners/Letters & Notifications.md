@@ -34,27 +34,9 @@ Slides will be added after the briefing
 [P4 SBB Parents Briefing](/files/2025%20Comms/P4_SBB_Parents_Briefing_Final_for_Website_compressed.pdf)
 
 
-**2025 Booklist**  
-P1 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_1.pdf)
-<br>P2 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_2.pdf)
-<br>P3 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_3.pdf)
-<br>P3 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_3HMT.pdf)
-<br>P4 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_4.pdf)
-<br>P4 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_4HMT.pdf)
-<br>P5 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_4S.pdf)
-<br>P5 1SEL3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_1SEL3F.pdf)
-<br>P5 1SMT3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_1SMT3F.pdf)
-<br>P5 2S2F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_2S2F.pdf)
-<br> P5 3S1FMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_3S1FMT.pdf)
-<br>P5 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5_4F.pdf)
-<br> P5 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_5HMT.pdf)
-<br>P6 - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4S.pdf)
-<br>P6 1SEL3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_1SEL3F.pdf)
-<br>P6 2S2F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_2S2F.pdf)
-<br> P6 3S1FMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_3S1FMT.pdf)
-<br> P6 1SMT3F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_1SMT3F.pdf)
-<br>P6 4F - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6_4F.pdf)
-<br>P6 HMT - [Click Here](/files/2025%20Booklist/Ngee_Ann_Booklist_2025_Primary_6HMT.pdf)
+**2026 Booklist** 
+<br>Booklist will be uploaded shortly
+
 
 **Subject-based Banding (SBB) Information Sheet**
 <br>
