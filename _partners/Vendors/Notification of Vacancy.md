@@ -33,7 +33,7 @@ variant: tiptap
 <p>Halal Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Nov 2025</p>
+<p>26 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
