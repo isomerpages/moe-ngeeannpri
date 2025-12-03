@@ -25,7 +25,9 @@ P6 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P6_Term_1_Level_Letter_202
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
 **P1 2026 Orientation Kit**<br>
-Slides will be added after the briefing
+[2026 P1 Orientation Slides](/files/2026/P1_2026_Orientation_Slides_Parents_compressed.pdf)<br>
+[2026 P1 Information Sheet](/files/2026/P1_Information_Sheet__1_2026_.pdf)<br>
+[2026 P1 FAQ](/files/2026/Primary_1_Parents_FAQ_2026.pdf)
 
 **2025 P1 Parent Engagement Briefing Slides**<br>
 [P1 Parent Engagement Briefing Slides](/files/2025%20Comms/P1_Parents_Engagement_Consolidated_Slide_Deck.pdf)
