@@ -6,21 +6,21 @@ variant: markdown
 ---
 **Termly Letter to Parents**
 <br>
-[2025 Term 1](/files/2025%20Comms/Letter%20to%20Parent/2025_Term_1_Letter_to_Parent.pdf), [2025 Term 2](/files/2025%20Comms/Letter%20to%20Parent/Term_2_Letter_to_Parents_2025.pdf), [2025 Term 3](/files/2025%20Comms/T3/2025_Term_3_Letter_to_Parents.pdf), [2025 Term 4](/files/2025%20Comms/Term_4_Letter_to_Parents_2025.pdf)
+
 
 **LM Letter to Parents**
 <br>
-P1 - [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P1_Term_1_Level_Letter_2025.pdf)[Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P1_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P1_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P1_Term_4_Level_Letter_2025.pdf)
+P1 -
 <br>
-P2 - [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P2_Term_1_Level_Letter_2025.pdf) [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P2_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P2_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P2_Term_4_Level_Letter_2025.pdf)[ &amp; Tips and Strategies for Parents](/files/2025%20Comms/T4/Tips_and_Strategies_for_Parents.pdf)
+P2 - 
 <br>
-P3 - [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P3_Term_1_Level_Letter_2025.pdf) [Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P3_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P3_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P3_Term_4_Level_Letter_2025.pdf)
+P3 -
 <br>
-P4 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P4_Term_1_Level_Letter_2025.pdf)[Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P4_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P4_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P4_Term_4_Level_Letter_2025.pdf)
+P4 - 
 <br>
-P5 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P5_Term_1_Level_Letter_2025.pdf)[Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P5_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P5_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P5_Term_4_Level_Letter_2025.pdf)
+P5 - 
 <br>
-P6 -  [Term 1, ](/files/2025%20Comms/LM%20Letter%20T1/P6_Term_1_Level_Letter_2025.pdf)[Term 2,](/files/2025%20Comms/LM%20Letter%20T2/P6_Term_2_Level_Letter_2025.pdf)[ Term 3,](/files/2025%20Comms/T3/P6_Term_3_Level_Letter_2025.pdf)[ Term 4](/files/2025%20Comms/T4/P6_Term_4_Level_Letter_2025.pdf)
+P6 - 
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
@@ -77,4 +77,4 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-updated 20 November 2025
+updated 19 December 2025
