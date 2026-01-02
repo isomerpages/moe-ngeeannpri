@@ -408,7 +408,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Lee Ling</p>
+<p><a href="mailto:ho_lee_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ho Lee Ling</a>
+</p>
 </td>
 </tr>
 <tr>
