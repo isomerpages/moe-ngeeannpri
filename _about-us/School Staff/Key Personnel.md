@@ -18,7 +18,7 @@ variant: markdown
 
 | | | 
 | -------- | -------- | 
-|English| Vacant
+|English| [Ms Neo Jia Hwee, Charlotte](mailto:neo_jia_hwee@moe.edu.sg)
 |Mathematics|[Mrs Lisa Lee](mailto:lisa_lee-chong@moe.edu.sg)
 |Science|[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)
 |Mother Tongue|[Mdm Karen Ting](mailto:ting_soo_wee@moe.edu.sg)
