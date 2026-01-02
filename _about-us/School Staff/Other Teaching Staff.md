@@ -24,8 +24,6 @@ variant: markdown
 | -------- | -------- |
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
 | [Mdm Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)| Ms Ng Shiyun Wendy
-|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg)|
-|Ms Annur Munirah Binti Muhd Arffah
 
 
 **Special Needs Officer**
@@ -40,4 +38,4 @@ variant: markdown
 
 [Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) |
 
-updated : 09/09/25
+updated : 02/01/26
