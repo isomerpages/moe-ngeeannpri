@@ -26,8 +26,8 @@ variant: markdown
 |  |  | 
 | -------- | -------- |
 |[Mdm Nur Shereen Bte Mohd Shah](mailto:nur_shereen_mohamed_shah@moe.edu.sg)|[Mdm Siti Aminah](mailto:siti_aminah_mahfud@moe.edu.sg)
-|[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)| Ms Shari Ho Ting Fen
-|Ms Han Meiting Tina
+|[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)| [Ms Shari Ho Ting Fen](mailto:shari_ho_ting_fen@moe.edu.sg)
+|[Ms Han Meiting Tina](mailto:han_meiting_tina_a@moe.edu.sg) 
 
 **School Counsellor**
 
