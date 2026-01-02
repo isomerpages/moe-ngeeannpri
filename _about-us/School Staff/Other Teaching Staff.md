@@ -11,7 +11,9 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- |
-|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)
+|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)|
+Miss Nur Nadhirah Binte Mazeli | [Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)|
+Mrs Gan-Toh Hui Bok |
 
 
 **Other Language Teachers**
