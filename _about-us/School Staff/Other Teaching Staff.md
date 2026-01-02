@@ -11,11 +11,9 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- |
-|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)
-| [Mdm Lim Geok Hoon](mailto:lim_geok_hoonn@moe.edu.sg) |Mr Wilson Kwa Kok Beng |
-|[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)| Mdm Phua Soak Hoon Kimberly | 
-|Mdm Millie Soon| [Mdm Wee Cher Ying Grace](mailto:grace_wee_cher_ying@moe.edu.sg) 
-| [Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg) |Ms Priya V Jothi |
+|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)|
+Miss Nur Nadhirah Binte Mazeli | [Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)|
+Mrs Gan-Toh Hui Bok |
 
 
 **Other Language Teachers**
@@ -23,9 +21,6 @@ variant: markdown
 |  |  | 
 | -------- | -------- |
 |[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
-| [Mdm Teoh Jye Shan](mailto:teoh_jye_shan@moe.edu.sg)| Ms Ng Shiyun Wendy
-|[Mr Mohamed Ishak Bin Abdul Rahman](mailto:mohd_ishak_abdul_rahman@moe.edu.sg)|[Mdm Norseha Binte Sa'at](mailto:norseha_saat@moe.edu.sg)|
-|Ms Annur Munirah Binti Muhd Arffah
 
 
 **Special Needs Officer**
@@ -33,11 +28,11 @@ variant: markdown
 |  |  | 
 | -------- | -------- |
 |[Mdm Nur Shereen Bte Mohd Shah](mailto:nur_shereen_mohamed_shah@moe.edu.sg)|[Mdm Siti Aminah](mailto:siti_aminah_mahfud@moe.edu.sg)
-|[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)| Ms Shari Ho Ting Fen
-|Ms Han Meiting Tina
+|[Mdm Wong Wei Heng, Chillsie](mailto:wong_wei_heng_chillsie@moe.edu.sg)| [Ms Shari Ho Ting Fen](mailto:shari_ho_ting_fen@moe.edu.sg)
+|[Ms Han Meiting Tina](mailto:han_meiting_tina_a@moe.edu.sg) 
 
 **School Counsellor**
 
 [Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) |
 
-updated : 09/09/25
+updated : 02/01/26

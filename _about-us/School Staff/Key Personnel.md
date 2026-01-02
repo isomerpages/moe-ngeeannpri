@@ -18,13 +18,13 @@ variant: markdown
 
 | | | 
 | -------- | -------- | 
-|English| Vacant
+|English| [Ms Neo Jia Hwee, Charlotte](mailto:neo_jia_hwee@moe.edu.sg)
 |Mathematics|[Mrs Lisa Lee](mailto:lisa_lee-chong@moe.edu.sg)
 |Science|[Mrs Cheang Foong Lan](mailto:leong_foong_lan@moe.edu.sg)
 |Mother Tongue|[Mdm Karen Ting](mailto:ting_soo_wee@moe.edu.sg)
 |Physical Education/ CCA/ Aesthetic|[Mr Shafiruddin](mailto:shafiruddin_b_rahim@moe.edu.sg)
 |ICT|[Mr Anthony Chia](mailto:chia_tet_soon_anthony@moe.edu.sg)
-|School Staff Developer| Vacant
+|School Staff Developer| [Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Student Management|[Mr Bryan Neo](mailto:bryan_neo_ginn_ning@moe.edu.sg)
 |Year Head (P1 & P2)| [Mdm Kong Wing Yan](mailto:kong_wing_yan@moe.edu.sg)
 |Year Head (P3 & P4)|[Mdm Maisarah](mailto:maisarah_supani@moe.edu.sg)
@@ -37,7 +37,7 @@ variant: markdown
 | -------- | -------- | 
 |English|[Mdm Azizah](mailto:azizah_jumaat@moe.edu.sg)
 |Mathematics| [Ms Justina Neo](mailto:neo_poh_tin_justina@moe.edu.sg)
-|Science|[Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
+|Science| [Ms Sultanah Bte Ali](mailto:sultanah_ali@moe.edu.sg)
 |Chinese Language|[Ms Angeline Lee](mailto:lee_siew_hoon_angeline@moe.edu.sg)
 |Malay Language|[Mr Rohan Nizam](mailto:rohan_nizam_basheer@moe.edu.sg)
 |Physical Education|[Mr Shahrudin](mailto:shahrudin_salleh@moe.edu.sg)
@@ -60,5 +60,6 @@ variant: markdown
 |Senior Teacher Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
 |Senior Teacher Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
 |Senior Teacher CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
+|Senior Teacher Art|Mdm Ang Ying Chuang, Angelia
 
-updated : 09/09/25
+updated : 02/01/26
