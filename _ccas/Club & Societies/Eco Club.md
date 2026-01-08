@@ -7,7 +7,7 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mdm Sultanah Ali** <br>Ms Elaine Lau <b>
+| **Teachers In Charge**     | **Mdm Kelly** <br>Ms Elaine Lau <b>
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Science Lab</b>

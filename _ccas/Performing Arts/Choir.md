@@ -7,7 +7,7 @@ variant: markdown
 ---
 | | |
 | --- | ---|
-| **Teachers In-Charge** |**Mrs Angeline Pang**<br> Ms Chen Hui Ting<br>
+| **Teachers In-Charge** |**Mrs Angeline Pang**<br> Ms Chen Hui Ting<br> Ms Christine Chua
 |**Training Day**|Monday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Band rooms

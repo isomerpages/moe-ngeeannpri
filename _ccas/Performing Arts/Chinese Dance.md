@@ -7,7 +7,7 @@ variant: markdown
 ---
 | | |
 | --- | ---|
-| **Teachers In-Charge** |**Mdm Angela Ang**<br>Mrs Teresa Khoo<br>Ms Huang Xin<br>
+| **Teachers In-Charge** |**Mdm Ho Lee Ling**<br>Mrs Teresa Khoo<br>Ms Huang Xin<br>
 |**Training Day**|Monday
 |**Training Timing**|2.00pm to 4.00pm
 |**Training Venue**|Performing Arts Theatre
