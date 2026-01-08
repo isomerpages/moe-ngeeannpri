@@ -7,7 +7,7 @@ variant: markdown
 ---
 | |  | 
 | -------- | -------- | 
-| **Teachers In Charge**     | **Mr Shahrin**<br>Mr Andrew Chan Boon Keat|
+| **Teachers In Charge**     | **Mr Shahrin**<br> Mdm Megalai|
 |**Training Day**|Wednesday
 |**Training Time**|2.00pm to 4.00pm
 |**Training Venue**|Basketball Court/Parade Square
