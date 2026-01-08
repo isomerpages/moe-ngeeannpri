@@ -528,8 +528,7 @@ variant: tiptap
 <p>P4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Jia Hwee, Charlotte</a>
-</p>
+<p>Ms Nur Nadhirah</p>
 </td>
 </tr>
 <tr>
@@ -722,7 +721,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_leng_hwee@moe.edu.sg)" rel="noopener noreferrer nofollow" target="_blank">Mdm Ang Leng Hwee Angela</a>
+<p><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Jia Hwee, Charlotte</a>
 </p>
 </td>
 </tr>
