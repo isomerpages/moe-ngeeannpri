@@ -20,7 +20,8 @@ Mrs Gan-Toh Hui Bok |
 
 |  |  | 
 | -------- | -------- |
-|[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg)
+|[Mdm Sam Chiew Mun](mailto:sam_chiew_mun@moe.edu.sg)|[Mdm Hew Lee Lee](mailto:hew_lee_lee@moe.edu.sg) 
+|Mdm Angela Ang
 
 
 **Special Needs Officer**
