@@ -58,8 +58,9 @@ variant: markdown
 |Lead Teacher English Language|[Mdm Rafeah](mailto:rafeah_yahya@moe.edu.sg)
 |Senior Teacher Mathematics|[Mdm Lee Qwee Lan Kelly](mailto:lee_qwee_lan_kelly@moe.edu.sg)
 |Senior Teacher Science|[Mrs Tan Poh Suan](mailto:tan_poh_suan_b@moe.edu.sg)
+|Senior Teacher Chinese Language|[Mdm Ho Lee Ling](mailto:ho_lee_ling@moe.edu.sg)
 |Senior Teacher Tamil Language|[Mdm Megalai](mailto:megalai_thangavelu@moe.edu.sg)
 |Senior Teacher CCE|[Mdm Noor Aini](mailto:noor_aini@moe.edu.sg)
-|Senior Teacher Art|Mdm Ang Ying Chuang, Angelia
+|Senior Teacher Art|[Mdm Ang Ying Chuang Angelia](mailto:ang_ying_chuang_angelia@moe.edu.sg)
 
-updated : 02/01/26
+updated : 15/01/26
