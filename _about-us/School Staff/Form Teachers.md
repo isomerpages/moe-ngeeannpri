@@ -453,7 +453,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Ying Chuang, Angelia</p>
+<p><a href="mailto:ang_ying_chuang_angelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ang Ying Chuang, Angelia</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +529,8 @@ variant: tiptap
 <p>P4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Nadhirah</p>
+<p><a href="mailto:liang_guifang_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Liang Guifang Evelyn</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -536,8 +538,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_guifang_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Liang Guifang Evelyn</a>
-</p>
+<p>Ms Nur Nadhirah</p>
 </td>
 </tr>
 <tr>
