@@ -79,9 +79,9 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Ngee Ann Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Ngee Ann Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -131,7 +131,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -174,11 +174,9 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>&nbsp;2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;Primary 6</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -249,8 +247,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><br></strong>
-</p>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
@@ -258,10 +255,9 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2025 Comms/Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed opt-out
-form is to be submitted by 24/01/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 64418677 or <a rel="noopener noreferrer nofollow" target="_blank">naps@moe.edu.sg</a> for
+an opt-out form. This form is available <u>here</u>. The completed opt-out
+form is to be submitted by 13/02/2026.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 64418677
+or <a href="mailto:naps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
