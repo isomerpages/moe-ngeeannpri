@@ -46,7 +46,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>OVERVIEW OF NGEE ANN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME</strong>
 </p>
-<p><strong>FOR 2025</strong>
+<p><strong>FOR 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -108,8 +108,6 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -202,8 +200,6 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +251,7 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form is available <a href="/files/2026/OPTOUTFORM.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out form
+an opt-out form. This form is available<a href="/files/2026/OPTOUTFORM.pdf" rel="noopener nofollow" target="_blank"> here</a>. The completed opt-out form
 is to be submitted by 13/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 64418677
 or <a href="mailto:naps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naps@moe.edu.sg</a> for
