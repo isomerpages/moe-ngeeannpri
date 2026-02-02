@@ -46,7 +46,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>OVERVIEW OF NGEE ANN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME</strong>
 </p>
-<p><strong>FOR 2025</strong>
+<p><strong>FOR 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -108,8 +108,6 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -201,8 +199,6 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
