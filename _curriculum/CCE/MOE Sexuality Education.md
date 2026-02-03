@@ -251,8 +251,8 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form is available<a href="/files/2026/OPTOUTFORM.pdf" rel="noopener nofollow" target="_blank"> here</a>. The completed opt-out form
-is to be submitted by 13/02/2026.</p>
+an opt-out form. This form is available<a href="/files/2026/OPTOUTFORM.pdf" rel="noopener nofollow" target="_blank"> </a><a href="/files/2026/Moe_Sexuality_Education_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed opt-out form is to be submitted by 13/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 64418677
 or <a href="mailto:naps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
