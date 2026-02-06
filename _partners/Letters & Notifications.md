@@ -29,6 +29,9 @@ P6 - [Term 1](/files/2026/LM%20Letter/P6_Term_1_Level_Letter_2026.pdf)
 [2026 P1 Information Sheet](/files/2026/P1_Information_Sheet__1_2026__updated_as_of_19Dec.pdf)<br>
 [2026 P1 FAQ](/files/2026/Primary_1_Parents_FAQ_2026.pdf)
 
+**P1 2026 Parent Engagement**<br>
+[Click here](/files/2026/1__NAPS_P1_Parents_Engagement_2026_compressed__1__compressed__1__.pdf)
+
 **2025 P1 Parent Engagement Briefing Slides**<br>
 [P1 Parent Engagement Briefing Slides](/files/2025%20Comms/P1_Parents_Engagement_Consolidated_Slide_Deck.pdf)
 
