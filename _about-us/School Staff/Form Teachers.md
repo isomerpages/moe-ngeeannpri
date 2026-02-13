@@ -197,7 +197,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_huay_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chiu Huay Yi, Tiffany</a>
+<p><a href="mailto:chiu_huay_yi_tiffany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chiu Huay Yi, Tiffany</a>
 </p>
 </td>
 </tr>
