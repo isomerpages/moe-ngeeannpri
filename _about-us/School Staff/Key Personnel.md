@@ -44,7 +44,7 @@ variant: markdown
 |Aesthetics|[Ms Gracelyn Ong](mailto:ong_tze_min_gracelyn@moe.edu.sg)
 |ICT| [Ms Gracia Teo](mailto:gracia_teo_wai_ting@moe.edu.sg)
 |Assistant Year Head (P1 & P2)|[Mdm Noreeni](mailto:noreeni_ismail@moe.edu.sg)
-|Assistant Year Head (P3 & P4)|[Mr Chu Boon Hong](mailto:chu_boon_hong@moe.edu.sg)
+|Assistant Year Head (P3 & P4)|Vacant
 |Assistant Year Head (P5 & P6)|[Mr Nurrizzat Bin Mohamed Ishak](mailto:nurrizzat_mohamed_ishak@moe.edu.sg)
 |Student Development|[Ms Revathy D/O Pachamuthu](mailto:revathy_pachamuthu@moe.edu.sg)
 |Student Well-Being|[Ms Goh Pei Ying Mary](mailto:goh_pei_ying_mary@moe.edu.sg)
