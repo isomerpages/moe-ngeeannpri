@@ -26,9 +26,9 @@ variant: markdown
 
 | | | 
 | -------- | -------- | 
-|MSO| Ms Lua Sim Hui
 |AE|Mdm Josephine Quek|
 |ICT Associate|Mr Azri
+|MSO| Ms Lua Sim Hui
 |MSO|Mdm Kathleen Ho
 |Adjunct MSO|Mdm Azreen
 |Receptionist|Mdm Aldilla
@@ -38,7 +38,8 @@ variant: markdown
 |OSO|Mr Johari
 |OSO|Mr Farhad Chand
 |Admin Assistant|Mdm Djaja Mega
-|Desktop Engineer|Mr Au Yang Xian
+|Admin Assistant|Mdm Aisah
 |Desktop Engineer|Ms Vani
+|Desktop Engineer|Mr Idris
 
-updated : 02/01/26
+updated : 24/03/26
