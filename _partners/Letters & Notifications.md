@@ -10,17 +10,17 @@ variant: markdown
 
 **LM Letter to Parents**
 <br>
-P1 - [Term 1](/files/2026/LM%20Letter/P1_Term_1_Level_Letter_2026.pdf)
+P1 - [Term 1](/files/2026/LM%20Letter/P1_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P1_Term_2_Level_Letter_2026_final.pdf)
 <br>
-P2 - [Term 1](/files/2026/LM%20Letter/P2_Term_1_Level_Letter_2026.pdf)
+P2 - [Term 1](/files/2026/LM%20Letter/P2_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P2_Term_2_Level_Letter_2026_final.pdf)
 <br>
-P3 -[Term 1](/files/2026/LM%20Letter/P3_Term_1_Level_Letter_2026.pdf)
+P3 -[Term 1](/files/2026/LM%20Letter/P3_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P3_Term_2_Level_Letter_2026.pdf)
 <br>
-P4 - [Term 1](/files/2026/LM%20Letter/P4_Term_1_Level_Letter_2026.pdf)
+P4 - [Term 1](/files/2026/LM%20Letter/P4_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P4_Term_2_Level_Letter_2026_final.pdf)
 <br>
-P5 - [Term 1](/files/2026/LM%20Letter/P5_Term_1_Level_Letter_2026.pdf)
+P5 - [Term 1](/files/2026/LM%20Letter/P5_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P5_Term_2_Level_Letter_2026.pdf)
 <br>
-P6 - [Term 1](/files/2026/LM%20Letter/P6_Term_1_Level_Letter_2026.pdf)
+P6 - [Term 1](/files/2026/LM%20Letter/P6_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P6_Term_2_Level_Letter_2026.pdf)
 
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
@@ -80,4 +80,4 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-updated 19 December 2025
+updated 30 March 2026
