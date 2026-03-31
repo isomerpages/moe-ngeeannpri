@@ -25,10 +25,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chan Sin Liang</strong>
-<br>Ms Mindy Ng
+<p><strong>Ms Mindy Ng </strong>
 <br>Ms Angeline Cheah
-<br>Ms Liu Mengkuan</p>
+<br>Ms Liu Mengkuan
+<br>Mr Caleb Chu</p>
 </td>
 </tr>
 <tr>
