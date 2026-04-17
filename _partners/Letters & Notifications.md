@@ -22,6 +22,18 @@ P5 - [Term 1](/files/2026/LM%20Letter/P5_Term_1_Level_Letter_2026.pdf), [Term 2]
 <br>
 P6 - [Term 1](/files/2026/LM%20Letter/P6_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P6_Term_2_Level_Letter_2026.pdf)
 
+**P5 Parents Engagement 2026**<br>
+[English](/files/2026/P5/2026_P5_EL_Briefing.pdf) <br>
+[Math](/files/2026/P5/2026_P5_MA_Briefing.pdf)<br>
+[Science](/files/2026/P5/2026_P5_SC_Briefing_Updated.pdf)<br>
+[Chinese Language](/files/2026/P5/2026_P5_CL_Briefing.pdf)<br>
+[Malay Language](/files/2026/P5/2026_P5_ML_Briefing.pdf)<br>
+[Tamil Language](/files/2026/P5/2026_P5_TL_Briefing.pdf)<br>
+[Higher Chinese Language](/files/2026/P5/2026_P5_HCL_Briefing.pdf)<br>
+[Foundation Math](/files/2026/P5/2026_P5_FMA_Briefing.pdf)<br>
+[Foundation Science](/files/2026/P5/2026_P5_FSC_Briefing_Updated.pdf)<br>
+[Foundation Chinese Language](/files/2026/P5/2026_P5_FCL_Briefing.pdf)<br>
+
 [MIMS Login Guide](/files/2024%20LM%20Letter/Term%202/MIMS_login_guide.pdf)
 
 **P1 2026 Orientation Kit**<br>
@@ -80,4 +92,4 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-updated 30 March 2026
+updated 17 April 2026
