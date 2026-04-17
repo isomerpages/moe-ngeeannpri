@@ -3,14 +3,12 @@ title: Programme
 permalink: /curriculum/English/Programme/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 Our design of the English curriculum and programmes has been guided by the 2020 EL syllabus and principles of Holistic Assessment. The school curriculum and STELLAR work in tandem to prepare our students to be confident users of the language. Taking into consideration our students’ cognitive development and their existing schema, our English Language curriculum has been designed to cater to the varying levels of progression of our students.
 <br>
 ![](/images/elprogramme.JPG)
 <br>
-![](/images/Picture1.png)
-<center>Framework Source: MOE/CPDD</center>
-
 **Reading**
 
 A sound&nbsp;reading programme&nbsp;is the fundamental building block for language learning to be effective. Through the different foundation stages, our students are exposed to various genres of literature. Independently, students have been flooded with reading materials that they take with them for a period of two weeks. Respecting their space, the school implements the uninterrupted silent and sustained reading daily.
