@@ -38,17 +38,6 @@ variant: tiptap
 <p>Able to start on 29 June 2026</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal Rice Stall 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Application Procedure</p>
