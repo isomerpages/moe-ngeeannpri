@@ -5,30 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Aesthetics
 ---
-<p><strong><u>Arts Fest 2025</u></strong>
+<p><strong><u>Arts Fest 2026</u></strong>
 </p>
-<p><strong>Arts Fest at NAPS: Celebrating Creative Expression</strong>
-</p>
-<p>As part of the school’s Learning for Life Programme (LLP) in <em>GRowing Appreciation for Creative Expression (GRACE)</em>,
-Arts Fest is an annual celebration that allows every student to experience
-the vibrancy of the arts while marking the end of a meaningful first semester.</p>
-<p>This year’s Arts Fest offered a full day of enriching art and music experiences.
-The event began with an exciting line-up of performances that captivated
-the school community, setting the tone for a day of creative exploration.
-Students then participated in hands-on workshops led by our very own “Art
-and Music Mentors” from the upper primary levels, who shared their knowledge
-and skills with their peers.</p>
-<p>During recess, the school came alive with creativity and energy. Students
-explored simple yet engaging arts and crafts, while others enjoyed live
-performances by their schoolmates. We were also heartened by the support
-of our parent volunteers, who lent their time and enthusiasm to help facilitate
-the recess activities and ensure a smooth experience for all.</p>
-<p>Arts Fest is designed not only to deepen students’ appreciation for the
-arts but also to empower student leaders with meaningful opportunities
-to guide, inspire, and shine. Through this inclusive celebration, we hope
-to nurture confidence, spark joy in learning, and create lasting memories
-for every child at NAPS.</p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2F100064057052671%2Fvideos%2F1206843164503410%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
-</div>
-<p></p>
+<p>Ngee Ann Primary School’s Arts Fest 2026 was a vibrant celebration of
+creativity, collaboration, and student agency through the arts. Throughout
+the day, students participated in a variety of hands-on art and music activities
+that encouraged creative expression, teamwork, and joyful learning experiences.</p>
+<p>The festivities continued during recess with interactive art and music
+booths, supported by our parent volunteers. Our Art and Music Mentors also
+played important leadership roles by guiding their juniors in learning
+new instruments and facilitating meaningful upcycling craft activities.</p>
+<p>The event concluded with a lively closing concert featuring performances
+in Erhu, Kompang, Percussion, and Dance. Students and teachers also came
+together to celebrate the achievements of our Performing Arts groups during
+the SYF certificate presentation ceremony. The concert ended on an energetic
+note with Annplify!Live Term 2, where a 4-piece student band captivated
+the audience and brought the school together in celebration.</p>
+<p>Arts Fest 2026 was a meaningful platform for students to learn, lead,
+and connect through the arts.</p>
