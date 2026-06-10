@@ -31,3 +31,34 @@ possible!
 following.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_04_10_at_5_05_46_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_04_10_at_5_07_39_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_04_10_at_5_13_39_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_04_10_at_5_15_08_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_53_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_54_PM__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_54_PM__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_54_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_55_PM__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SYFAP 2026/WhatsApp_Image_2026_06_02_at_12_19_55_PM__2_.jpg">
+</div>
+<p></p>
