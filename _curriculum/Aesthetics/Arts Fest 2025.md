@@ -23,3 +23,6 @@ note with Annplify!Live Term 2, where a 4-piece student band captivated
 the audience and brought the school together in celebration.</p>
 <p>Arts Fest 2026 was a meaningful platform for students to learn, lead,
 and connect through the arts.</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1D549GoEXD2eIIvFuZQ_noyMs0AtHa6Lb/view" rel="noopener nofollow" target="_blank">Arts Fest 2026 - 28 May 2026</a>
+</p>
