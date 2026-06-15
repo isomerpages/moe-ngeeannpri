@@ -3,7 +3,6 @@ title: Singapore Youth Festival Arts Presentation 2024
 permalink: /singapore-arts-festival-arts-presentation-2024/
 variant: tiptap
 description: ""
-third_nav_title: Aesthetics
 ---
 <p><strong><u>SYFAP 2024</u></strong>
 </p>
