@@ -11,9 +11,8 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- |
-|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mdm Norazlin Binte Ab Rahman](mailto:norazlin_ab_rahman@moe.edu.sg)|
-Miss Nur Nadhirah Binte Mazeli | [Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)|
-Mrs Gan-Toh Hui Bok |
+|[Ms Christine Chua Swee Cheng](mailto:christine_chua_swee_cheng@moe.edu.sg) |[Mrs Gan-Toh Hui Bok](mailto:gantoh_hui_bok_a@moe.edu.sg)|
+| [Mdm Chan Huan Fei](mailto:chan_huan_fei@moe.edu.sg)|
 
 
 **Other Language Teachers**
@@ -36,4 +35,4 @@ Mrs Gan-Toh Hui Bok |
 
 [Mdm Suganthi Jayabalan](mailto:suganthi_jayabalan@moe.edu.sg) |
 
-updated : 02/01/26
+updated : 29/06/26
