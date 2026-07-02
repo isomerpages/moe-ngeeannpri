@@ -14,7 +14,7 @@ P1 - [Term 1](/files/2026/LM%20Letter/P1_Term_1_Level_Letter_2026.pdf), [Term 2]
 <br>
 P2 - [Term 1](/files/2026/LM%20Letter/P2_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P2_Term_2_Level_Letter_2026_final.pdf)
 <br>
-P3 -[Term 1](/files/2026/LM%20Letter/P3_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P3_Term_2_Level_Letter_2026.pdf)
+P3 -[Term 1](/files/2026/LM%20Letter%20T1/P3_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P3_Term_2_Level_Letter_2026.pdf)
 <br>
 P4 - [Term 1](/files/2026/LM%20Letter/P4_Term_1_Level_Letter_2026.pdf), [Term 2](/files/2026/LM%20Letter%20T2/P4_Term_2_Level_Letter_2026_final.pdf)
 <br>
