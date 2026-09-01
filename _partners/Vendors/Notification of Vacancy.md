@@ -32,7 +32,7 @@ variant: tiptap
 <p>Chinese Rice Stall 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 November 2026</p>
+<p>30 November 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
