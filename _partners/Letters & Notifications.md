@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **Termly Letter to Parents**
-<br>[Term 1](/files/2026/Letter%20to%20Parent/2026_Term_1_Letter_to_Parents.pdf), [Term 2](/files/2026/Letter%20to%20Parent/2026_Term_2_Letter_to_Parents__Updated_.pdf), [Term 3](/files/2026/Letter%20to%20Parent/Updated__2026_Term_3_Letter_to_Parents.pdf)
+<br>[Term 1](/files/2026/Letter%20to%20Parent/2026_Term_1_Letter_to_Parents.pdf), [Term 2](/files/2026/Letter%20to%20Parent/2026_Term_2_Letter_to_Parents__Updated_.pdf), [Term 3](/files/2026/Letter%20to%20Parent/Updated__2026_Term_3_Letter_to_Parents.pdf), [Term 4](/files/2026/Letter%20to%20Parent/Term_4_Letter_to_Parents_2026.pdf)
 
 
 **LM Letter to Parents**
@@ -95,4 +95,4 @@ Parent Gateway Guide -&nbsp;[Click here](/files/Parents%20Gateway%20User%20Guide
 
 **Annual School-based Health &amp; Dental Services -**&nbsp;[Click Here](/files/Letter%20to%20P1%20Parents_Final.pdf)
 
-updated 24 June 2026
+updated 4 September 2026
