@@ -10,17 +10,17 @@ variant: markdown
 
 **LM Letter to Parents**
 <br>
-P1 - [Term 1](/files/2026/LM%20Letter%20T1/P1_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P1_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P1_Term_3_Level_Letter_2026.pdf)
+P1 - [Term 1](/files/2026/LM%20Letter%20T1/P1_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P1_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P1_Term_3_Level_Letter_2026.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P1_Term_4_Level_Letter_2026.pdf)
 <br>
-P2 - [Term 1](/files/2026/LM%20Letter%20T1/P2_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P2_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P2_Term_3_Level_Letter_2026.pdf)
+P2 - [Term 1](/files/2026/LM%20Letter%20T1/P2_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P2_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P2_Term_3_Level_Letter_2026.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P2_Term_4_Level_Letter_2026.pdf), [Tips and Strategies for Parents](/files/2026/LM%20Letter%20T4/P2_Letter__Tips_and_Strategies_for_Parents.pdf)
 <br>
-P3 - [Term 1](/files/2026/LM%20Letter%20T1/P3_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P3_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P3_Term_3_Level_Letter_2026_Final.pdf)
+P3 - [Term 1](/files/2026/LM%20Letter%20T1/P3_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P3_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P3_Term_3_Level_Letter_2026_Final.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P3_Term_4_Level_Letter_2026.pdf)
 <br>
-P4 - [Term 1](/files/2026/LM%20Letter%20T1/P4_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P4_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P4_Term_3_Level_Letter_2026_Final.pdf)
+P4 - [Term 1](/files/2026/LM%20Letter%20T1/P4_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P4_Term_2_Level_Letter_2026_final.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P4_Term_3_Level_Letter_2026_Final.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P4_Term_4_Level_Letter_2026.pdf)
 <br>
-P5 - [Term 1](/files/2026/LM%20LetterLM%20Letter%20T1/P5_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P5_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P5_Term_3_Level_Letter_2026_Final.pdf)
+P5 - [Term 1](/files/2026/LM%20LetterLM%20Letter%20T1/P5_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P5_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P5_Term_3_Level_Letter_2026_Final.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P5_Term_4_Level_Letter_2026.pdf)
 <br>
-P6 - [Term 1](/files/2026/LM%20Letter%20T1/P6_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P6_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P6_Term_3_Level_Letter_2026_Final.pdf)
+P6 - [Term 1](/files/2026/LM%20Letter%20T1/P6_Term_1_Level_Letter_2026.pdf), [Term 2,](/files/2026/LM%20Letter%20T2/P6_Term_2_Level_Letter_2026.pdf) [Term 3](/files/2026/LM%20Letter%20T3/P6_Term_3_Level_Letter_2026_Final.pdf), [Term 4](/files/2026/LM%20Letter%20T4/P6_Term_4_Level_Letter_2026.pdf)
 
 [Guide for Absence Notification](/files/2026/LM%20Letter%20T3/Annex_1_School_Assessment_Policy.pdf) <br>
 [School Absence Policy](/files/2026/LM%20Letter%20T3/Annex_1_School_Assessment_Policy.pdf)
